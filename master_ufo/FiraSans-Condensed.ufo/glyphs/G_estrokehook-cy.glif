@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <advance width="516"/>
+  <unicode hex="04FA"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="180" y="0" name="bottomright"/>
+  <anchor x="262" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="88" y="75" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="246" y="0" type="line"/>
+      <point x="246" y="75" type="line"/>
+    </contour>
+    <component base="Ghestroke-cy"/>
+    <component base="hookHELPER.case" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

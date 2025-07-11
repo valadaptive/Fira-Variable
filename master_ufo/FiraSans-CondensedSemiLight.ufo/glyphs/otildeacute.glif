@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildeacute" format="2">
+  <advance width="461"/>
+  <unicode hex="1E4D"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="293" y="0" name="ogonek"/>
+  <anchor x="237" y="819" name="top"/>
+  <anchor x="373" y="520" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildeacute" xOffset="91"/>
+  </outline>
+</glyph>

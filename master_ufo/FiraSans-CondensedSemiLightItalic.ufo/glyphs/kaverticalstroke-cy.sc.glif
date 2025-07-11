@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy.sc" format="2">
+  <advance width="407"/>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="252" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="419" y="567" type="line"/>
+      <point x="384" y="554"/>
+      <point x="369" y="549"/>
+      <point x="332" y="488" type="curve" smooth="yes"/>
+      <point x="222" y="309" type="line"/>
+      <point x="203" y="309" type="line"/>
+      <point x="224" y="462" type="line"/>
+      <point x="200" y="462" type="line"/>
+      <point x="179" y="309" type="line"/>
+      <point x="139" y="309" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="145" y="560" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="136" y="282" type="line"/>
+      <point x="174" y="282" type="line"/>
+      <point x="153" y="129" type="line"/>
+      <point x="177" y="129" type="line"/>
+      <point x="198" y="282" type="line"/>
+      <point x="222" y="282" type="line"/>
+      <point x="334" y="0" type="line"/>
+      <point x="365" y="0" type="line"/>
+      <point x="246" y="297" type="line"/>
+      <point x="351" y="470" type="line" smooth="yes"/>
+      <point x="387" y="530"/>
+      <point x="398" y="535"/>
+      <point x="427" y="545" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

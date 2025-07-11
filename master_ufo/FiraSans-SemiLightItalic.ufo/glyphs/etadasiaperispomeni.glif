@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaperispomeni" format="2">
+  <advance width="584"/>
+  <unicode hex="1F27"/>
+  <anchor x="93" y="0" name="bottom"/>
+  <anchor x="315" y="520" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaperispomeni" xOffset="86"/>
+  </outline>
+</glyph>

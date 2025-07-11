@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutebelowcomb" format="2">
+  <unicode hex="0317"/>
+  <anchor x="63" y="0" name="_bottom"/>
+  <anchor x="49" y="-139" name="bottom"/>
+  <outline>
+    <component base="acutecomb.case" xOffset="-128" yOffset="-910"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>226</integer>
+    </dict>
+  </lib>
+</glyph>

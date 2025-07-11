@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turnedhfishhookandtail" format="2">
+  <advance width="676"/>
+  <unicode hex="02AF"/>
+  <anchor x="220" y="-201" name="bottom"/>
+  <anchor x="343" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="342" y="-215" type="line"/>
+      <point x="430" y="-204" type="line"/>
+      <point x="533" y="527" type="line"/>
+      <point x="446" y="527" type="line"/>
+      <point x="403" y="211" type="line"/>
+      <point x="366" y="133"/>
+      <point x="320" y="62"/>
+      <point x="269" y="62" type="curve" smooth="yes"/>
+      <point x="240" y="62"/>
+      <point x="221" y="84"/>
+      <point x="231" y="159" type="curve" smooth="yes"/>
+      <point x="254" y="326" type="line"/>
+      <point x="168" y="326" type="line"/>
+      <point x="143" y="154" type="line" smooth="yes"/>
+      <point x="128" y="52"/>
+      <point x="166" y="-12"/>
+      <point x="240" y="-12" type="curve" smooth="yes"/>
+      <point x="299" y="-12"/>
+      <point x="350" y="34"/>
+      <point x="387" y="102" type="curve"/>
+    </contour>
+    <component base="hookHELPERright" xScale="-1" yScale="-1" xOffset="249" yOffset="326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

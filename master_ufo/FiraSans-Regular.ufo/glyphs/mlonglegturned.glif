@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mlonglegturned" format="2">
+  <advance width="857"/>
+  <unicode hex="0270"/>
+  <anchor x="429" y="527" name="top"/>
+  <anchor x="429" y="-202" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="670" y="109" type="line"/>
+      <point x="670" y="-202" type="line"/>
+      <point x="762" y="-213" type="line"/>
+      <point x="762" y="109" type="line"/>
+    </contour>
+    <component base="mturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

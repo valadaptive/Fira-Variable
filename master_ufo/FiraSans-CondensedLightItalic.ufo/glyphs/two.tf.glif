@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="283" y="690" type="curve" smooth="yes"/>
+      <point x="219" y="690"/>
+      <point x="175" y="657"/>
+      <point x="128" y="602" type="curve"/>
+      <point x="130" y="601" type="line"/>
+      <point x="176" y="656"/>
+      <point x="220" y="688"/>
+      <point x="283" y="688" type="curve" smooth="yes"/>
+      <point x="361" y="688"/>
+      <point x="397" y="633"/>
+      <point x="397" y="556" type="curve" smooth="yes"/>
+      <point x="397" y="441"/>
+      <point x="368" y="370"/>
+      <point x="21" y="2" type="curve"/>
+      <point x="21" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="319" y="2" type="line"/>
+      <point x="24" y="2" type="line"/>
+      <point x="368" y="367"/>
+      <point x="399" y="440"/>
+      <point x="399" y="556" type="curve" smooth="yes"/>
+      <point x="399" y="634"/>
+      <point x="363" y="690"/>
+    </contour>
+  </outline>
+</glyph>

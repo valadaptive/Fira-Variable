@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustrait-cy" format="2">
+  <advance width="452"/>
+  <unicode hex="04AF"/>
+  <anchor x="262.541" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="469" y="520" type="line"/>
+      <point x="436" y="520" type="line"/>
+      <point x="200" y="53" type="line"/>
+      <point x="91" y="520" type="line"/>
+      <point x="57" y="520" type="line"/>
+      <point x="182" y="19" type="line"/>
+      <point x="151" y="-199" type="line"/>
+      <point x="181" y="-193" type="line"/>
+      <point x="211" y="19" type="line"/>
+    </contour>
+  </outline>
+</glyph>

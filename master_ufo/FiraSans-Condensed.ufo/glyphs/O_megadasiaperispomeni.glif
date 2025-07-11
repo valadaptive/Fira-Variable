@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaperispomeni" format="2">
+  <advance width="760"/>
+  <unicode hex="1F6F"/>
+  <anchor x="279" y="689" name="_topleft"/>
+  <anchor x="475" y="689" name="top"/>
+  <anchor x="477" y="0" name="bottom"/>
+  <anchor x="283" y="689" name="topleft"/>
+  <outline>
+    <component base="dasiaperispomeni.case"/>
+    <component base="Omega" xOffset="193"/>
+  </outline>
+</glyph>

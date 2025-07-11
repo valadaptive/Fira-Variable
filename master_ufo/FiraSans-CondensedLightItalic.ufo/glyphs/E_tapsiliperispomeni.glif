@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsiliperispomeni" format="2">
+  <advance width="630"/>
+  <unicode hex="1F2E"/>
+  <anchor x="80" y="470" name="_top"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="495" y="0" name="bottomright"/>
+  <anchor x="372" y="340" name="center"/>
+  <anchor x="419" y="680" name="top"/>
+  <anchor x="217" y="680" name="topleft"/>
+  <outline>
+    <component base="psiliperispomeni.case"/>
+    <component base="Eta" xOffset="93"/>
+  </outline>
+</glyph>

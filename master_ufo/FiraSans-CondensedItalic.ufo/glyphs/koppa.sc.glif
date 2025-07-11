@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppa.sc" format="2">
+  <advance width="345"/>
+  <anchor x="142" y="0" name="bottom"/>
+  <anchor x="221" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="339" y="250" type="line"/>
+      <point x="262" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="39" y="250" type="line"/>
+      <point x="338" y="250" type="line"/>
+      <point x="331" y="322" type="line"/>
+      <point x="33" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="299" type="line"/>
+      <point x="294" y="564" type="line"/>
+      <point x="199" y="564" type="line"/>
+      <point x="32" y="322" type="line"/>
+    </contour>
+  </outline>
+</glyph>

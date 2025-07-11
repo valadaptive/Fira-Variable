@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gsingle" format="2">
+  <advance width="575"/>
+  <unicode hex="0261"/>
+  <anchor x="278" y="-193" name="bottom"/>
+  <anchor x="285" y="520" name="top"/>
+  <outline>
+    <component base="g.alt1"/>
+  </outline>
+</glyph>

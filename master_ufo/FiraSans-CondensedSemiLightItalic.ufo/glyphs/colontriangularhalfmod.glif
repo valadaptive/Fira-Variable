@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colontriangularhalfmod" format="2">
+  <advance width="165"/>
+  <unicode hex="02D1"/>
+  <outline>
+    <contour>
+      <point x="96" y="373" type="line"/>
+      <point x="110" y="373" type="line"/>
+      <point x="150" y="457" type="line"/>
+      <point x="82" y="457" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghemiddlehook-cy.sc" format="2">
+  <advance width="538"/>
+  <anchor x="269" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="367" y="557" type="line"/>
+      <point x="155" y="557" type="line"/>
+      <point x="156" y="555" type="line"/>
+      <point x="367" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="557" type="line"/>
+      <point x="155" y="557" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="79" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="275" y="349" type="curve" smooth="yes"/>
+      <point x="211" y="349"/>
+      <point x="162" y="316"/>
+      <point x="114" y="255" type="curve"/>
+      <point x="114" y="252" type="line"/>
+      <point x="163" y="315"/>
+      <point x="211" y="347"/>
+      <point x="275" y="347" type="curve" smooth="yes"/>
+      <point x="359" y="347"/>
+      <point x="384" y="289"/>
+      <point x="373" y="213" type="curve" smooth="yes"/>
+      <point x="343" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="375" y="213" type="line" smooth="yes"/>
+      <point x="386" y="290"/>
+      <point x="360" y="349"/>
+    </contour>
+    <component base="hookHELPER" xOffset="206"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPPP</string>
+    </dict>
+  </lib>
+</glyph>

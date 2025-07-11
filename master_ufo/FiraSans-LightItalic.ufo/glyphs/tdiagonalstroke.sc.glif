@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdiagonalstroke.sc" format="2">
+  <advance width="414"/>
+  <anchor x="170.67" y="0" name="bottom"/>
+  <anchor x="248.951" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="369" y="597" type="line"/>
+      <point x="41" y="-47" type="line"/>
+      <point x="43" y="-47" type="line"/>
+      <point x="371" y="597" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="557" type="line"/>
+      <point x="62" y="557" type="line"/>
+      <point x="62" y="555" type="line"/>
+      <point x="248" y="555" type="line"/>
+      <point x="170" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="250" y="555" type="line"/>
+      <point x="436" y="555" type="line"/>
+    </contour>
+  </outline>
+</glyph>

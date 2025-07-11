@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilonhookSymbol" format="2">
+  <advance width="412"/>
+  <unicode hex="03D2"/>
+  <anchor x="176" y="0" name="bottom"/>
+  <anchor x="272" y="680" name="top"/>
+  <anchor x="77" y="680" name="topleft"/>
+  <outline>
+    <component base="Yhook"/>
+  </outline>
+</glyph>

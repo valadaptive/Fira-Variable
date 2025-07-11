@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vturned.sc" format="2">
+  <advance width="343"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="197" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="195" y="531" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="214" y="560" type="line"/>
+      <point x="178" y="560" type="line"/>
+    </contour>
+  </outline>
+</glyph>

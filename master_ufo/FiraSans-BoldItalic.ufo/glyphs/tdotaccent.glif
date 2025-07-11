@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotaccent" format="2">
+  <advance width="389"/>
+  <unicode hex="1E6B"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="192" y="267" name="center"/>
+  <anchor x="255" y="908" name="top"/>
+  <anchor x="334" y="809" name="topright"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotaccentcomb.case" xOffset="21" yOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

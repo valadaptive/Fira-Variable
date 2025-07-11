@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlongleg" format="2">
+  <advance width="410"/>
+  <unicode hex="027C"/>
+  <anchor x="116" y="-214" name="bottom"/>
+  <anchor x="194" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="21" y="1" type="line"/>
+      <point x="21" y="-226" type="line"/>
+      <point x="211" y="-207" type="line"/>
+      <point x="211" y="1" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

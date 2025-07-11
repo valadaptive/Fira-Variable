@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shcha-cy" format="2">
+  <advance width="649"/>
+  <unicode hex="0449"/>
+  <anchor x="325" y="0" name="bottom"/>
+  <anchor x="587" y="0" name="bottomright"/>
+  <anchor x="325" y="527" name="top"/>
+  <outline>
+    <component base="sha-cy"/>
+    <component base="descStraight-cy" xOffset="622"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

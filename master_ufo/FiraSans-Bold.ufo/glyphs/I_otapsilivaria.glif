@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsilivaria" format="2">
+  <advance width="750"/>
+  <unicode hex="1F3A"/>
+  <anchor x="490" y="696" name="_topleft"/>
+  <anchor x="604" y="696" name="top"/>
+  <anchor x="604" y="0" name="bottom"/>
+  <anchor x="671" y="0" name="ogonek"/>
+  <anchor x="501" y="696" name="topleft"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Iota" xOffset="458"/>
+  </outline>
+</glyph>

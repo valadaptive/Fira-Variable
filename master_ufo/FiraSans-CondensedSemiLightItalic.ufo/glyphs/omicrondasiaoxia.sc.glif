@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicrondasiaoxia.sc" format="2">
+  <advance width="507"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="309" y="560" name="top"/>
+  <anchor x="460" y="560" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+  </outline>
+</glyph>

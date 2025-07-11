@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphamacron" format="2">
+  <advance width="558"/>
+  <unicode hex="1FB9"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="506" y="0" name="ogonek"/>
+  <anchor x="360" y="838" name="top"/>
+  <anchor x="229" y="682" name="topleft"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="macroncomb.case" xOffset="141"/>
+  </outline>
+</glyph>

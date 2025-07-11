@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pedescender-cy" format="2">
+  <advance width="581"/>
+  <unicode hex="0525"/>
+  <anchor x="253.959" y="0.0" name="bottom"/>
+  <anchor x="439" y="0" name="bottomright"/>
+  <anchor x="327.041" y="520.0" name="top"/>
+  <outline>
+    <component base="pe-cy"/>
+    <component base="descStraight-cy" xOffset="432"/>
+  </outline>
+</glyph>

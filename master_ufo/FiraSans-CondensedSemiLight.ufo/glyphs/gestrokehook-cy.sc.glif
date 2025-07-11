@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy.sc" format="2">
+  <advance width="399"/>
+  <anchor x="98" y="0" name="bottom"/>
+  <anchor x="120" y="0" name="bottomright"/>
+  <anchor x="206" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="112" y="28" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="28" type="line"/>
+    </contour>
+    <component base="ghestroke-cy.sc"/>
+    <component base="hookHELPER" xOffset="-41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria" format="2">
+  <advance width="342"/>
+  <unicode hex="1FCD"/>
+  <anchor x="141" y="527" name="_top"/>
+  <outline>
+    <contour>
+      <point x="217" y="797" type="line"/>
+      <point x="140" y="776" type="line"/>
+      <point x="201" y="578" type="line"/>
+      <point x="255" y="593" type="line"/>
+    </contour>
+    <component base="psili"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

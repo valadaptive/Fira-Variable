@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u-cy.sc" format="2">
+  <advance width="391"/>
+  <anchor x="165" y="0" name="bottom"/>
+  <anchor x="246" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="447" y="564" type="line"/>
+      <point x="357" y="564" type="line"/>
+      <point x="204" y="206" type="line"/>
+      <point x="135" y="564" type="line"/>
+      <point x="46" y="564" type="line"/>
+      <point x="142" y="154" type="line"/>
+      <point x="171" y="156" type="line"/>
+      <point x="137" y="89"/>
+      <point x="108" y="67"/>
+      <point x="43" y="53" type="curve"/>
+      <point x="48" y="-11" type="line"/>
+      <point x="149" y="5"/>
+      <point x="204" y="40"/>
+      <point x="258" y="156" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

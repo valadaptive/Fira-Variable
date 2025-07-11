@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotbelow.sc" format="2">
+  <advance width="512"/>
+  <anchor x="189" y="-146" name="bottom"/>
+  <anchor x="309" y="560" name="top"/>
+  <anchor x="460" y="560" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="dotbelowcomb" xOffset="189"/>
+  </outline>
+</glyph>

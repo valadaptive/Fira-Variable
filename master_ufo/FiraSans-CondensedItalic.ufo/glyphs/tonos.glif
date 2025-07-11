@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos" format="2">
+  <advance width="171"/>
+  <unicode hex="0384"/>
+  <anchor x="99" y="527" name="_top"/>
+  <outline>
+    <contour>
+      <point x="141" y="808" type="line"/>
+      <point x="81" y="606" type="line"/>
+      <point x="140" y="596" type="line"/>
+      <point x="228" y="790" type="line"/>
+    </contour>
+  </outline>
+</glyph>

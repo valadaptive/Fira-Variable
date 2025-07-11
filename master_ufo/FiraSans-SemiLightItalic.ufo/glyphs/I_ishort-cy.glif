@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iishort-cy" format="2">
+  <advance width="664"/>
+  <unicode hex="0419"/>
+  <anchor x="295.459" y="0.0" name="bottom"/>
+  <anchor x="517" y="0" name="bottomright"/>
+  <anchor x="392" y="682" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="breve-cy.case" xOffset="222"/>
+  </outline>
+</glyph>

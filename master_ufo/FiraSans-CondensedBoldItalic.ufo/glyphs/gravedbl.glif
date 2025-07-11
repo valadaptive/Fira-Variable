@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravedbl" format="2">
+  <advance width="259"/>
+  <anchor x="213" y="533" name="_top"/>
+  <anchor x="279" y="533" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="205" y="838" type="line"/>
+      <point x="95" y="743" type="line"/>
+      <point x="220" y="595" type="line"/>
+      <point x="296" y="655" type="line"/>
+    </contour>
+  </outline>
+</glyph>

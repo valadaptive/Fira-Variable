@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred.sc" format="2">
+  <advance width="619"/>
+  <anchor x="272.959" y="0.0" name="bottom"/>
+  <anchor x="351.662" y="560.0" name="top"/>
+  <outline>
+    <component base="fita-cy.sc"/>
+  </outline>
+</glyph>

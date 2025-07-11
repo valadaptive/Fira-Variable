@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy" format="2">
+  <advance width="696"/>
+  <unicode hex="0448"/>
+  <anchor x="391" y="520" name="top"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="581" y="0" name="bottomright"/>
+  <outline>
+    <component base="m" xScale="-1" yScale="-1" xOffset="709" yOffset="520"/>
+  </outline>
+</glyph>

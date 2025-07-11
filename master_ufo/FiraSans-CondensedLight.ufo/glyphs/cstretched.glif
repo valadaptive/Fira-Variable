@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cstretched" format="2">
+  <advance width="404"/>
+  <unicode hex="0297"/>
+  <anchor x="253" y="-188" name="bottom"/>
+  <anchor x="255" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="255" y="527" type="curve" smooth="yes"/>
+      <point x="147" y="527"/>
+      <point x="85" y="406"/>
+      <point x="85" y="166" type="curve" smooth="yes"/>
+      <point x="85" y="-77"/>
+      <point x="148" y="-192"/>
+      <point x="253" y="-192" type="curve" smooth="yes"/>
+      <point x="299" y="-192"/>
+      <point x="332" y="-170"/>
+      <point x="359" y="-139" type="curve"/>
+      <point x="357" y="-138" type="line"/>
+      <point x="330" y="-169"/>
+      <point x="297" y="-190"/>
+      <point x="253" y="-190" type="curve" smooth="yes"/>
+      <point x="149" y="-190"/>
+      <point x="87" y="-75"/>
+      <point x="87" y="166" type="curve" smooth="yes"/>
+      <point x="87" y="404"/>
+      <point x="149" y="525"/>
+      <point x="255" y="525" type="curve" smooth="yes"/>
+      <point x="293" y="525"/>
+      <point x="325" y="509"/>
+      <point x="354" y="476" type="curve"/>
+      <point x="356" y="477" type="line"/>
+      <point x="327" y="510"/>
+      <point x="294" y="527"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhook.sc" format="2">
+  <advance width="458"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="241" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="139" y="0" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="329" y="209" type="line"/>
+      <point x="403" y="421" type="line" smooth="yes"/>
+      <point x="411" y="445"/>
+      <point x="419" y="454"/>
+      <point x="434" y="454" type="curve" smooth="yes"/>
+      <point x="444" y="454"/>
+      <point x="450" y="452"/>
+      <point x="456" y="450" type="curve"/>
+      <point x="480" y="573" type="line"/>
+      <point x="457" y="581"/>
+      <point x="434" y="586"/>
+      <point x="404" y="586" type="curve" smooth="yes"/>
+      <point x="316" y="586"/>
+      <point x="274" y="548"/>
+      <point x="257" y="450" type="curve" smooth="yes"/>
+      <point x="238" y="347" type="line"/>
+      <point x="188" y="570" type="line"/>
+      <point x="-18" y="570" type="line"/>
+      <point x="139" y="209" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kadescender-cy" format="2">
+  <advance width="644"/>
+  <unicode hex="049A"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="589" y="0" name="bottomright"/>
+  <anchor x="322" y="696" name="top"/>
+  <outline>
+    <component base="Ka-cy"/>
+    <component base="descStraight-cy.case" xOffset="417"/>
+  </outline>
+</glyph>

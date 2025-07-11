@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D74" format="2">
+  <advance width="467"/>
+  <unicode hex="1D74"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <anchor x="235" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="78" y="206" type="line"/>
+      <point x="91" y="234"/>
+      <point x="105" y="261"/>
+      <point x="141" y="261" type="curve"/>
+      <point x="146" y="320" type="line"/>
+      <point x="80" y="330"/>
+      <point x="47" y="277"/>
+      <point x="29" y="236" type="curve"/>
+    </contour>
+    <contour>
+      <point x="266" y="229" type="line"/>
+      <point x="331" y="219"/>
+      <point x="364" y="268"/>
+      <point x="381" y="308" type="curve"/>
+      <point x="332" y="339" type="line"/>
+      <point x="319" y="311"/>
+      <point x="305" y="290"/>
+      <point x="271" y="290" type="curve"/>
+    </contour>
+    <component base="s"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

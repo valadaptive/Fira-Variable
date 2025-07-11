@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexgrave.sc" format="2">
+  <advance width="515"/>
+  <anchor x="213" y="0" name="bottom"/>
+  <anchor x="323" y="834" name="top"/>
+  <anchor x="389" y="719" name="topright"/>
+  <anchor x="223" y="719" name="topleft"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="circumflexgrave" xOffset="-88" yOffset="38"/>
+  </outline>
+</glyph>

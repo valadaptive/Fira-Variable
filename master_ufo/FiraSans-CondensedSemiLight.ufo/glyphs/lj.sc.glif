@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lj.sc" format="2">
+  <advance width="565"/>
+  <anchor x="456" y="-193" name="bottom"/>
+  <anchor x="277" y="316" name="center"/>
+  <anchor x="458" y="560" name="top"/>
+  <anchor x="151" y="560" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="j.sc" xOffset="347"/>
+  </outline>
+</glyph>

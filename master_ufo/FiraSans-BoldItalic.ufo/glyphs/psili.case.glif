@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psili.case" format="2">
+  <advance width="234"/>
+  <anchor x="179" y="389" name="_top"/>
+  <anchor x="258" y="713" name="top"/>
+  <outline>
+    <component base="psili" xOffset="57" yOffset="-145"/>
+  </outline>
+</glyph>

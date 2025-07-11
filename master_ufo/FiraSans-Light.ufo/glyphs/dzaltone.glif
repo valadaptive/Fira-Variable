@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzaltone" format="2">
+  <advance width="841"/>
+  <unicode hex="02A3"/>
+  <anchor x="420.5" y="0" name="bottom"/>
+  <anchor x="289" y="259" name="center"/>
+  <anchor x="420.5" y="727" name="top"/>
+  <anchor x="497" y="727" name="topright"/>
+  <outline>
+    <contour>
+      <point x="801" y="517" type="line"/>
+      <point x="446" y="517" type="line"/>
+      <point x="446" y="515" type="line"/>
+      <point x="798" y="515" type="line"/>
+      <point x="446" y="2" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="790" y="0" type="line"/>
+      <point x="790" y="2" type="line"/>
+      <point x="449" y="2" type="line"/>
+      <point x="801" y="515" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="483"/>
+  <unicode hex="048B"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="398" y="0" name="bottomright"/>
+  <anchor x="241" y="520" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="breve-cy" xOffset="120"/>
+    <component base="descTail-cy" xOffset="358"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>descTail-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

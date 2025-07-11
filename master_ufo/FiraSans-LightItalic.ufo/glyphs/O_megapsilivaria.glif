@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilivaria" format="2">
+  <advance width="789"/>
+  <unicode hex="1F6A"/>
+  <anchor x="214" y="680" name="_topleft"/>
+  <anchor x="504" y="680" name="top"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="266" y="680" name="topleft"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Omega" xOffset="102"/>
+  </outline>
+</glyph>

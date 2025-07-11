@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilonacutehookSymbol" format="2">
+  <advance width="607"/>
+  <unicode hex="03D3"/>
+  <anchor x="100" y="682" name="_topleft"/>
+  <anchor x="348.5" y="0.0" name="bottom"/>
+  <anchor x="348.5" y="682.0" name="top"/>
+  <anchor x="105" y="682" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="UpsilonhookSymbol" xOffset="90"/>
+  </outline>
+</glyph>

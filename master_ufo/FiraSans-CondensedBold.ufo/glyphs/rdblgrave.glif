@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdblgrave" format="2">
+  <advance width="347"/>
+  <unicode hex="0211"/>
+  <anchor x="122" y="0" name="bottom"/>
+  <anchor x="163" y="875" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="dblgravecomb" xOffset="-45" yOffset="1"/>
+  </outline>
+</glyph>

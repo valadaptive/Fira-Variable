@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildemacron.sc" format="2">
+  <advance width="509"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="313" y="0" name="ogonek"/>
+  <anchor x="266" y="796" name="top"/>
+  <anchor x="88" y="560" name="topleft"/>
+  <anchor x="404" y="560" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="tildemacroncomb" xOffset="114" yOffset="40"/>
+  </outline>
+</glyph>

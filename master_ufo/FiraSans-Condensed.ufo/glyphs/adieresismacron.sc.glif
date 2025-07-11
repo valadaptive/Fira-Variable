@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresismacron.sc" format="2">
+  <advance width="416"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="397" y="0" name="ogonek"/>
+  <anchor x="218" y="894" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="dieresismacroncomb" xOffset="44" yOffset="37"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eturned" format="2">
+  <advance width="469"/>
+  <unicode hex="01DD"/>
+  <anchor x="259" y="533" name="top"/>
+  <anchor x="114" y="523" name="ogonek"/>
+  <anchor x="187" y="0" name="bottom"/>
+  <outline>
+    <component base="schwa"/>
+  </outline>
+</glyph>

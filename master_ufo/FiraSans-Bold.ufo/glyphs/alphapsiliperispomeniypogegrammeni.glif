@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsiliperispomeniypogegrammeni" format="2">
+  <advance width="603"/>
+  <unicode hex="1F86"/>
+  <anchor x="335" y="-212" name="bottom"/>
+  <anchor x="285" y="1000" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psiliperispomeni" xOffset="72"/>
+    <component base="ypogegrammenicomb" xOffset="161"/>
+  </outline>
+</glyph>

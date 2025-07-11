@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thetaSymbol.sc" format="2">
+  <advance width="601"/>
+  <anchor x="262.976" y="0.0" name="bottom"/>
+  <anchor x="343.224" y="571.0" name="top"/>
+  <outline>
+    <component base="theta.sc"/>
+  </outline>
+</glyph>

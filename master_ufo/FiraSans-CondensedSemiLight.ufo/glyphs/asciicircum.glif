@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum" format="2">
+  <advance width="431"/>
+  <unicode hex="005E"/>
+  <outline>
+    <contour>
+      <point x="227" y="826" type="line"/>
+      <point x="204" y="826" type="line"/>
+      <point x="55" y="527" type="line"/>
+      <point x="91" y="527" type="line"/>
+      <point x="215" y="788" type="line"/>
+      <point x="338" y="527" type="line"/>
+      <point x="376" y="527" type="line"/>
+    </contour>
+  </outline>
+</glyph>

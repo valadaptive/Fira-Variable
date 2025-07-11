@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasiavaria" format="2">
+  <advance width="662"/>
+  <unicode hex="1F1B"/>
+  <anchor x="293" y="689" name="_topleft"/>
+  <anchor x="464" y="689" name="top"/>
+  <anchor x="465" y="0" name="bottom"/>
+  <anchor x="602" y="0" name="ogonek"/>
+  <anchor x="295" y="689" name="topleft"/>
+  <outline>
+    <component base="dasiavaria.case"/>
+    <component base="Epsilon" xOffset="229"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fita-cy" format="2">
+  <advance width="564"/>
+  <unicode hex="0472"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="282" y="680" name="top"/>
+  <outline>
+    <component base="Obarred-cy"/>
+  </outline>
+</glyph>

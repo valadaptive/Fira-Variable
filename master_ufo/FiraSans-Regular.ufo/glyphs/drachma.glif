@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="drachma" format="2">
+  <advance width="1181"/>
+  <unicode hex="20AF"/>
+  <anchor x="887" y="-202" name="bottom"/>
+  <anchor x="897" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="308" y="0" type="line" smooth="yes"/>
+      <point x="457" y="0"/>
+      <point x="632" y="67"/>
+      <point x="632" y="338" type="curve" smooth="yes"/>
+      <point x="632" y="614"/>
+      <point x="463" y="669"/>
+      <point x="287" y="669" type="curve"/>
+      <point x="184" y="669" type="line"/>
+      <point x="184" y="594" type="line"/>
+      <point x="308" y="594" type="line"/>
+      <point x="418" y="593"/>
+      <point x="531" y="561"/>
+      <point x="531" y="338" type="curve" smooth="yes"/>
+      <point x="531" y="121"/>
+      <point x="423" y="76"/>
+      <point x="315" y="75" type="curve" smooth="yes"/>
+      <point x="135" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="0" type="line"/>
+      <point x="208" y="74" type="line"/>
+      <point x="263" y="105"/>
+      <point x="278" y="139"/>
+      <point x="278" y="204" type="curve" smooth="yes"/>
+      <point x="278" y="547" type="line"/>
+      <point x="184" y="547" type="line"/>
+      <point x="183" y="205" type="line" smooth="yes"/>
+      <point x="183" y="123"/>
+      <point x="169" y="98"/>
+      <point x="101" y="73" type="curve"/>
+    </contour>
+    <component base="rho" xOffset="597"/>
+    <component base="hookaboveHELPER2.case" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPP</string>
+    </dict>
+  </lib>
+</glyph>

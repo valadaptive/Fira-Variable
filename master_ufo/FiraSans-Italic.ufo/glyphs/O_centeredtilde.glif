@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance width="685"/>
+  <unicode hex="019F"/>
+  <anchor x="305.467" y="0.0" name="bottom"/>
+  <anchor x="403" y="689" name="top"/>
+  <outline>
+    <component base="Fita-cy"/>
+  </outline>
+</glyph>

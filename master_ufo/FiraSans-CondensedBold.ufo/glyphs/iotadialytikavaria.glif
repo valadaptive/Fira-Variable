@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadialytikavaria" format="2">
+  <advance width="230"/>
+  <unicode hex="1FD2"/>
+  <anchor x="115" y="0" name="bottom"/>
+  <anchor x="112" y="533" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresisgravecomb" xOffset="-117"/>
+  </outline>
+</glyph>

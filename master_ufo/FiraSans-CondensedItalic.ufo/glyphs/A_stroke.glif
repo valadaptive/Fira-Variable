@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Astroke" format="2">
+  <advance width="468"/>
+  <unicode hex="023A"/>
+  <anchor x="203" y="0" name="bottom"/>
+  <anchor x="300" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="390" y="749" type="line"/>
+      <point x="100" y="-59" type="line"/>
+      <point x="138" y="-70" type="line"/>
+      <point x="428" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="689" type="line"/>
+      <point x="244" y="689" type="line"/>
+      <point x="-30" y="0" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="289" y="617" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="246" type="line"/>
+      <point x="142" y="246" type="line"/>
+      <point x="111" y="175" type="line"/>
+      <point x="338" y="175" type="line"/>
+    </contour>
+  </outline>
+</glyph>

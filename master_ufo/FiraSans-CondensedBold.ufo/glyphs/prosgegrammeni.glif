@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prosgegrammeni" format="2">
+  <advance width="402"/>
+  <unicode hex="1FBE"/>
+  <anchor x="87" y="0" name="_bottom"/>
+  <anchor x="151" y="-210" name="bottom"/>
+  <outline>
+    <component base="ypogegrammenicomb"/>
+  </outline>
+</glyph>

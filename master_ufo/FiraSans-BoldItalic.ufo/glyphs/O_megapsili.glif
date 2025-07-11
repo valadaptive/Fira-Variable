@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsili" format="2">
+  <advance width="882"/>
+  <unicode hex="1F68"/>
+  <anchor x="179" y="389" name="_top"/>
+  <anchor x="601" y="696" name="top"/>
+  <anchor x="506" y="0" name="bottom"/>
+  <anchor x="360" y="696" name="topleft"/>
+  <outline>
+    <component base="psili.case"/>
+    <component base="Omega" xOffset="204"/>
+  </outline>
+</glyph>

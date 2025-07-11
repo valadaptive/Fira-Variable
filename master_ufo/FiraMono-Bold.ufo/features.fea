@@ -1,0 +1,1047 @@
+# automatic
+@Uppercase = [ A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Oslashacute Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Dche-cy Dzzhe-cy Eldescender-cy EnLeftHook-cy A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Iishorttail-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Omega-cy Yat-cy Eiotified-cy Yuslittle-cy Yuslittleiotified-cy Yusbig-cy Yusbigiotified-cy Ksi-cy Psi-cy Fita-cy Izhitsa-cy Izhitsadblgrave-cy Uk-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Gestrokehook-cy Hahook-cy Hastroke-cy Komide-cy Komidje-cy Komizje-cy Komidzje-cy Komilje-cy Kominje-cy Komisje-cy Komitje-cy Reversedze-cy Elhook-cy Lha-cy Rha-cy Yae-cy Qa-cy We-cy Aleutka-cy Elmiddlehook-cy Enmiddlehook-cy Semisoftsign-cy Ertick-cy Yot-greek Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis Heta Archaicsampi Pamphyliandigamma KoppaArchaic Stigma Digamma Koppa Sampi KaiSymbol UpsilonhookSymbol UpsilonacutehookSymbol UpsilondieresishookSymbol ThetaSymbol Sho SigmaLunateSymbol San SigmaLunateReversedSymbol SigmaLunateDottedSymbol SigmaLunateDottedReversedSymbol Alphapsili Alphadasia Alphapsilivaria Alphadasiavaria Alphapsilioxia Alphadasiaoxia Alphapsiliperispomeni Alphadasiaperispomeni Alphavaria Alphaoxia Alphavrachy Alphamacron Alphaprosgegrammeni Alphapsiliprosgegrammeni Alphadasiaprosgegrammeni Alphapsilivariaprosgegrammeni Alphadasiavariaprosgegrammeni Alphapsilioxiaprosgegrammeni Alphadasiaoxiaprosgegrammeni Alphapsiliperispomeniprosgegrammeni Alphadasiaperispomeniprosgegrammeni Epsilonpsili Epsilondasia Epsilonpsilivaria Epsilondasiavaria Epsilonpsilioxia Epsilondasiaoxia Epsilonvaria Epsilonoxia Etapsili Etadasia Etapsilivaria Etadasiavaria Etapsilioxia Etadasiaoxia Etapsiliperispomeni Etadasiaperispomeni Etavaria Etaoxia Etaprosgegrammeni Etapsiliprosgegrammeni Etadasiaprosgegrammeni Etapsilivariaprosgegrammeni Etadasiavariaprosgegrammeni Etapsilioxiaprosgegrammeni Etadasiaoxiaprosgegrammeni Etapsiliperispomeniprosgegrammeni Etadasiaperispomeniprosgegrammeni Iotapsili Iotadasia Iotapsilivaria Iotadasiavaria Iotapsilioxia Iotadasiaoxia Iotapsiliperispomeni Iotadasiaperispomeni Iotavaria Iotaoxia Iotavrachy Iotamacron Omicronpsili Omicrondasia Omicronpsilivaria Omicrondasiavaria Omicronpsilioxia Omicrondasiaoxia Omicronvaria Omicronoxia Rhodasia Upsilondasia Upsilondasiavaria Upsilondasiaoxia Upsilondasiaperispomeni Upsilonvaria Upsilonoxia Upsilonvrachy Upsilonmacron Omegapsili Omegadasia Omegapsilivaria Omegadasiavaria Omegapsilioxia Omegadasiaoxia Omegapsiliperispomeni Omegadasiaperispomeni Omegavaria Omegaoxia Omegaprosgegrammeni Omegapsiliprosgegrammeni Omegadasiaprosgegrammeni Omegapsilivariaprosgegrammeni Omegadasiavariaprosgegrammeni Omegapsilioxiaprosgegrammeni Omegadasiaoxiaprosgegrammeni Omegapsiliperispomeniprosgegrammeni Omegadasiaperispomeniprosgegrammeni
+];
+
+@GreekUC = [ Alpha
+Beta
+Gamma
+Delta
+Epsilon
+Zeta
+Eta
+Theta
+Iota
+Kappa
+Lambda
+Mu
+Nu
+Xi
+Omicron
+Pi
+Rho
+Sigma
+Tau
+Upsilon
+Phi
+Chi
+Psi
+Omega
+Alphatonos
+Epsilontonos
+Etatonos
+Iotatonos
+Omicrontonos
+Upsilontonos
+Omegatonos
+Iotadieresis
+Upsilondieresis
+Alphapsili
+Alphadasia
+Alphapsilivaria
+Alphadasiavaria
+Alphapsilioxia
+Alphadasiaoxia
+Alphapsiliperispomeni
+Alphadasiaperispomeni
+Alphavaria
+Alphaoxia
+Alphavrachy
+Alphamacron
+Alphaprosgegrammeni
+Alphapsiliprosgegrammeni
+Alphadasiaprosgegrammeni
+Alphapsilivariaprosgegrammeni
+Alphadasiavariaprosgegrammeni
+Alphapsilioxiaprosgegrammeni
+Alphadasiaoxiaprosgegrammeni
+Alphapsiliperispomeniprosgegrammeni
+Alphadasiaperispomeniprosgegrammeni
+Epsilonpsili
+Epsilondasia
+Epsilonpsilivaria
+Epsilondasiavaria
+Epsilonpsilioxia
+Epsilondasiaoxia
+Epsilonvaria
+Epsilonoxia
+Etapsili
+Etadasia
+Etapsilivaria
+Etadasiavaria
+Etapsilioxia
+Etadasiaoxia
+Etapsiliperispomeni
+Etadasiaperispomeni
+Etavaria
+Etaoxia
+Etaprosgegrammeni
+Etapsiliprosgegrammeni
+Etadasiaprosgegrammeni
+Etapsilivariaprosgegrammeni
+Etadasiavariaprosgegrammeni
+Etapsilioxiaprosgegrammeni
+Etadasiaoxiaprosgegrammeni
+Etapsiliperispomeniprosgegrammeni
+Etadasiaperispomeniprosgegrammeni
+Iotapsili
+Iotadasia
+Iotapsilivaria
+Iotadasiavaria
+Iotapsilioxia
+Iotadasiaoxia
+Iotapsiliperispomeni
+Iotadasiaperispomeni
+Iotavaria
+Iotaoxia
+Iotavrachy
+Iotamacron
+Omicronpsili
+Omicrondasia
+Omicronpsilivaria
+Omicrondasiavaria
+Omicronpsilioxia
+Omicrondasiaoxia
+Omicronvaria
+Omicronoxia
+Rhodasia
+Upsilondasia
+Upsilondasiavaria
+Upsilondasiaoxia
+Upsilondasiaperispomeni
+Upsilonvaria
+Upsilonoxia
+Upsilonvrachy
+Upsilonmacron
+Omegapsili
+Omegadasia
+Omegapsilivaria
+Omegadasiavaria
+Omegapsilioxia
+Omegadasiaoxia
+Omegapsiliperispomeni
+Omegadasiaperispomeni
+Omegavaria
+Omegaoxia
+Omegaprosgegrammeni
+Omegapsiliprosgegrammeni
+Omegadasiaprosgegrammeni
+Omegapsilivariaprosgegrammeni
+Omegadasiavariaprosgegrammeni
+Omegapsilioxiaprosgegrammeni
+Omegadasiaoxiaprosgegrammeni
+Omegapsiliperispomeniprosgegrammeni
+Omegadasiaperispomeniprosgegrammeni
+];
+
+@GreekUCAcc = [ Alphatonos
+Epsilontonos
+Etatonos
+Iotatonos
+Omicrontonos
+Upsilontonos
+Omegatonos
+Alphapsili
+Alphadasia
+Alphapsilivaria
+Alphadasiavaria
+Alphapsilioxia
+Alphadasiaoxia
+Alphapsiliperispomeni
+Alphadasiaperispomeni
+Alphavaria
+Alphaoxia
+Alphavrachy
+Alphamacron
+Alphaprosgegrammeni
+Alphapsiliprosgegrammeni
+Alphadasiaprosgegrammeni
+Alphapsilivariaprosgegrammeni
+Alphadasiavariaprosgegrammeni
+Alphapsilioxiaprosgegrammeni
+Alphadasiaoxiaprosgegrammeni
+Alphapsiliperispomeniprosgegrammeni
+Alphadasiaperispomeniprosgegrammeni
+Epsilonpsili
+Epsilondasia
+Epsilonpsilivaria
+Epsilondasiavaria
+Epsilonpsilioxia
+Epsilondasiaoxia
+Epsilonvaria
+Epsilonoxia
+Etapsili
+Etadasia
+Etapsilivaria
+Etadasiavaria
+Etapsilioxia
+Etadasiaoxia
+Etapsiliperispomeni
+Etadasiaperispomeni
+Etavaria
+Etaoxia
+Etaprosgegrammeni
+Etapsiliprosgegrammeni
+Etadasiaprosgegrammeni
+Etapsilivariaprosgegrammeni
+Etadasiavariaprosgegrammeni
+Etapsilioxiaprosgegrammeni
+Etadasiaoxiaprosgegrammeni
+Etapsiliperispomeniprosgegrammeni
+Etadasiaperispomeniprosgegrammeni
+Iotapsili
+Iotadasia
+Iotapsilivaria
+Iotadasiavaria
+Iotapsilioxia
+Iotadasiaoxia
+Iotapsiliperispomeni
+Iotadasiaperispomeni
+Iotavaria
+Iotaoxia
+Iotavrachy
+Iotamacron
+Omicronpsili
+Omicrondasia
+Omicronpsilivaria
+Omicrondasiavaria
+Omicronpsilioxia
+Omicrondasiaoxia
+Omicronvaria
+Omicronoxia
+Rhodasia
+Upsilondasia
+Upsilondasiavaria
+Upsilondasiaoxia
+Upsilondasiaperispomeni
+Upsilonvaria
+Upsilonoxia
+Upsilonvrachy
+Upsilonmacron
+Omegapsili
+Omegadasia
+Omegapsilivaria
+Omegadasiavaria
+Omegapsilioxia
+Omegadasiaoxia
+Omegapsiliperispomeni
+Omegadasiaperispomeni
+Omegavaria
+Omegaoxia
+Omegaprosgegrammeni
+Omegapsiliprosgegrammeni
+Omegadasiaprosgegrammeni
+Omegapsilivariaprosgegrammeni
+Omegadasiavariaprosgegrammeni
+Omegapsilioxiaprosgegrammeni
+Omegadasiaoxiaprosgegrammeni
+Omegapsiliperispomeniprosgegrammeni
+Omegadasiaperispomeniprosgegrammeni
+];
+
+@GreekUCdiphIOTA = [ Alphatonos
+Epsilontonos
+Omicrontonos
+Upsilontonos
+Alphapsili
+Alphadasia
+Alphapsilivaria
+Alphadasiavaria
+Alphapsilioxia
+Alphadasiaoxia
+Alphapsiliperispomeni
+Alphadasiaperispomeni
+Alphavaria
+Alphaoxia
+Alphavrachy
+Alphamacron
+Alphaprosgegrammeni
+Alphapsiliprosgegrammeni
+Alphadasiaprosgegrammeni
+Alphapsilivariaprosgegrammeni
+Alphadasiavariaprosgegrammeni
+Alphapsilioxiaprosgegrammeni
+Alphadasiaoxiaprosgegrammeni
+Alphapsiliperispomeniprosgegrammeni
+Alphadasiaperispomeniprosgegrammeni
+Epsilonpsili
+Epsilondasia
+Epsilonpsilivaria
+Epsilondasiavaria
+Epsilonpsilioxia
+Epsilondasiaoxia
+Epsilonvaria
+Epsilonoxia
+Omicronpsili
+Omicrondasia
+Omicronpsilivaria
+Omicrondasiavaria
+Omicronpsilioxia
+Omicrondasiaoxia
+Omicronvaria
+Omicronoxia
+Upsilondasia
+Upsilondasiavaria
+Upsilondasiaoxia
+Upsilondasiaperispomeni
+Upsilonvaria
+Upsilonoxia
+Upsilonvrachy
+Upsilonmacron
+];
+
+@GreekUCdiphUPSILON = [ Alphatonos
+Epsilontonos
+Omicrontonos
+Alphapsili
+Alphadasia
+Alphapsilivaria
+Alphadasiavaria
+Alphapsilioxia
+Alphadasiaoxia
+Alphapsiliperispomeni
+Alphadasiaperispomeni
+Alphavaria
+Alphaoxia
+Alphavrachy
+Alphamacron
+Alphaprosgegrammeni
+Alphapsiliprosgegrammeni
+Alphadasiaprosgegrammeni
+Alphapsilivariaprosgegrammeni
+Alphadasiavariaprosgegrammeni
+Alphapsilioxiaprosgegrammeni
+Alphadasiaoxiaprosgegrammeni
+Alphapsiliperispomeniprosgegrammeni
+Alphadasiaperispomeniprosgegrammeni
+Epsilonpsili
+Epsilondasia
+Epsilonpsilivaria
+Epsilondasiavaria
+Epsilonpsilioxia
+Epsilondasiaoxia
+Epsilonvaria
+Epsilonoxia
+Omicronpsili
+Omicrondasia
+Omicronpsilivaria
+Omicrondasiavaria
+Omicronpsilioxia
+Omicrondasiaoxia
+Omicronvaria
+Omicronoxia
+];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn MOL;
+languagesystem latn ROM;
+languagesystem latn KAZ;
+languagesystem latn PLK;
+languagesystem latn AZE;
+languagesystem latn CAT;
+languagesystem latn CRT;
+languagesystem latn AFK;
+
+
+feature aalt {
+# automatic
+feature locl;
+feature subs;
+feature sups;
+feature numr;
+feature dnom;
+feature frac;
+feature ordn;
+feature tnum;
+feature onum;
+feature case;
+feature zero;
+feature calt;
+
+} aalt;
+
+feature locl {
+script latn;
+language TAT;
+sub i by idotaccent;
+language TRK;
+sub i by idotaccent;
+language MOL;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language ROM;
+sub Scedilla by Scommaaccent;
+sub scedilla by scommaaccent;
+sub Tcedilla by Tcommaaccent;
+sub tcedilla by tcommaaccent;
+language KAZ;
+sub i by idotaccent;
+language PLK;
+sub Cacute by Cacute.loclPLK;
+sub Nacute by Nacute.loclPLK;
+sub Oacute by Oacute.loclPLK;
+sub Sacute by Sacute.loclPLK;
+sub Zacute by Zacute.loclPLK;
+sub cacute by cacute.loclPLK;
+sub nacute by nacute.loclPLK;
+sub oacute by oacute.loclPLK;
+sub sacute by sacute.loclPLK;
+sub zacute by zacute.loclPLK;
+sub acute by acute.loclPLK;
+language AZE;
+sub i by idotaccent;
+language CAT;
+sub  l' periodcentered' l by ldot;
+sub  L' periodcentered' L by Ldot;
+language CRT;
+sub i by idotaccent;
+language AFK;
+sub quoteright n by napostrophe;
+sub quotesingle n by napostrophe;
+} locl;
+
+feature subs {
+# automatic
+sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+sub parenleft by parenleftinferior;
+sub parenright by parenrightinferior;
+sub minus by minusinferior;
+sub plus by plusinferior;
+
+} subs;
+
+feature sups {
+# automatic
+sub zero by zerosuperior;
+sub one by onesuperior;
+sub two by twosuperior;
+sub three by threesuperior;
+sub four by foursuperior;
+sub five by fivesuperior;
+sub six by sixsuperior;
+sub seven by sevensuperior;
+sub eight by eightsuperior;
+sub nine by ninesuperior;
+sub parenleft by parenleftsuperior;
+sub parenright by parenrightsuperior;
+sub equal by equalsuperior;
+sub minus by minussuperior;
+sub plus by plussuperior;
+
+} sups;
+
+feature numr {
+# automatic
+sub zero by zero.numr;
+sub one by one.numr;
+sub two by two.numr;
+sub three by three.numr;
+sub four by four.numr;
+sub five by five.numr;
+sub six by six.numr;
+sub seven by seven.numr;
+sub eight by eight.numr;
+sub nine by nine.numr;
+sub parenleft by parenleft.numr;
+sub parenright by parenright.numr;
+sub equal by equal.numr;
+sub minus by minus.numr;
+sub plus by plus.numr;
+
+} numr;
+
+feature dnom {
+# automatic
+sub zero by zero.dnom;
+sub one by one.dnom;
+sub two by two.dnom;
+sub three by three.dnom;
+sub four by four.dnom;
+sub five by five.dnom;
+sub six by six.dnom;
+sub seven by seven.dnom;
+sub eight by eight.dnom;
+sub nine by nine.dnom;
+sub parenleft by parenleft.dnom;
+sub parenright by parenright.dnom;
+sub equal by equal.dnom;
+sub minus by minus.dnom;
+sub plus by plus.dnom;
+
+} dnom;
+
+feature frac {
+# automatic
+lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+sub N o period by numero;
+
+} ordn;
+
+feature tnum {
+# automatic
+sub figurespace by figurespace.tf;
+
+} tnum;
+
+feature onum {
+# automatic
+sub zero by zero.tosf;
+sub one by one.tosf;
+sub two by two.tosf;
+sub three by three.tosf;
+sub four by four.tosf;
+sub five by five.tosf;
+sub six by six.tosf;
+sub seven by seven.tosf;
+sub eight by eight.tosf;
+sub nine by nine.tosf;
+sub numbersign by numbersign.tosf;
+sub figuredash by figuredash.tosf;
+sub figurespace by figurespace.tosf;
+sub cent by cent.tosf;
+sub currency by currency.tosf;
+sub dollar by dollar.tosf;
+sub drachma by drachma.tosf;
+sub euro by euro.tosf;
+sub liraTurkish by liraTurkish.tosf;
+sub ruble by ruble.tosf;
+sub rupeeIndian by rupeeIndian.tosf;
+sub sterling by sterling.tosf;
+sub yen by yen.tosf;
+sub approxequal by approxequal.tosf;
+sub asciitilde by asciitilde.tosf;
+sub divide by divide.tosf;
+sub equal by equal.tosf;
+sub greater by greater.tosf;
+sub greaterequal by greaterequal.tosf;
+sub infinity by infinity.tosf;
+sub integral by integral.tosf;
+sub less by less.tosf;
+sub lessequal by lessequal.tosf;
+sub logicalnot by logicalnot.tosf;
+sub minus by minus.tosf;
+sub multiply by multiply.tosf;
+sub notequal by notequal.tosf;
+sub partialdiff by partialdiff.tosf;
+sub percent by percent.tosf;
+sub perthousand by perthousand.tosf;
+sub plus by plus.tosf;
+sub plusminus by plusminus.tosf;
+sub product by product.tosf;
+sub radical by radical.tosf;
+sub summation by summation.tosf;
+sub lozenge by lozenge.tosf;
+sub section by section.tosf;
+sub degree by degree.tosf;
+sub dagger by dagger.tosf;
+sub daggerdbl by daggerdbl.tosf;
+
+} onum;
+
+feature case {
+# automatic
+sub exclamdown by exclamdown.case;
+sub questiondown by questiondown.case;
+sub braceleft by braceleft.case;
+sub braceright by braceright.case;
+sub bracketleft by bracketleft.case;
+sub bracketright by bracketright.case;
+sub parenleft by parenleft.case;
+sub parenright by parenright.case;
+sub emdash by emdash.case;
+sub endash by endash.case;
+sub hyphen by hyphen.case;
+sub softhyphen by softhyphen.case;
+sub guillemetleft by guillemetleft.case;
+sub guillemetright by guillemetright.case;
+sub guilsinglleft by guilsinglleft.case;
+sub guilsinglright by guilsinglright.case;
+sub infinity by infinity.case;
+sub commaaccent by commaaccent.case;
+sub acute by acute.case;
+sub breve by breve.case;
+sub caron by caron.case;
+sub cedilla by cedilla.case;
+sub circumflex by circumflex.case;
+sub dieresis by dieresis.case;
+sub dotaccent by dotaccent.case;
+sub grave by grave.case;
+sub hungarumlaut by hungarumlaut.case;
+sub macron by macron.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+sub tonos by tonos.case;
+sub varia by varia.case;
+sub oxia by oxia.case;
+sub breve-cy by breve-cy.case;
+
+} case;
+
+feature dlig {
+sub f i by fi;
+sub f l by fl;
+
+} dlig;
+
+feature zero {
+# automatic
+sub zero by zero.zero;
+sub zero.tosf by zero.tosf.zero;
+
+} zero;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+
+} cpsp;
+
+feature calt {
+lookup caltGreekUCdiph {    sub @GreekUCdiphIOTA Iota' by Iotadieresis;    sub @GreekUCdiphUPSILON Upsilon' by Upsilondieresis;} caltGreekUCdiph;
+lookup caltGreekUC {    sub @GreekUCAcc' @GreekUC by [Alpha
+Epsilon
+Eta
+Iota
+Omicron
+Upsilon
+Omega
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Rho
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega];    sub @GreekUC @GreekUCAcc' by [Alpha
+Epsilon
+Eta
+Iota
+Omicron
+Upsilon
+Omega
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Rho
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega];    sub @GreekUCAcc' space @GreekUC by [Alpha
+Epsilon
+Eta
+Iota
+Omicron
+Upsilon
+Omega
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Rho
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega];    sub @GreekUC space @GreekUCAcc' by [Alpha
+Epsilon
+Eta
+Iota
+Omicron
+Upsilon
+Omega
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Alpha
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Epsilon
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Eta
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Iota
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Omicron
+Rho
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Upsilon
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega
+Omega];} caltGreekUC;
+} calt;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+
+} liga;

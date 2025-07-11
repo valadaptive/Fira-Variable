@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dlinebelow" format="2">
+  <advance width="585"/>
+  <unicode hex="1E0F"/>
+  <anchor x="231" y="-200" name="bottom"/>
+  <anchor x="291" y="267" name="center"/>
+  <anchor x="337" y="744" name="top"/>
+  <anchor x="625" y="744" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="105"/>
+  </outline>
+</glyph>

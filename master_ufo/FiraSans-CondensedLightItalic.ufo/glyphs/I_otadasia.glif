@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasia" format="2">
+  <advance width="238"/>
+  <unicode hex="1F39"/>
+  <anchor x="84" y="469" name="_top"/>
+  <anchor x="189" y="680" name="top"/>
+  <anchor x="94" y="0" name="bottom"/>
+  <anchor x="103" y="0" name="ogonek"/>
+  <anchor x="148" y="680" name="topleft"/>
+  <outline>
+    <component base="dasia.case"/>
+    <component base="Iota" xOffset="23"/>
+  </outline>
+</glyph>

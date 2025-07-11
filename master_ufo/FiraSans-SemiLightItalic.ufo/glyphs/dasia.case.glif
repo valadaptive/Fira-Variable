@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia.case" format="2">
+  <advance width="59"/>
+  <anchor x="124" y="441" name="_top"/>
+  <anchor x="124" y="687" name="top"/>
+  <outline>
+    <component base="dasia" xOffset="-7" yOffset="-79"/>
+  </outline>
+</glyph>

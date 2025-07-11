@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaperispomeniypogegrammeni.sc" format="2">
+  <advance width="601"/>
+  <anchor x="443" y="0" name="bottomright"/>
+  <anchor x="303" y="279" name="center"/>
+  <anchor x="342" y="557" name="top"/>
+  <outline>
+    <component base="h.sc"/>
+  </outline>
+</glyph>

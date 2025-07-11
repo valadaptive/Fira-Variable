@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upBlackArrow" format="2">
+  <advance width="720"/>
+  <unicode hex="2B06"/>
+  <outline>
+    <component base="downBlackArrow" yScale="-1" yOffset="738"/>
+  </outline>
+</glyph>

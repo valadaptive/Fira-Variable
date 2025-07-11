@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorngrave" format="2">
+  <advance width="634"/>
+  <unicode hex="1EEA"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="397" y="0" name="ogonek"/>
+  <anchor x="318" y="842" name="top"/>
+  <anchor x="576" y="680" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="horncomb.case" xOffset="484"/>
+    <component base="gravecomb.case" xOffset="210"/>
+  </outline>
+</glyph>

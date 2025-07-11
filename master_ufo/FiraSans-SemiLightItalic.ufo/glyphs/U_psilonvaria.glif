@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilonvaria" format="2">
+  <advance width="590"/>
+  <unicode hex="1FEA"/>
+  <anchor x="159" y="682" name="_topleft"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="395" y="682" name="top"/>
+  <anchor x="163" y="682" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="Y" xOffset="90"/>
+  </outline>
+</glyph>

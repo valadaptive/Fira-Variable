@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedbl" format="2">
+  <advance width="302"/>
+  <anchor x="144" y="534" name="_top"/>
+  <anchor x="68" y="534" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="250" y="844" type="line"/>
+      <point x="87" y="658" type="line"/>
+      <point x="152" y="593" type="line"/>
+      <point x="341" y="742" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oxia.case" format="2">
+  <advance width="104"/>
+  <anchor x="229" y="689" name="_topleft"/>
+  <outline>
+    <component base="tonos.case"/>
+  </outline>
+</glyph>

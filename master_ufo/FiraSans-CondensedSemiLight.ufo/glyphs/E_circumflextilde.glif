@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecircumflextilde" format="2">
+  <advance width="408"/>
+  <unicode hex="1EC4"/>
+  <anchor x="233" y="0" name="bottom"/>
+  <anchor x="361" y="0" name="ogonek"/>
+  <anchor x="242" y="921" name="top"/>
+  <anchor x="169" y="702" name="topleft"/>
+  <anchor x="313" y="702" name="topright"/>
+  <outline>
+    <component base="E"/>
+    <component base="circumflextilde.case" xOffset="97"/>
+  </outline>
+</glyph>

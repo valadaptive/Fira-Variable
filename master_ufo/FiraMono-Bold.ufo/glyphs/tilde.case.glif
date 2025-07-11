@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.case" format="2">
+  <advance width="600"/>
+  <anchor x="305" y="693" name="_top"/>
+  <outline>
+    <component base="tilde" xOffset="5" yOffset="125"/>
+  </outline>
+</glyph>

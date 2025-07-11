@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ksi-cyhelper.sc" format="2">
+  <advance width="375"/>
+  <anchor x="226" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="-176" type="curve"/>
+      <point x="106" y="-124" type="line"/>
+      <point x="82" y="-104"/>
+      <point x="71" y="-92"/>
+      <point x="71" y="-76" type="curve" smooth="yes"/>
+      <point x="71" y="-50"/>
+      <point x="89" y="-38"/>
+      <point x="171" y="-18" type="curve" smooth="yes"/>
+      <point x="272" y="7"/>
+      <point x="336" y="66"/>
+      <point x="336" y="180" type="curve" smooth="yes"/>
+      <point x="336" y="265"/>
+      <point x="291" y="315"/>
+      <point x="204" y="315" type="curve" smooth="yes"/>
+      <point x="197" y="315" type="line"/>
+      <point x="363" y="497" type="line"/>
+      <point x="374" y="564" type="line"/>
+      <point x="79" y="564" type="line"/>
+      <point x="68" y="495" type="line"/>
+      <point x="265" y="495" type="line"/>
+      <point x="105" y="314" type="line"/>
+      <point x="96" y="253" type="line"/>
+      <point x="165" y="253" type="line" smooth="yes"/>
+      <point x="218" y="253"/>
+      <point x="247" y="234"/>
+      <point x="247" y="177" type="curve" smooth="yes"/>
+      <point x="247" y="101"/>
+      <point x="206" y="65"/>
+      <point x="127" y="47" type="curve" smooth="yes"/>
+      <point x="40" y="27"/>
+      <point x="-9" y="-3"/>
+      <point x="-9" y="-70" type="curve" smooth="yes"/>
+      <point x="-9" y="-116"/>
+      <point x="24" y="-148"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadasiavaria.sc" format="2">
+  <advance width="224"/>
+  <anchor x="75" y="0" name="bottom"/>
+  <anchor x="87" y="0" name="ogonek"/>
+  <anchor x="154" y="560" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Qa-cy" format="2">
+  <advance width="571"/>
+  <unicode hex="051A"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="358" y="680" name="top"/>
+  <outline>
+    <component base="Q"/>
+  </outline>
+</glyph>

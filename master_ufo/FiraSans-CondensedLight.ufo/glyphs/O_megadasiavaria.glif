@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiavaria" format="2">
+  <advance width="649"/>
+  <unicode hex="1F6B"/>
+  <anchor x="129" y="680" name="_topleft"/>
+  <anchor x="367" y="680" name="top"/>
+  <anchor x="367" y="0" name="bottom"/>
+  <anchor x="171" y="680" name="topleft"/>
+  <outline>
+    <component base="dasiavaria.case"/>
+    <component base="Omega" xOffset="85"/>
+  </outline>
+</glyph>

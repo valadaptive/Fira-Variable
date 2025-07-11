@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vrighthook" format="2">
+  <advance width="420"/>
+  <unicode hex="2C71"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="210" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="373" y="458" type="line" smooth="yes"/>
+      <point x="381" y="490"/>
+      <point x="391" y="503"/>
+      <point x="408" y="503" type="curve" smooth="yes"/>
+      <point x="417" y="503"/>
+      <point x="426" y="501"/>
+      <point x="433" y="497" type="curve"/>
+      <point x="455" y="556" type="line"/>
+      <point x="436" y="567"/>
+      <point x="417" y="574"/>
+      <point x="396" y="574" type="curve" smooth="yes"/>
+      <point x="338" y="574"/>
+      <point x="313" y="542"/>
+      <point x="295" y="465" type="curve" smooth="yes"/>
+      <point x="205" y="79" type="line"/>
+      <point x="101" y="527" type="line"/>
+      <point x="5" y="527" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="258" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

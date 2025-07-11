@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsiliperispomeni" format="2">
+  <advance width="486"/>
+  <unicode hex="1F06"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="263" y="527" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psiliperispomeni" xOffset="69"/>
+  </outline>
+</glyph>

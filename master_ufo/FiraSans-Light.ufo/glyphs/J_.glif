@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="273.5"/>
+  <unicode hex="004A"/>
+  <anchor x="136.75" y="-188" name="bottom"/>
+  <anchor x="150" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="680" type="line"/>
+      <point x="148" y="680" type="line"/>
+      <point x="148" y="85" type="line" smooth="yes"/>
+      <point x="148" y="-6"/>
+      <point x="129" y="-49"/>
+      <point x="30" y="-89" type="curve"/>
+      <point x="31" y="-91" type="line"/>
+      <point x="131" y="-50"/>
+      <point x="150" y="-7"/>
+      <point x="150" y="85" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oacute.loclPLK" format="2">
+  <advance width="687"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="401" y="680" name="top"/>
+  <anchor x="162" y="679" name="topleft"/>
+  <anchor x="577" y="680" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="acute.case.loclPLK" xOffset="231"/>
+  </outline>
+</glyph>

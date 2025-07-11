@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance width="535"/>
+  <unicode hex="04B2"/>
+  <anchor x="229.967" y="0.0" name="bottom"/>
+  <anchor x="454" y="0" name="bottomright"/>
+  <anchor x="326.8" y="689.0" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="descStraight-cy.case" xOffset="405"/>
+  </outline>
+</glyph>

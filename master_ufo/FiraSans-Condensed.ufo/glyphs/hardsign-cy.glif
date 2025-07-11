@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hardsign-cy" format="2">
+  <advance width="569"/>
+  <unicode hex="044A"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="261" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="120" y="459" type="line"/>
+      <point x="200" y="527" type="line"/>
+      <point x="-1" y="527" type="line"/>
+      <point x="-1" y="459" type="line"/>
+    </contour>
+    <component base="softsign-cy" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

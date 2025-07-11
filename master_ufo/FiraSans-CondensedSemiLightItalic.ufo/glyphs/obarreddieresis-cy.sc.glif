@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarreddieresis-cy.sc" format="2">
+  <advance width="507"/>
+  <anchor x="224" y="0" name="bottom"/>
+  <anchor x="302" y="560" name="top"/>
+  <outline>
+    <component base="obarred-cy.sc"/>
+    <component base="dieresiscomb.sc" xOffset="133"/>
+  </outline>
+</glyph>

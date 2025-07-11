@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zstroke.sc" format="2">
+  <advance width="367"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="232" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="285" y="0" type="line"/>
+      <point x="285" y="2" type="line"/>
+      <point x="10" y="2" type="line"/>
+      <point x="375" y="555" type="line"/>
+      <point x="375" y="557" type="line"/>
+      <point x="111" y="557" type="line"/>
+      <point x="111" y="555" type="line"/>
+      <point x="372" y="555" type="line"/>
+      <point x="7" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="282" type="line"/>
+      <point x="295" y="282" type="line"/>
+      <point x="295" y="284" type="line"/>
+      <point x="87" y="284" type="line"/>
+    </contour>
+  </outline>
+</glyph>

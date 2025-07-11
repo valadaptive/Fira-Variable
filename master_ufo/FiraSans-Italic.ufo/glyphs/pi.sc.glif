@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="615"/>
+  <anchor x="270.467" y="0.0" name="bottom"/>
+  <anchor x="488" y="0" name="bottomright"/>
+  <anchor x="349.733" y="564.0" name="top"/>
+  <outline>
+    <component base="pe-cy.sc"/>
+  </outline>
+</glyph>

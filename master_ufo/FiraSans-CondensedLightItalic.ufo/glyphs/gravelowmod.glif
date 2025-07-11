@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravelowmod" format="2">
+  <advance width="227"/>
+  <unicode hex="02CE"/>
+  <anchor x="64" y="0" name="_bottom"/>
+  <anchor x="50" y="-139" name="bottom"/>
+  <outline>
+    <component base="gravebelowcomb"/>
+  </outline>
+</glyph>

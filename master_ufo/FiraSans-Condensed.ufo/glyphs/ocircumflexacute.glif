@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexacute" format="2">
+  <advance width="477"/>
+  <unicode hex="1ED1"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="319" y="0" name="ogonek"/>
+  <anchor x="240" y="741" name="top"/>
+  <anchor x="329" y="611" name="topright"/>
+  <anchor x="152" y="611" name="topleft"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexacute" xOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexacute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

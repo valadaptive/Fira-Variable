@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="product.tosf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="410" y="634" type="line"/>
+      <point x="410" y="662" type="line"/>
+      <point x="50" y="662" type="line"/>
+      <point x="50" y="634" type="line"/>
+      <point x="113" y="634" type="line"/>
+      <point x="113" y="-199" type="line"/>
+      <point x="143" y="-195" type="line"/>
+      <point x="143" y="634" type="line"/>
+      <point x="317" y="634" type="line"/>
+      <point x="317" y="-199" type="line"/>
+      <point x="347" y="-195" type="line"/>
+      <point x="347" y="634" type="line"/>
+    </contour>
+  </outline>
+</glyph>

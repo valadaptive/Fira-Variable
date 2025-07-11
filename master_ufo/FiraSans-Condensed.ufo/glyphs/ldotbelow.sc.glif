@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelow.sc" format="2">
+  <advance width="374"/>
+  <anchor x="213" y="-201" name="bottom"/>
+  <anchor x="302" y="316" name="center"/>
+  <anchor x="120" y="564" name="top"/>
+  <anchor x="182" y="564" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="dotbelowcomb" xOffset="129"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

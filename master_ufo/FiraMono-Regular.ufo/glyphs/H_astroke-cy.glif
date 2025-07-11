@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hastroke-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="04FE"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="527" y="0" name="bottomright"/>
+  <anchor x="300" y="689" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="hyphen" xScale="1.3" yScale="0.9" xOffset="-90" yOffset="86"/>
+  </outline>
+</glyph>

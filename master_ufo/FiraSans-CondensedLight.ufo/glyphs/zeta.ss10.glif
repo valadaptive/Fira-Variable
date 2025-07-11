@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta.ss10" format="2">
+  <advance width="290"/>
+  <outline>
+    <contour>
+      <point x="298" y="708" type="curve"/>
+      <point x="282" y="695" type="line"/>
+      <point x="123" y="539"/>
+      <point x="49" y="417"/>
+      <point x="49" y="254" type="curve"/>
+      <point x="49" y="125"/>
+      <point x="99" y="83"/>
+      <point x="179" y="49" type="curve" smooth="yes"/>
+      <point x="270" y="10"/>
+      <point x="292" y="-14"/>
+      <point x="292" y="-66" type="curve" smooth="yes"/>
+      <point x="292" y="-120"/>
+      <point x="260" y="-155"/>
+      <point x="209" y="-188" type="curve"/>
+      <point x="210" y="-190" type="line"/>
+      <point x="262" y="-156"/>
+      <point x="294" y="-120"/>
+      <point x="294" y="-66" type="curve" smooth="yes"/>
+      <point x="294" y="-13"/>
+      <point x="270" y="12"/>
+      <point x="179" y="51" type="curve" smooth="yes"/>
+      <point x="100" y="85"/>
+      <point x="51" y="128"/>
+      <point x="51" y="254" type="curve"/>
+      <point x="51" y="416"/>
+      <point x="125" y="540"/>
+    </contour>
+    <contour>
+      <point x="76" y="729" type="curve"/>
+      <point x="74" y="728" type="line"/>
+      <point x="95" y="683"/>
+      <point x="127" y="657"/>
+      <point x="179" y="657" type="curve" smooth="yes"/>
+      <point x="224" y="657"/>
+      <point x="251" y="671"/>
+      <point x="282" y="695" type="curve"/>
+      <point x="298" y="708" type="line"/>
+      <point x="297" y="710" type="line"/>
+      <point x="258" y="674"/>
+      <point x="225" y="659"/>
+      <point x="180" y="659" type="curve" smooth="yes"/>
+      <point x="127" y="659"/>
+      <point x="97" y="684"/>
+    </contour>
+  </outline>
+</glyph>

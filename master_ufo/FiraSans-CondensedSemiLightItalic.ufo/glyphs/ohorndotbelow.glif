@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorndotbelow" format="2">
+  <advance width="567"/>
+  <unicode hex="1EE3"/>
+  <anchor x="169" y="-146" name="bottom"/>
+  <anchor x="275" y="520" name="top"/>
+  <anchor x="465" y="520" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb" xOffset="336"/>
+    <component base="dotbelowcomb" xOffset="169"/>
+  </outline>
+</glyph>

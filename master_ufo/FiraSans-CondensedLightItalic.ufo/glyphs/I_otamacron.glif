@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotamacron" format="2">
+  <advance width="215"/>
+  <unicode hex="1FD9"/>
+  <anchor x="71" y="0" name="bottom"/>
+  <anchor x="80" y="0" name="ogonek"/>
+  <anchor x="193" y="817" name="top"/>
+  <anchor x="125" y="680" name="topleft"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="macroncomb.case" xOffset="5"/>
+  </outline>
+</glyph>

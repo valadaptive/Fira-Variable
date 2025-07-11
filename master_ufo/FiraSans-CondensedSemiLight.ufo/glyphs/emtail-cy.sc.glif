@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emtail-cy.sc" format="2">
+  <advance width="764"/>
+  <anchor x="284" y="0" name="bottom"/>
+  <anchor x="504" y="0" name="bottomright"/>
+  <anchor x="283" y="560" name="top"/>
+  <outline>
+    <component base="m.sc"/>
+    <component base="descTail-cy" xOffset="464"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descTail-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance width="830"/>
+  <unicode hex="04B4"/>
+  <anchor x="346" y="-214" name="bottom"/>
+  <anchor x="631" y="0" name="bottomright"/>
+  <anchor x="346" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="402" y="695" type="line"/>
+      <point x="1" y="695" type="line"/>
+      <point x="1" y="551" type="line"/>
+      <point x="133" y="551" type="line"/>
+      <point x="330" y="551" type="line"/>
+      <point x="382" y="551" type="line"/>
+    </contour>
+    <component base="Tse-cy" xOffset="112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

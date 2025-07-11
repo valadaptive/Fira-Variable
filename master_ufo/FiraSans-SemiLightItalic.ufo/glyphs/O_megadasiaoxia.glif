@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaoxia" format="2">
+  <advance width="847"/>
+  <unicode hex="1F6D"/>
+  <anchor x="123" y="440" name="_top"/>
+  <anchor x="561" y="682" name="top"/>
+  <anchor x="470" y="0" name="bottom"/>
+  <anchor x="327" y="682" name="topleft"/>
+  <outline>
+    <component base="dasiaoxia.case"/>
+    <component base="Omega" xOffset="157"/>
+  </outline>
+</glyph>

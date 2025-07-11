@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasia" format="2">
+  <advance width="696"/>
+  <unicode hex="1F59"/>
+  <anchor x="148" y="425" name="_top"/>
+  <anchor x="487" y="689" name="top"/>
+  <anchor x="387" y="0" name="bottom"/>
+  <anchor x="218" y="689" name="topleft"/>
+  <outline>
+    <component base="dasia.case"/>
+    <component base="Upsilon" xOffset="152"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextilde" format="2">
+  <advance width="332"/>
+  <anchor x="235" y="793" name="top"/>
+  <anchor x="126" y="540" name="topleft"/>
+  <anchor x="296" y="540" name="topright"/>
+  <anchor x="197" y="520" name="_top"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="-24" yOffset="-190"/>
+    <component base="tildedbl" xOffset="2" yOffset="47"/>
+  </outline>
+</glyph>

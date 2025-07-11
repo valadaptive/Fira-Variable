@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevetilde" format="2">
+  <advance width="303"/>
+  <anchor x="221" y="750" name="top"/>
+  <anchor x="191" y="517" name="_top"/>
+  <outline>
+    <component base="brevecomb.case" yOffset="-180"/>
+    <component base="tildedbl" xOffset="4" yOffset="18"/>
+  </outline>
+</glyph>

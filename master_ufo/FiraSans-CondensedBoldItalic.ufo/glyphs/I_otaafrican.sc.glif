@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotaafrican.sc" format="2">
+  <advance width="392"/>
+  <anchor x="134" y="0" name="bottom"/>
+  <anchor x="156" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="249" y="570" type="line"/>
+      <point x="63" y="570" type="line"/>
+      <point x="11" y="208" type="line"/>
+      <point x="197" y="208" type="line"/>
+    </contour>
+    <component base="hookHELPERright" xOffset="25" yOffset="208"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

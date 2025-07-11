@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy.sc" format="2">
+  <advance width="596"/>
+  <anchor x="241.976" y="0.0" name="bottom"/>
+  <anchor x="489" y="0" name="bottomright"/>
+  <anchor x="322.224" y="571.0" name="top"/>
+  <outline>
+    <component base="el-cy.sc"/>
+    <component base="descStraight-cy" xOffset="361"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

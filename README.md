@@ -1,3 +1,16 @@
+# Fira (but variable)
+
+This is a variable version of [Fira](https://github.com/mozilla/Fira) assembled from the original sources. Unlike [Firava](https://github.com/hellogreg/firava), it has both weight and width axes.
+
+It supports only the characters that both Fira and Fira Condensed cover, which means Latin only.
+
+To build the font, install [fontmake](https://github.com/googlefonts/fontmake) and then run `build.sh`. The output will be in `variable_ttf` and `variable_otf`.
+
+While I've provided Fira Mono for completeness' sake, [Fira Code](https://github.com/tonsky/FiraCode) has a lot more thought put into it and you should probably use that instead.
+
+<details>
+<summary>Original readme</summary>
+
 # Mozilla's Fira Type Family
 http://mozilla.github.io/Fira/
 
@@ -27,3 +40,5 @@ Fira can also be found in these foundries:<br>
 <a href="https://typekit.com/fonts/fira-sans">Adobe Typekit<br>
 <a href="https://www.google.com/fonts/specimen/Fira+Sans">Google Fonts<br>
 <a href="https://www.fontsquirrel.com/fonts/fira-sans">Font Squirrel<br>
+
+</details>

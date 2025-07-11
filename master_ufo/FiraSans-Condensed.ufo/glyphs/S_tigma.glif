@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Stigma" format="2">
+  <advance width="452"/>
+  <unicode hex="03DA"/>
+  <anchor x="226" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="277" y="-214" type="line"/>
+      <point x="368" y="-168"/>
+      <point x="410" y="-120"/>
+      <point x="410" y="-47" type="curve" smooth="yes"/>
+      <point x="410" y="32"/>
+      <point x="361" y="79"/>
+      <point x="272" y="122" type="curve" smooth="yes"/>
+      <point x="177" y="168"/>
+      <point x="140" y="224"/>
+      <point x="140" y="367" type="curve" smooth="yes"/>
+      <point x="140" y="511"/>
+      <point x="198" y="610"/>
+      <point x="327" y="610" type="curve" smooth="yes"/>
+      <point x="427" y="610" type="line"/>
+      <point x="438" y="689" type="line"/>
+      <point x="326" y="689" type="line" smooth="yes"/>
+      <point x="128" y="689"/>
+      <point x="41" y="534"/>
+      <point x="41" y="363" type="curve" smooth="yes"/>
+      <point x="41" y="192"/>
+      <point x="108" y="108"/>
+      <point x="209" y="57" type="curve" smooth="yes"/>
+      <point x="294" y="14"/>
+      <point x="317" y="-9"/>
+      <point x="317" y="-52" type="curve" smooth="yes"/>
+      <point x="317" y="-102"/>
+      <point x="286" y="-129"/>
+      <point x="242" y="-155" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

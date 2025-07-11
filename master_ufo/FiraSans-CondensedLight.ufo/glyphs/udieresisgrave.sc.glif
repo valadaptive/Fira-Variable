@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisgrave.sc" format="2">
+  <advance width="472"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="294" y="0" name="ogonek"/>
+  <anchor x="236" y="557" name="top"/>
+  <anchor x="384" y="557" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresisgravecomb" xOffset="144" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresisgravecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

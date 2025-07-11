@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturned" format="2">
+  <advance width="399"/>
+  <unicode hex="027B"/>
+  <anchor x="102" y="-214" name="bottom"/>
+  <anchor x="263" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="-4" y="-17" type="curve" smooth="yes"/>
+      <point x="38" y="-17"/>
+      <point x="77" y="19"/>
+      <point x="104" y="70" type="curve"/>
+      <point x="96" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="356" y="533" type="line"/>
+      <point x="170" y="533" type="line"/>
+      <point x="140" y="304" type="line"/>
+      <point x="122" y="231"/>
+      <point x="100" y="168"/>
+      <point x="48" y="168" type="curve" smooth="yes"/>
+      <point x="35" y="168"/>
+      <point x="24" y="171"/>
+      <point x="10" y="176" type="curve"/>
+      <point x="-47" y="-8" type="line"/>
+      <point x="-33" y="-14"/>
+      <point x="-23" y="-17"/>
+    </contour>
+    <component base="hookHELPERright" xOffset="109"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

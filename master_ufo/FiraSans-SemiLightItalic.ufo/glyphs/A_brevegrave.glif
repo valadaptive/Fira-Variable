@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave" format="2">
+  <advance width="558"/>
+  <unicode hex="1EB0"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="506" y="0" name="ogonek"/>
+  <anchor x="360" y="825" name="top"/>
+  <anchor x="229" y="682" name="topleft"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevegrave.case" xOffset="136"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>brevegrave.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

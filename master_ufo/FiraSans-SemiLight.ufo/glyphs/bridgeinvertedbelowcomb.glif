@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgeinvertedbelowcomb" format="2">
+  <unicode hex="033A"/>
+  <anchor x="156" y="0" name="_bottom"/>
+  <anchor x="160" y="119" name="bottom"/>
+  <outline>
+    <component base="bridgebelowcomb" yScale="-1" yOffset="-321"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>312</integer>
+    </dict>
+  </lib>
+</glyph>

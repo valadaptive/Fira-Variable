@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="er-cy.sc" format="2">
+  <advance width="512"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="295" y="560" name="top"/>
+  <outline>
+    <component base="p.sc"/>
+  </outline>
+</glyph>

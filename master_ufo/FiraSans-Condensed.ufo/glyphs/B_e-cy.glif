@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy" format="2">
+  <advance width="477"/>
+  <unicode hex="0411"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="239" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="165" y="679" type="line"/>
+      <point x="74" y="689" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="237" y="0" type="line" smooth="yes"/>
+      <point x="364" y="0"/>
+      <point x="454" y="61"/>
+      <point x="454" y="219" type="curve" smooth="yes"/>
+      <point x="454" y="361"/>
+      <point x="372" y="429"/>
+      <point x="238" y="429" type="curve" smooth="yes"/>
+      <point x="153" y="429" type="line"/>
+      <point x="153" y="357" type="line"/>
+      <point x="235" y="357" type="line" smooth="yes"/>
+      <point x="314" y="357"/>
+      <point x="358" y="320"/>
+      <point x="358" y="218" type="curve" smooth="yes"/>
+      <point x="358" y="102"/>
+      <point x="309" y="73"/>
+      <point x="238" y="73" type="curve" smooth="yes"/>
+      <point x="165" y="73" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="689" type="line"/>
+      <point x="74" y="689" type="line"/>
+      <point x="152" y="614" type="line"/>
+      <point x="382" y="614" type="line"/>
+    </contour>
+  </outline>
+</glyph>

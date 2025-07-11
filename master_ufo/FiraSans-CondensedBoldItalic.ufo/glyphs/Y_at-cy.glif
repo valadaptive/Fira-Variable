@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yat-cy" format="2">
+  <advance width="579"/>
+  <unicode hex="0462"/>
+  <anchor x="258" y="0" name="bottom"/>
+  <anchor x="357" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="322" y="0" type="line" smooth="yes"/>
+      <point x="507" y="0"/>
+      <point x="582" y="145"/>
+      <point x="582" y="268" type="curve" smooth="yes"/>
+      <point x="582" y="389"/>
+      <point x="509" y="454"/>
+      <point x="377" y="454" type="curve" smooth="yes"/>
+      <point x="321" y="454" type="line"/>
+      <point x="300" y="321" type="line"/>
+      <point x="333" y="321" type="line" smooth="yes"/>
+      <point x="368" y="321"/>
+      <point x="379" y="292"/>
+      <point x="379" y="254" type="curve" smooth="yes"/>
+      <point x="379" y="211"/>
+      <point x="367" y="140"/>
+      <point x="313" y="140" type="curve" smooth="yes"/>
+      <point x="289" y="140" type="line"/>
+      <point x="364" y="695" type="line"/>
+      <point x="170" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="517" type="line"/>
+      <point x="139" y="517" type="line"/>
+      <point x="452" y="517" type="line"/>
+      <point x="470" y="628" type="line"/>
+      <point x="355" y="628" type="line"/>
+      <point x="59" y="628" type="line"/>
+    </contour>
+  </outline>
+</glyph>

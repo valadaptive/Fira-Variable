@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy" format="2">
+  <advance width="613"/>
+  <unicode hex="04A5"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="466" y="0" name="bottomright"/>
+  <anchor x="325" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="498" y="457" type="line"/>
+      <point x="638" y="457" type="line"/>
+      <point x="650" y="527" type="line"/>
+      <point x="498" y="527" type="line"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

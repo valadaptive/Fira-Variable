@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uptackmod" format="2">
+  <advance width="336"/>
+  <unicode hex="02D4"/>
+  <outline>
+    <contour>
+      <point x="266" y="218" type="line"/>
+      <point x="169" y="218" type="line"/>
+      <point x="169" y="358" type="line"/>
+      <point x="167" y="358" type="line"/>
+      <point x="167" y="218" type="line"/>
+      <point x="70" y="218" type="line"/>
+      <point x="70" y="216" type="line"/>
+      <point x="266" y="216" type="line"/>
+    </contour>
+  </outline>
+</glyph>

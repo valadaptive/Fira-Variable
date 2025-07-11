@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tshe-cy" format="2">
+  <advance width="580"/>
+  <unicode hex="045B"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="281" y="259" name="center"/>
+  <anchor x="321" y="727" name="top"/>
+  <outline>
+    <component base="hbar"/>
+  </outline>
+</glyph>

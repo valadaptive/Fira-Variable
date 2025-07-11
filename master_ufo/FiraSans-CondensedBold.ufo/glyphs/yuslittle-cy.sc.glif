@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittle-cy.sc" format="2">
+  <advance width="472"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="236" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="355" y="570" type="line"/>
+      <point x="122" y="570" type="line"/>
+      <point x="-29" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="235" y="473" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="501" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="317" y="297" type="line"/>
+      <point x="149" y="297" type="line"/>
+      <point x="103" y="185" type="line"/>
+      <point x="363" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="225" type="line"/>
+      <point x="176" y="225" type="line"/>
+      <point x="173" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

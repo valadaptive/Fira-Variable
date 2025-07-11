@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy.sc" format="2">
+  <advance width="658"/>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="561" y="0" name="bottomright"/>
+  <anchor x="329" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="552" y="557" type="line"/>
+      <point x="550" y="557" type="line"/>
+      <point x="550" y="2" type="line"/>
+      <point x="330" y="2" type="line"/>
+      <point x="330" y="557" type="line"/>
+      <point x="328" y="557" type="line"/>
+      <point x="328" y="2" type="line"/>
+      <point x="108" y="2" type="line"/>
+      <point x="108" y="557" type="line"/>
+      <point x="106" y="557" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="de-cy" format="2">
+  <advance width="553"/>
+  <unicode hex="0434"/>
+  <anchor x="401" y="0" name="_bottom"/>
+  <anchor x="226" y="-214" name="bottom"/>
+  <anchor x="226" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="24" y="137" type="curve"/>
+      <point x="139" y="130" type="line"/>
+      <point x="195" y="155"/>
+      <point x="223" y="216"/>
+      <point x="236" y="376" type="curve"/>
+      <point x="237" y="413" type="line"/>
+      <point x="254" y="413" type="line"/>
+      <point x="254" y="137" type="line"/>
+      <point x="24" y="137" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="426" y="533" type="line"/>
+      <point x="78" y="533" type="line"/>
+      <point x="65" y="361" type="line" smooth="yes"/>
+      <point x="53" y="191"/>
+      <point x="42" y="157"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="253"/>
+    <component base="descStraight-cy" xScale="-1" xOffset="242"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

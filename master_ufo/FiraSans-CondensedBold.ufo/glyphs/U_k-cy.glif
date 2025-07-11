@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uk-cy" format="2">
+  <advance width="1014"/>
+  <unicode hex="0478"/>
+  <anchor x="787" y="-214" name="bottom"/>
+  <anchor x="415" y="0" name="ogonek"/>
+  <anchor x="793" y="534" name="top"/>
+  <anchor x="92" y="696" name="topleft"/>
+  <anchor x="503" y="696" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="y" xOffset="565"/>
+  </outline>
+</glyph>

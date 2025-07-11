@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacroncomb" format="2">
+  <advance width="274"/>
+  <anchor x="122" y="776" name="top"/>
+  <anchor x="116" y="520" name="_top"/>
+  <outline>
+    <component base="dotaccentcomb" xOffset="66" yOffset="-50"/>
+    <component base="macroncomb" yOffset="65"/>
+  </outline>
+</glyph>

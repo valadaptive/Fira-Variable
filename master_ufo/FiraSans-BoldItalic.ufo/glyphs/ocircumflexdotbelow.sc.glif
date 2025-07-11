@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexdotbelow.sc" format="2">
+  <advance width="598"/>
+  <anchor x="230" y="-264" name="bottom"/>
+  <anchor x="342" y="571" name="top"/>
+  <anchor x="570" y="571" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="circumflexcomb.sc" xOffset="74"/>
+    <component base="dotbelowcomb" xOffset="163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

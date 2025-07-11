@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yae-cy.sc" format="2">
+  <advance width="587"/>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="293" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="311" y="532" type="line"/>
+      <point x="341" y="560" type="line"/>
+      <point x="228" y="560" type="line" smooth="yes"/>
+      <point x="103" y="560"/>
+      <point x="47" y="500"/>
+      <point x="47" y="396" type="curve" smooth="yes"/>
+      <point x="47" y="303"/>
+      <point x="88" y="265"/>
+      <point x="153" y="243" type="curve"/>
+      <point x="169" y="240" type="line"/>
+      <point x="317" y="240" type="line"/>
+      <point x="317" y="268" type="line"/>
+      <point x="200" y="268" type="line" smooth="yes"/>
+      <point x="124" y="268"/>
+      <point x="79" y="312"/>
+      <point x="79" y="396" type="curve" smooth="yes"/>
+      <point x="79" y="488"/>
+      <point x="125" y="532"/>
+      <point x="229" y="532" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="183" y="247" type="line"/>
+      <point x="152" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="553" y="28" type="line"/>
+      <point x="341" y="28" type="line"/>
+      <point x="341" y="281" type="line"/>
+      <point x="517" y="281" type="line"/>
+      <point x="517" y="308" type="line"/>
+      <point x="341" y="308" type="line"/>
+      <point x="341" y="532" type="line"/>
+      <point x="545" y="532" type="line"/>
+      <point x="548" y="560" type="line"/>
+      <point x="311" y="560" type="line"/>
+    </contour>
+  </outline>
+</glyph>

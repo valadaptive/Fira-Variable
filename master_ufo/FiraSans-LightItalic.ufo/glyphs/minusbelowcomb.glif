@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minusbelowcomb" format="2">
+  <unicode hex="0320"/>
+  <anchor x="99" y="0" name="_bottom"/>
+  <anchor x="74" y="-195" name="bottom"/>
+  <outline>
+    <component base="minusinferior" xOffset="-91" yOffset="-190"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>271</integer>
+    </dict>
+  </lib>
+</glyph>

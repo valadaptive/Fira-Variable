@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="san.sc" format="2">
+  <advance width="584"/>
+  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="531" y="0" name="bottomright"/>
+  <anchor x="298" y="564" name="top"/>
+  <outline>
+    <component base="m.sc"/>
+  </outline>
+</glyph>

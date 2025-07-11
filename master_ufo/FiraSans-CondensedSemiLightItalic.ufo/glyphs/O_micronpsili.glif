@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsili" format="2">
+  <advance width="623"/>
+  <unicode hex="1F48"/>
+  <anchor x="96" y="440" name="_top"/>
+  <anchor x="406" y="682" name="top"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="212" y="682" name="topleft"/>
+  <anchor x="567" y="682" name="topright"/>
+  <outline>
+    <component base="psili.case"/>
+    <component base="Omicron" xOffset="52"/>
+  </outline>
+</glyph>

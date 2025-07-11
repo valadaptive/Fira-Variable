@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.sc" format="2">
+  <advance width="425"/>
+  <anchor x="177" y="0" name="bottom"/>
+  <anchor x="356" y="0" name="ogonek"/>
+  <anchor x="256" y="564" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="ringcomb.sc" xOffset="87"/>
+  </outline>
+</glyph>

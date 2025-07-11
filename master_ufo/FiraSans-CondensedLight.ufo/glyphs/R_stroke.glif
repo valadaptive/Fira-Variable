@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rstroke" format="2">
+  <advance width="555"/>
+  <unicode hex="024C"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="226" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="171" y="334" type="line"/>
+      <point x="165" y="336" type="line"/>
+      <point x="102" y="336" type="line"/>
+      <point x="25" y="336" type="line"/>
+      <point x="25" y="334" type="line"/>
+    </contour>
+    <component base="R" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

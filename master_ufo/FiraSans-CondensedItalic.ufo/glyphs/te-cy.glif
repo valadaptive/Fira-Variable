@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance width="691"/>
+  <unicode hex="0442"/>
+  <anchor x="315" y="0" name="bottom"/>
+  <anchor x="389" y="527" name="top"/>
+  <anchor x="603" y="0" name="bottomright"/>
+  <outline>
+    <component base="m"/>
+  </outline>
+</glyph>

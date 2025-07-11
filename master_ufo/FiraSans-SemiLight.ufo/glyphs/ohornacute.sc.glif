@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornacute.sc" format="2">
+  <advance width="641"/>
+  <anchor x="309" y="0" name="bottom"/>
+  <anchor x="379" y="0" name="ogonek"/>
+  <anchor x="309" y="560" name="top"/>
+  <anchor x="107" y="560" name="topleft"/>
+  <anchor x="544" y="560" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="horncomb" xOffset="452" yOffset="40"/>
+    <component base="acutecomb.sc" xOffset="185"/>
+  </outline>
+</glyph>

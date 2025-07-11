@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etaperispomeniypogegrammeni" format="2">
+  <advance width="586"/>
+  <unicode hex="1FC7"/>
+  <anchor x="151" y="-190" name="bottom"/>
+  <anchor x="357" y="774" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="perispomenicomb" xOffset="95"/>
+    <component base="ypogegrammenicomb" xOffset="70"/>
+  </outline>
+</glyph>

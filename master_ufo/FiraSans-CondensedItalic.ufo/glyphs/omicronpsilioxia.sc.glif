@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicronpsilioxia.sc" format="2">
+  <advance width="499"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="311" y="564" name="top"/>
+  <anchor x="470" y="564" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+  </outline>
+</glyph>

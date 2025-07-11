@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorndotbelow.sc" format="2">
+  <advance width="644"/>
+  <anchor x="189" y="-146" name="bottom"/>
+  <anchor x="271" y="0" name="ogonek"/>
+  <anchor x="284" y="560" name="top"/>
+  <anchor x="489" y="560" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="horncomb" xOffset="360" yOffset="40"/>
+    <component base="dotbelowcomb" xOffset="189"/>
+  </outline>
+</glyph>

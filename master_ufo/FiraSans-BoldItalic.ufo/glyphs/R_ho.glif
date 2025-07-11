@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rho" format="2">
+  <advance width="601"/>
+  <unicode hex="03A1"/>
+  <anchor x="263" y="0" name="bottom"/>
+  <anchor x="361" y="696" name="top"/>
+  <anchor x="104" y="696" name="topleft"/>
+  <outline>
+    <component base="P"/>
+  </outline>
+</glyph>

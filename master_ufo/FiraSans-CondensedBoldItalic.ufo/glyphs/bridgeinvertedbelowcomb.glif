@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgeinvertedbelowcomb" format="2">
+  <unicode hex="033A"/>
+  <anchor x="127" y="0" name="_bottom"/>
+  <anchor x="102" y="-258" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="-18" y="-86" type="line"/>
+      <point x="-43" y="-258" type="line"/>
+      <point x="224" y="-258" type="line"/>
+      <point x="249" y="-86" type="line"/>
+      <point x="145" y="-86" type="line"/>
+      <point x="134" y="-166" type="line"/>
+      <point x="75" y="-166" type="line"/>
+      <point x="85" y="-86" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>317</integer>
+    </dict>
+  </lib>
+</glyph>

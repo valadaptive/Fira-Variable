@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fi.sc" format="2">
+  <advance width="579"/>
+  <anchor x="112" y="0" name="bottom_1"/>
+  <anchor x="214" y="560" name="top_1"/>
+  <anchor x="467" y="0" name="bottom_2"/>
+  <anchor x="489" y="0" name="ogonek_2"/>
+  <anchor x="467" y="560" name="top_2"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="i.sc" xOffset="355"/>
+  </outline>
+</glyph>

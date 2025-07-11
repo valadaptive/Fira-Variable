@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphavrachy" format="2">
+  <advance width="470"/>
+  <unicode hex="1FB0"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="290" y="737" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="brevecomb" xOffset="112"/>
+  </outline>
+</glyph>

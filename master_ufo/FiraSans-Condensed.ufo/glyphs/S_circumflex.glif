@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scircumflex" format="2">
+  <advance width="450"/>
+  <unicode hex="015C"/>
+  <anchor x="219" y="0" name="bottom"/>
+  <anchor x="226" y="912" name="top"/>
+  <anchor x="138" y="782" name="topleft"/>
+  <anchor x="315" y="782" name="topright"/>
+  <outline>
+    <component base="S"/>
+    <component base="circumflexcomb.case" xOffset="56"/>
+  </outline>
+</glyph>

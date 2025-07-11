@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omega-cy.sc" format="2">
+  <advance width="790"/>
+  <anchor x="357.967" y="0.0" name="bottom"/>
+  <anchor x="437.233" y="564.0" name="top"/>
+  <outline>
+    <component base="uniA7B6.sc"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etaypogegrammeni" format="2">
+  <advance width="465"/>
+  <unicode hex="1FC3"/>
+  <anchor x="150" y="-210" name="bottom"/>
+  <anchor x="235" y="533" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="ypogegrammenicomb" xOffset="-1"/>
+  </outline>
+</glyph>

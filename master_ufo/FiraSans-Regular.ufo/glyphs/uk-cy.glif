@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uk-cy" format="2">
+  <advance width="1066"/>
+  <unicode hex="0479"/>
+  <anchor x="823" y="-202" name="bottom"/>
+  <anchor x="380" y="0" name="ogonek"/>
+  <anchor x="820" y="527" name="top"/>
+  <anchor x="476" y="527" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="y" xOffset="574"/>
+  </outline>
+</glyph>

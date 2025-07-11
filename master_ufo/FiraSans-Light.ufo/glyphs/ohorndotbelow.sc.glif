@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorndotbelow.sc" format="2">
+  <advance width="618"/>
+  <anchor x="308" y="-188" name="bottom"/>
+  <anchor x="372" y="0" name="ogonek"/>
+  <anchor x="308" y="557" name="top"/>
+  <anchor x="99" y="557" name="topleft"/>
+  <anchor x="522" y="557" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="horncomb" xOffset="430" yOffset="40"/>
+    <component base="dotbelowcomb" xOffset="272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

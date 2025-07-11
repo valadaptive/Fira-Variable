@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve" format="2">
+  <advance width="381"/>
+  <unicode hex="02D8"/>
+  <anchor x="195" y="534" name="_top"/>
+  <anchor x="197" y="835" name="top"/>
+  <outline>
+    <component base="brevecomb" xOffset="5"/>
+  </outline>
+</glyph>

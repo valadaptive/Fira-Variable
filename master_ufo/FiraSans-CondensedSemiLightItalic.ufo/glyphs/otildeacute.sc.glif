@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildeacute.sc" format="2">
+  <advance width="512"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="356" y="863" name="top"/>
+  <anchor x="460" y="560" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="tildeacute" xOffset="127" yOffset="40"/>
+  </outline>
+</glyph>

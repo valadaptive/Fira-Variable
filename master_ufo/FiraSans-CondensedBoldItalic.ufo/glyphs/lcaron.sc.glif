@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcaron.sc" format="2">
+  <advance width="390"/>
+  <anchor x="161" y="0" name="bottom"/>
+  <anchor x="324" y="326" name="center"/>
+  <anchor x="164" y="571" name="top"/>
+  <anchor x="269" y="571" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="caron.alt" xOffset="149" yOffset="-125"/>
+  </outline>
+</glyph>

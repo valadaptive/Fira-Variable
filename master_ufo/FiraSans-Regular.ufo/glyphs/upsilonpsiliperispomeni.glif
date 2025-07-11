@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonpsiliperispomeni" format="2">
+  <advance width="571"/>
+  <unicode hex="1F56"/>
+  <anchor x="285.5" y="0.0" name="bottom"/>
+  <anchor x="317" y="869" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="psiliperispomeni" xOffset="118"/>
+  </outline>
+</glyph>

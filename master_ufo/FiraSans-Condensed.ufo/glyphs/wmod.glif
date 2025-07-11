@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wmod" format="2">
+  <advance width="383"/>
+  <unicode hex="02B7"/>
+  <outline>
+    <contour>
+      <point x="357" y="665" type="line"/>
+      <point x="299" y="665" type="line"/>
+      <point x="265" y="461" type="line"/>
+      <point x="227" y="665" type="line"/>
+      <point x="162" y="665" type="line"/>
+      <point x="121" y="462" type="line"/>
+      <point x="88" y="665" type="line"/>
+      <point x="26" y="665" type="line"/>
+      <point x="81" y="400" type="line"/>
+      <point x="155" y="400" type="line"/>
+      <point x="193" y="597" type="line"/>
+      <point x="230" y="400" type="line"/>
+      <point x="303" y="400" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downtackbelowcomb" format="2">
+  <unicode hex="031E"/>
+  <anchor x="123" y="0" name="_bottom"/>
+  <anchor x="125" y="-267" name="bottom"/>
+  <outline>
+    <component base="uptackmod" yScale="-1" xOffset="-45" yOffset="91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>299</integer>
+    </dict>
+  </lib>
+</glyph>

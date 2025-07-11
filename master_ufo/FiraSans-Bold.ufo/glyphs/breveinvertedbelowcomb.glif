@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedbelowcomb" format="2">
+  <unicode hex="032F"/>
+  <anchor x="215" y="0" name="_bottom"/>
+  <anchor x="217" y="-256" name="bottom"/>
+  <outline>
+    <component base="breveinvertedcomb" yOffset="-850"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>430</integer>
+    </dict>
+  </lib>
+</glyph>

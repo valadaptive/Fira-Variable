@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotavrachy" format="2">
+  <advance width="600"/>
+  <unicode hex="1FD8"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="393" y="0" name="ogonek"/>
+  <anchor x="300" y="693" name="top"/>
+  <anchor x="64" y="693" name="topleft"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="breve.case"/>
+  </outline>
+</glyph>

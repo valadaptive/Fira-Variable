@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaperispomeni" format="2">
+  <advance width="454"/>
+  <unicode hex="1FDF"/>
+  <anchor x="276" y="534" name="_top"/>
+  <outline>
+    <contour>
+      <point x="325" y="583" type="line"/>
+      <point x="326" y="643" type="line"/>
+      <point x="365" y="662"/>
+      <point x="385" y="690"/>
+      <point x="385" y="728" type="curve" smooth="yes"/>
+      <point x="385" y="774"/>
+      <point x="350" y="810"/>
+      <point x="300" y="810" type="curve" smooth="yes"/>
+      <point x="242" y="810"/>
+      <point x="202" y="763"/>
+      <point x="202" y="705" type="curve" smooth="yes"/>
+      <point x="202" y="680"/>
+      <point x="209" y="660"/>
+      <point x="221" y="632" type="curve" smooth="yes"/>
+      <point x="241" y="583" type="line"/>
+    </contour>
+    <component base="perispomeni" xOffset="18" yOffset="197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

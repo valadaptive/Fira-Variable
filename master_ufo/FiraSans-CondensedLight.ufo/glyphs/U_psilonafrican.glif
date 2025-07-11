@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilonafrican" format="2">
+  <advance width="564"/>
+  <unicode hex="01B1"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <anchor x="282" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="283" y="-10" type="curve" smooth="yes"/>
+      <point x="414" y="-10"/>
+      <point x="494" y="123"/>
+      <point x="494" y="317" type="curve" smooth="yes"/>
+      <point x="494" y="525"/>
+      <point x="425" y="631"/>
+      <point x="360" y="678" type="curve"/>
+      <point x="471" y="678" type="line"/>
+      <point x="471" y="680" type="line"/>
+      <point x="358" y="680" type="line"/>
+      <point x="358" y="677" type="line"/>
+      <point x="422" y="630"/>
+      <point x="492" y="523"/>
+      <point x="492" y="317" type="curve" smooth="yes"/>
+      <point x="492" y="125"/>
+      <point x="413" y="-8"/>
+      <point x="283" y="-8" type="curve" smooth="yes"/>
+      <point x="153" y="-8"/>
+      <point x="72" y="125"/>
+      <point x="72" y="315" type="curve"/>
+      <point x="72" y="518"/>
+      <point x="139" y="628"/>
+      <point x="207" y="677" type="curve"/>
+      <point x="207" y="680" type="line"/>
+      <point x="94" y="680" type="line"/>
+      <point x="94" y="678" type="line"/>
+      <point x="205" y="678" type="line"/>
+      <point x="136" y="629"/>
+      <point x="70" y="520"/>
+      <point x="70" y="315" type="curve" smooth="yes"/>
+      <point x="70" y="123"/>
+      <point x="152" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

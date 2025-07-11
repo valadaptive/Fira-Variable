@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsili" format="2">
+  <advance width="456"/>
+  <unicode hex="1F08"/>
+  <anchor x="138" y="470" name="_top"/>
+  <anchor x="294" y="680" name="top"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="406" y="0" name="ogonek"/>
+  <anchor x="205" y="680" name="topleft"/>
+  <outline>
+    <component base="psili.case" xOffset="47"/>
+    <component base="Alpha"/>
+  </outline>
+</glyph>

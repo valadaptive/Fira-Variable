@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftangleabovecomb" format="2">
+  <unicode hex="031A"/>
+  <anchor x="122" y="527" name="_top"/>
+  <anchor x="124" y="779" name="top"/>
+  <outline>
+    <contour>
+      <point x="30" y="779" type="line"/>
+      <point x="30" y="720" type="line"/>
+      <point x="150" y="720" type="line"/>
+      <point x="150" y="594" type="line"/>
+      <point x="213" y="594" type="line"/>
+      <point x="213" y="779" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>213</integer>
+    </dict>
+  </lib>
+</glyph>

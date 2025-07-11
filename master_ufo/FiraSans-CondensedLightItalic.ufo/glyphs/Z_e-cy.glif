@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ze-cy" format="2">
+  <advance width="416"/>
+  <unicode hex="0417"/>
+  <anchor x="171" y="0" name="bottom"/>
+  <anchor x="274" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="274" y="690" type="curve"/>
+      <point x="208" y="690"/>
+      <point x="159" y="660"/>
+      <point x="108" y="605" type="curve"/>
+      <point x="110" y="604" type="line"/>
+      <point x="161" y="659"/>
+      <point x="208" y="688"/>
+      <point x="274" y="688" type="curve"/>
+      <point x="351" y="688"/>
+      <point x="390" y="634"/>
+      <point x="390" y="559" type="curve" smooth="yes"/>
+      <point x="390" y="478"/>
+      <point x="338" y="373"/>
+      <point x="224" y="373" type="curve" smooth="yes"/>
+      <point x="179" y="373" type="line"/>
+      <point x="179" y="371" type="line"/>
+      <point x="226" y="371" type="line" smooth="yes"/>
+      <point x="308" y="371"/>
+      <point x="360" y="321"/>
+      <point x="360" y="224" type="curve" smooth="yes"/>
+      <point x="360" y="133"/>
+      <point x="309" y="-7"/>
+      <point x="171" y="-7" type="curve"/>
+      <point x="97" y="-7"/>
+      <point x="52" y="25"/>
+      <point x="17" y="85" type="curve"/>
+      <point x="15" y="84" type="line"/>
+      <point x="51" y="23"/>
+      <point x="96" y="-9"/>
+      <point x="171" y="-9" type="curve"/>
+      <point x="310" y="-9"/>
+      <point x="362" y="131"/>
+      <point x="362" y="224" type="curve" smooth="yes"/>
+      <point x="362" y="323"/>
+      <point x="310" y="368"/>
+      <point x="239" y="372" type="curve"/>
+      <point x="342" y="380"/>
+      <point x="392" y="476"/>
+      <point x="392" y="559" type="curve" smooth="yes"/>
+      <point x="392" y="636"/>
+      <point x="352" y="690"/>
+    </contour>
+  </outline>
+</glyph>

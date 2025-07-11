@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iebreve-cy.sc" format="2">
+  <advance width="373"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="322" y="0" name="ogonek"/>
+  <anchor x="216" y="560" name="top"/>
+  <outline>
+    <component base="ie-cy.sc"/>
+    <component base="breve-cy.sc" xOffset="95"/>
+  </outline>
+</glyph>

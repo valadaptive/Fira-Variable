@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eturned.sc" format="2">
+  <advance width="474"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="280" y="560" name="top"/>
+  <outline>
+    <component base="schwa.sc"/>
+  </outline>
+</glyph>

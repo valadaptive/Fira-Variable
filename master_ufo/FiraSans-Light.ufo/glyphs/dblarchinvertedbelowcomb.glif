@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblarchinvertedbelowcomb" format="2">
+  <unicode hex="032B"/>
+  <anchor x="158" y="0" name="_bottom"/>
+  <anchor x="162" y="51" name="bottom"/>
+  <outline>
+    <component base="seagullbelowcomb" yScale="-1" yOffset="-217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>315</integer>
+    </dict>
+  </lib>
+</glyph>

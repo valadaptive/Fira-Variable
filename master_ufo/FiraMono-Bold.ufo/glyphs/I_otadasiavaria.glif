@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiavaria" format="2">
+  <advance width="600"/>
+  <unicode hex="1F3B"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="393" y="0" name="ogonek"/>
+  <anchor x="-90" y="696" name="top"/>
+  <anchor x="64" y="693" name="topleft"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="dasiavaria" xOffset="-413" yOffset="-140"/>
+  </outline>
+</glyph>

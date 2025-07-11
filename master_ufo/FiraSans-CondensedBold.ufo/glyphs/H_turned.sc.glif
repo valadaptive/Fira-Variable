@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hturned.sc" format="2">
+  <advance width="458"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="235" y="0" name="bottomleft"/>
+  <anchor x="436" y="0" name="bottomright"/>
+  <anchor x="219" y="570" name="top"/>
+  <outline>
+    <component base="che-cy.sc"/>
+  </outline>
+</glyph>

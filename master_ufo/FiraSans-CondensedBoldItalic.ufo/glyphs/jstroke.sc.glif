@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jstroke.sc" format="2">
+  <advance width="327"/>
+  <anchor x="179" y="571" name="top"/>
+  <outline>
+    <component base="j.sc"/>
+    <component base="hyphen" yScale="0.9" xOffset="-47" yOffset="20"/>
+  </outline>
+</glyph>

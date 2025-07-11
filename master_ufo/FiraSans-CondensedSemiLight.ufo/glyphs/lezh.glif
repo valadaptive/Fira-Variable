@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lezh" format="2">
+  <advance width="499"/>
+  <unicode hex="026E"/>
+  <anchor x="299" y="-193" name="bottom"/>
+  <anchor x="217" y="375" name="center"/>
+  <anchor x="276" y="734" name="top"/>
+  <anchor x="141" y="734" name="topright"/>
+  <outline>
+    <contour>
+      <point x="300" y="-199" type="curve" smooth="yes"/>
+      <point x="407" y="-199"/>
+      <point x="471" y="-116"/>
+      <point x="471" y="1" type="curve" smooth="yes"/>
+      <point x="471" y="125"/>
+      <point x="414" y="195"/>
+      <point x="279" y="195" type="curve" smooth="yes"/>
+      <point x="267" y="195" type="line"/>
+      <point x="235" y="167" type="line"/>
+      <point x="279" y="167" type="line" smooth="yes"/>
+      <point x="389" y="167"/>
+      <point x="440" y="119"/>
+      <point x="440" y="1" type="curve" smooth="yes"/>
+      <point x="440" y="-101"/>
+      <point x="392" y="-171"/>
+      <point x="299" y="-171" type="curve" smooth="yes"/>
+      <point x="250" y="-171"/>
+      <point x="211" y="-154"/>
+      <point x="173" y="-111" type="curve"/>
+      <point x="155" y="-130" type="line"/>
+      <point x="195" y="-174"/>
+      <point x="238" y="-199"/>
+    </contour>
+    <contour>
+      <point x="235" y="167" type="line"/>
+      <point x="266" y="195" type="line"/>
+      <point x="450" y="495" type="line"/>
+      <point x="450" y="520" type="line"/>
+      <point x="118" y="520" type="line"/>
+      <point x="118" y="492" type="line"/>
+      <point x="414" y="492" type="line"/>
+      <point x="235" y="195" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

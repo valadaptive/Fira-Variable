@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphaoxia" format="2">
+  <advance width="457"/>
+  <unicode hex="1FBB"/>
+  <anchor x="115" y="680" name="_topleft"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="442" y="0" name="ogonek"/>
+  <anchor x="234" y="680" name="top"/>
+  <anchor x="146" y="680" name="topleft"/>
+  <outline>
+    <component base="oxia.case" xOffset="47"/>
+    <component base="Alpha"/>
+  </outline>
+</glyph>

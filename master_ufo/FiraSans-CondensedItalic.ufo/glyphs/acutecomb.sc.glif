@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.sc" format="2">
+  <anchor x="171" y="564" name="_top"/>
+  <anchor x="201" y="829" name="top"/>
+  <outline>
+    <component base="acutecomb" xOffset="4" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>264</integer>
+    </dict>
+  </lib>
+</glyph>

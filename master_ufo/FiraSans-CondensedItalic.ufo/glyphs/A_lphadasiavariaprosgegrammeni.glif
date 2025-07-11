@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiavariaprosgegrammeni" format="2">
+  <advance width="662"/>
+  <unicode hex="1F8B"/>
+  <anchor x="138" y="422" name="_top"/>
+  <anchor x="495" y="689" name="top"/>
+  <anchor x="434" y="-188" name="bottom"/>
+  <anchor x="600" y="0" name="ogonek"/>
+  <anchor x="395" y="689" name="topleft"/>
+  <outline>
+    <component base="Alphadasiavaria"/>
+    <component base="ypogegrammenicomb" xOffset="371"/>
+  </outline>
+</glyph>

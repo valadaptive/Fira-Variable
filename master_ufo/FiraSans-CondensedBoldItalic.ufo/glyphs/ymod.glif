@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymod" format="2">
+  <advance width="305"/>
+  <unicode hex="02B8"/>
+  <outline>
+    <contour>
+      <point x="341" y="669" type="line"/>
+      <point x="271" y="669" type="line"/>
+      <point x="183" y="454" type="line"/>
+      <point x="158" y="669" type="line"/>
+      <point x="90" y="669" type="line"/>
+      <point x="133" y="400" type="line"/>
+      <point x="150" y="401" type="line"/>
+      <point x="129" y="363"/>
+      <point x="111" y="348"/>
+      <point x="64" y="337" type="curve"/>
+      <point x="66" y="281" type="line"/>
+      <point x="145" y="289"/>
+      <point x="183" y="329"/>
+      <point x="213" y="393" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

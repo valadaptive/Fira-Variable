@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pamphyliandigamma" format="2">
+  <advance width="677"/>
+  <unicode hex="0376"/>
+  <anchor x="301.467" y="0.0" name="bottom"/>
+  <anchor x="551" y="0" name="bottomright"/>
+  <anchor x="399" y="689" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+  </outline>
+</glyph>

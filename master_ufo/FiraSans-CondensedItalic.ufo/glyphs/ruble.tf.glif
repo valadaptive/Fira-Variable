@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ruble.tf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="159" y="0" type="line"/>
+      <point x="245" y="620" type="line"/>
+      <point x="277" y="620" type="line" smooth="yes"/>
+      <point x="344" y="620"/>
+      <point x="377" y="594"/>
+      <point x="377" y="518" type="curve" smooth="yes"/>
+      <point x="377" y="400"/>
+      <point x="320" y="335"/>
+      <point x="222" y="335" type="curve" smooth="yes"/>
+      <point x="185" y="335" type="line"/>
+      <point x="172" y="267" type="line"/>
+      <point x="214" y="267" type="line" smooth="yes"/>
+      <point x="363" y="267"/>
+      <point x="466" y="358"/>
+      <point x="466" y="521" type="curve" smooth="yes"/>
+      <point x="466" y="633"/>
+      <point x="395" y="689"/>
+      <point x="281" y="689" type="curve" smooth="yes"/>
+      <point x="170" y="689" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="191" type="line"/>
+      <point x="42" y="191" type="line"/>
+      <point x="33" y="132" type="line"/>
+      <point x="300" y="132" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="335" type="line"/>
+      <point x="63" y="335" type="line"/>
+      <point x="52" y="267" type="line"/>
+      <point x="210" y="267" type="line"/>
+    </contour>
+  </outline>
+</glyph>

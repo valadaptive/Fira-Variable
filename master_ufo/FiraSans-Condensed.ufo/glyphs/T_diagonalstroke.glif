@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdiagonalstroke" format="2">
+  <advance width="428"/>
+  <unicode hex="023E"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="214" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="171" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="611" type="line"/>
+      <point x="412" y="611" type="line"/>
+      <point x="422" y="689" type="line"/>
+      <point x="11" y="689" type="line"/>
+      <point x="11" y="611" type="line"/>
+      <point x="171" y="611" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="-70" type="line"/>
+      <point x="377" y="739" type="line"/>
+      <point x="341" y="755" type="line"/>
+      <point x="73" y="-54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

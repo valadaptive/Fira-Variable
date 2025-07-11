@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ThetaSymbol" format="2">
+  <advance width="563"/>
+  <unicode hex="03F4"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="347" y="680" name="top"/>
+  <outline>
+    <component base="Theta"/>
+  </outline>
+</glyph>

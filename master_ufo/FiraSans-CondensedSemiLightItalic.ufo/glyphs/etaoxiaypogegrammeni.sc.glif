@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etaoxiaypogegrammeni.sc" format="2">
+  <advance width="501"/>
+  <anchor x="373" y="0" name="bottomright"/>
+  <anchor x="251" y="280" name="center"/>
+  <anchor x="290" y="560" name="top"/>
+  <outline>
+    <component base="h.sc"/>
+  </outline>
+</glyph>

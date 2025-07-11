@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phiSymbol.sc" format="2">
+  <advance width="543"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="557" name="top"/>
+  <outline>
+    <component base="phi.sc"/>
+  </outline>
+</glyph>

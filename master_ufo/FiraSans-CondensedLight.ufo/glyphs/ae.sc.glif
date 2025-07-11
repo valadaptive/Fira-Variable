@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ae.sc" format="2">
+  <advance width="541"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="322" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="461" y="557" type="line"/>
+      <point x="204" y="557" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="205" y="555" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="2" type="line"/>
+      <point x="332" y="2" type="line"/>
+      <point x="207" y="555" type="line"/>
+      <point x="460" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="170" type="line"/>
+      <point x="75" y="170" type="line"/>
+      <point x="74" y="168" type="line"/>
+      <point x="294" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="453" y="297" type="line"/>
+      <point x="265" y="297" type="line"/>
+      <point x="265" y="295" type="line"/>
+      <point x="453" y="295" type="line"/>
+    </contour>
+  </outline>
+</glyph>

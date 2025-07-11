@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevedotbelow" format="2">
+  <advance width="589"/>
+  <unicode hex="1EB6"/>
+  <anchor x="222" y="-264" name="bottom"/>
+  <anchor x="488" y="0" name="ogonek"/>
+  <anchor x="390" y="950" name="top"/>
+  <anchor x="202" y="696" name="topleft"/>
+  <outline>
+    <component base="A"/>
+    <component base="breve.case" xOffset="83"/>
+    <component base="dotbelowcomb" xOffset="155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

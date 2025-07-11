@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravesingle.case" format="2">
+  <advance width="250"/>
+  <anchor x="114" y="916" name="top"/>
+  <anchor x="103" y="680" name="_top"/>
+  <outline>
+    <component base="macroncomb" yOffset="83"/>
+    <component base="gravecomb.case" xOffset="20" yOffset="74"/>
+  </outline>
+</glyph>

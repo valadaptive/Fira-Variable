@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phiSymbol" format="2">
+  <advance width="517"/>
+  <unicode hex="03D5"/>
+  <anchor x="198" y="-201" name="bottom"/>
+  <anchor x="329" y="739" name="top"/>
+  <outline>
+    <component base="phi-latin"/>
+  </outline>
+</glyph>

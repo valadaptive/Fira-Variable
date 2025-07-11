@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D6D" format="2">
+  <advance width="518"/>
+  <unicode hex="1D6D"/>
+  <anchor x="228" y="0" name="bottom"/>
+  <anchor x="228" y="259" name="center"/>
+  <anchor x="221" y="727" name="top"/>
+  <anchor x="399" y="727" name="topright"/>
+  <outline>
+    <contour>
+      <point x="416" y="604" type="curve"/>
+      <point x="445" y="604"/>
+      <point x="464" y="627"/>
+      <point x="473" y="649" type="curve"/>
+      <point x="472" y="649" type="line"/>
+      <point x="461" y="626"/>
+      <point x="444" y="606"/>
+      <point x="416" y="606" type="curve"/>
+      <point x="377" y="606"/>
+      <point x="339" y="661"/>
+      <point x="299" y="661" type="curve"/>
+      <point x="271" y="661"/>
+      <point x="252" y="638"/>
+      <point x="240" y="616" type="curve"/>
+      <point x="242" y="616" type="line"/>
+      <point x="255" y="639"/>
+      <point x="272" y="659"/>
+      <point x="299" y="659" type="curve"/>
+      <point x="339" y="659"/>
+      <point x="377" y="604"/>
+    </contour>
+    <component base="d" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

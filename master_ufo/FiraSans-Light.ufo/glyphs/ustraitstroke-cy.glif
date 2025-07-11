@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraitstroke-cy" format="2">
+  <advance width="435"/>
+  <unicode hex="04B1"/>
+  <anchor x="217.5" y="-188.0" name="bottom"/>
+  <anchor x="217.5" y="517.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="218" y="20" type="line"/>
+      <point x="220" y="20" type="line"/>
+      <point x="333" y="20" type="line"/>
+      <point x="333" y="22" type="line"/>
+      <point x="105" y="22" type="line"/>
+      <point x="105" y="20" type="line"/>
+    </contour>
+    <component base="ustrait-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="drachma.tf" format="2">
+  <advance width="920"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="226" y="0" type="line" smooth="yes"/>
+      <point x="421" y="0"/>
+      <point x="525" y="197"/>
+      <point x="525" y="445" type="curve" smooth="yes"/>
+      <point x="525" y="622"/>
+      <point x="435" y="682"/>
+      <point x="324" y="682" type="curve" smooth="yes"/>
+      <point x="225" y="682" type="line"/>
+      <point x="221" y="654" type="line"/>
+      <point x="311" y="654" type="line" smooth="yes"/>
+      <point x="419" y="654"/>
+      <point x="492" y="608"/>
+      <point x="492" y="445" type="curve" smooth="yes"/>
+      <point x="492" y="221"/>
+      <point x="408" y="29"/>
+      <point x="232" y="29" type="curve" smooth="yes"/>
+      <point x="116" y="29" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="120" y="29" type="line"/>
+      <point x="168" y="53"/>
+      <point x="189" y="76"/>
+      <point x="198" y="143" type="curve" smooth="yes"/>
+      <point x="263" y="605" type="line"/>
+      <point x="233" y="605" type="line"/>
+      <point x="168" y="143" type="line" smooth="yes"/>
+      <point x="159" y="82"/>
+      <point x="136" y="58"/>
+      <point x="82" y="28" type="curve"/>
+    </contour>
+    <contour>
+      <point x="746" y="530" type="curve" smooth="yes"/>
+      <point x="652" y="530"/>
+      <point x="575" y="449"/>
+      <point x="554" y="298" type="curve" smooth="yes"/>
+      <point x="484" y="-199" type="line"/>
+      <point x="515" y="-195" type="line"/>
+      <point x="583" y="292" type="line" smooth="yes"/>
+      <point x="602" y="431"/>
+      <point x="669" y="503"/>
+      <point x="745" y="503" type="curve" smooth="yes"/>
+      <point x="815" y="503"/>
+      <point x="849" y="452"/>
+      <point x="849" y="355" type="curve" smooth="yes"/>
+      <point x="849" y="245"/>
+      <point x="806" y="18"/>
+      <point x="668" y="18" type="curve" smooth="yes"/>
+      <point x="610" y="18"/>
+      <point x="577" y="60"/>
+      <point x="556" y="131" type="curve"/>
+      <point x="550" y="89" type="line"/>
+      <point x="566" y="34"/>
+      <point x="604" y="-10"/>
+      <point x="667" y="-10" type="curve" smooth="yes"/>
+      <point x="826" y="-10"/>
+      <point x="881" y="221"/>
+      <point x="881" y="354" type="curve" smooth="yes"/>
+      <point x="881" y="465"/>
+      <point x="837" y="530"/>
+    </contour>
+    <component base="hookaboveHELPER2.case" xOffset="26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPPP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria.case" format="2">
+  <advance width="92"/>
+  <anchor x="194" y="680" name="_topleft"/>
+  <anchor x="138" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="167" y="552" type="line"/>
+      <point x="169" y="552" type="line"/>
+      <point x="155" y="679" type="line"/>
+      <point x="152" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="550" type="line"/>
+      <point x="73" y="550" type="line"/>
+      <point x="110" y="669" type="line" smooth="yes"/>
+      <point x="112" y="674"/>
+      <point x="113" y="675"/>
+      <point x="113" y="677" type="curve"/>
+      <point x="113" y="680"/>
+      <point x="111" y="682"/>
+      <point x="109" y="682" type="curve" smooth="yes"/>
+      <point x="106" y="682"/>
+      <point x="104" y="680"/>
+      <point x="104" y="676" type="curve" smooth="yes"/>
+      <point x="104" y="674"/>
+      <point x="104" y="672"/>
+      <point x="107" y="672" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

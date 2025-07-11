@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger.tosf" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="dagger" xOffset="16"/>
+  </outline>
+</glyph>

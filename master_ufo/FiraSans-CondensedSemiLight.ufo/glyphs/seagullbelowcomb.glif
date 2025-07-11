@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seagullbelowcomb" format="2">
+  <unicode hex="033C"/>
+  <anchor x="149" y="0" name="_bottom"/>
+  <anchor x="150" y="-159" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="43" y="-169" type="line"/>
+      <point x="48" y="-130"/>
+      <point x="63" y="-106"/>
+      <point x="89" y="-106" type="curve"/>
+      <point x="114" y="-106"/>
+      <point x="130" y="-130"/>
+      <point x="135" y="-169" type="curve"/>
+      <point x="153" y="-169" type="line"/>
+      <point x="148" y="-110"/>
+      <point x="123" y="-72"/>
+      <point x="89" y="-72" type="curve"/>
+      <point x="55" y="-72"/>
+      <point x="30" y="-110"/>
+      <point x="25" y="-167" type="curve"/>
+    </contour>
+    <contour>
+      <point x="145" y="-169" type="curve"/>
+      <point x="163" y="-169" type="line"/>
+      <point x="167" y="-130"/>
+      <point x="183" y="-106"/>
+      <point x="208" y="-106" type="curve"/>
+      <point x="234" y="-106"/>
+      <point x="249" y="-130"/>
+      <point x="254" y="-169" type="curve"/>
+      <point x="272" y="-167" type="line"/>
+      <point x="267" y="-110"/>
+      <point x="242" y="-72"/>
+      <point x="208" y="-72" type="curve"/>
+      <point x="174" y="-72"/>
+      <point x="150" y="-110"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>297</integer>
+    </dict>
+  </lib>
+</glyph>

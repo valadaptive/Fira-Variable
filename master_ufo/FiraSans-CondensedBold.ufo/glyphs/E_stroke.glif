@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Estroke" format="2">
+  <advance width="520"/>
+  <unicode hex="0246"/>
+  <anchor x="211" y="0" name="bottom"/>
+  <anchor x="393" y="0" name="ogonek"/>
+  <anchor x="211" y="695" name="top"/>
+  <anchor x="31" y="696" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="337" y="758" type="line"/>
+      <point x="159" y="-62" type="line"/>
+      <point x="219" y="-76" type="line"/>
+      <point x="396" y="744" type="line"/>
+    </contour>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

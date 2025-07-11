@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elhook-cy" format="2">
+  <advance width="637"/>
+  <unicode hex="0512"/>
+  <anchor x="318.5" y="0.0" name="bottom"/>
+  <anchor x="527" y="0" name="bottomright"/>
+  <anchor x="318.5" y="682.0" name="top"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="hookHELPER.case" xOffset="283"/>
+  </outline>
+</glyph>

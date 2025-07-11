@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotavaria" format="2">
+  <advance width="284"/>
+  <unicode hex="1FDA"/>
+  <anchor x="67" y="680" name="_topleft"/>
+  <anchor x="153" y="0" name="bottom"/>
+  <anchor x="164" y="0" name="ogonek"/>
+  <anchor x="153" y="680" name="top"/>
+  <anchor x="102" y="680" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="I" xOffset="22"/>
+  </outline>
+</glyph>

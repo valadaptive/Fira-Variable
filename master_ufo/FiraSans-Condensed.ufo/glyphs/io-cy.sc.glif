@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="io-cy.sc" format="2">
+  <advance width="396"/>
+  <anchor x="218" y="0" name="bottom"/>
+  <anchor x="343" y="0" name="ogonek"/>
+  <anchor x="218" y="564" name="top"/>
+  <outline>
+    <component base="e.sc"/>
+    <component base="dieresiscomb.sc" xOffset="52"/>
+  </outline>
+</glyph>

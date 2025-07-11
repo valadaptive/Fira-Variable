@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring.case" format="2">
+  <advance width="368"/>
+  <anchor x="184" y="660" name="_top"/>
+  <anchor x="186" y="1012" name="top"/>
+  <outline>
+    <component base="ringcomb" yOffset="126"/>
+  </outline>
+</glyph>

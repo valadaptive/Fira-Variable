@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jstroke" format="2">
+  <advance width="289"/>
+  <unicode hex="0249"/>
+  <anchor x="51" y="-193" name="bottom"/>
+  <anchor x="185" y="731" name="top"/>
+  <outline>
+    <component base="jdotlessstroke"/>
+    <component base="dotaccentcomb" xOffset="65"/>
+  </outline>
+</glyph>

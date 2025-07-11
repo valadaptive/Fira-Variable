@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexgrave" format="2">
+  <advance width="464"/>
+  <unicode hex="1ED3"/>
+  <anchor x="187" y="0" name="bottom"/>
+  <anchor x="300" y="697" name="top"/>
+  <anchor x="357" y="550" name="topright"/>
+  <anchor x="213" y="550" name="topleft"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexgrave" xOffset="33"/>
+  </outline>
+</glyph>

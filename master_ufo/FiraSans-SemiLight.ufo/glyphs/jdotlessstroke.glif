@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotlessstroke" format="2">
+  <advance width="289"/>
+  <unicode hex="025F"/>
+  <anchor x="148" y="-193" name="bottom"/>
+  <anchor x="147" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="229" type="line"/>
+      <point x="269" y="229" type="line"/>
+      <point x="269" y="257" type="line"/>
+      <point x="20" y="257" type="line"/>
+    </contour>
+    <component base="dotlessj" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorntilde.sc" format="2">
+  <advance width="644"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="271" y="0" name="ogonek"/>
+  <anchor x="284" y="560" name="top"/>
+  <anchor x="489" y="560" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="horncomb" xOffset="360" yOffset="40"/>
+    <component base="tildecomb.sc" xOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>tildecomb.sc</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadasiaperispomeni" format="2">
+  <advance width="600"/>
+  <unicode hex="1F37"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="287" y="870" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasiaperispomeni" xOffset="-11"/>
+  </outline>
+</glyph>

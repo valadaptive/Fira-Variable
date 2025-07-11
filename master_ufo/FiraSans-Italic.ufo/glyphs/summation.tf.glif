@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="summation.tf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="550" y="689" type="line"/>
+      <point x="131" y="689" type="line"/>
+      <point x="121" y="611" type="line"/>
+      <point x="304" y="352" type="line"/>
+      <point x="44" y="78" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="464" y="78" type="line"/>
+      <point x="152" y="78" type="line"/>
+      <point x="389" y="325" type="line"/>
+      <point x="393" y="367" type="line"/>
+      <point x="222" y="611" type="line"/>
+      <point x="539" y="611" type="line"/>
+    </contour>
+  </outline>
+</glyph>

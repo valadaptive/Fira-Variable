@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="elhook-cy.sc" format="2">
+  <advance width="475"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="378" y="0" name="bottomright"/>
+  <anchor x="286" y="564" name="top"/>
+  <outline>
+    <component base="el-cy.sc"/>
+    <component base="hookHELPER" xOffset="190"/>
+  </outline>
+</glyph>

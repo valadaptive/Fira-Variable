@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy.sc" format="2">
+  <advance width="372"/>
+  <anchor x="152" y="0" name="bottom"/>
+  <anchor x="202" y="0" name="bottomright"/>
+  <anchor x="189" y="287" name="center"/>
+  <anchor x="228" y="564" name="top"/>
+  <outline>
+    <component base="te-cy.sc"/>
+    <component base="descStraight-cy" xOffset="183"/>
+  </outline>
+</glyph>

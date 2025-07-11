@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegaoxiaypogegrammeni" format="2">
+  <advance width="632"/>
+  <unicode hex="1FF4"/>
+  <anchor x="382" y="-210" name="bottom"/>
+  <anchor x="316" y="852" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="oxia" xOffset="148"/>
+    <component base="ypogegrammenicomb" xOffset="231"/>
+  </outline>
+</glyph>

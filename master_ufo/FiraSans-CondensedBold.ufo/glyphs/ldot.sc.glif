@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.sc" format="2">
+  <advance width="414"/>
+  <anchor x="203" y="0" name="bottom"/>
+  <anchor x="327" y="334" name="center"/>
+  <anchor x="122" y="571" name="top"/>
+  <anchor x="234" y="571" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="dotaccentcomb.sc" xScale="0.8" yScale="0.8" xOffset="219" yOffset="-266"/>
+  </outline>
+</glyph>

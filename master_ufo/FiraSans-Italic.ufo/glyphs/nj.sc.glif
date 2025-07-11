@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nj.sc" format="2">
+  <advance width="905"/>
+  <anchor x="273" y="0" name="bottom"/>
+  <anchor x="805" y="564" name="top"/>
+  <outline>
+    <component base="n.sc"/>
+    <component base="j.sc" xOffset="620"/>
+  </outline>
+</glyph>

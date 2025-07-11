@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourthtonechinese" format="2">
+  <advance width="253"/>
+  <unicode hex="02CB"/>
+  <anchor x="111" y="520" name="_top"/>
+  <anchor x="113" y="764" name="top"/>
+  <outline>
+    <component base="gravecomb"/>
+  </outline>
+</glyph>

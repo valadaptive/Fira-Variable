@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlegrightlong" format="2">
+  <advance width="582"/>
+  <unicode hex="019E"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="244" y="520" name="top"/>
+  <anchor x="85" y="520" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="389" y="1" type="line"/>
+      <point x="359" y="1" type="line"/>
+      <point x="359" y="-193" type="line"/>
+      <point x="389" y="-199" type="line"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

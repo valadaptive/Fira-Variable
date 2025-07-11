@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chi.sc" format="2">
+  <advance width="471"/>
+  <anchor x="198.467" y="0.0" name="bottom"/>
+  <anchor x="386" y="0" name="bottomright"/>
+  <anchor x="277.733" y="564.0" name="top"/>
+  <outline>
+    <component base="x.sc"/>
+  </outline>
+</glyph>

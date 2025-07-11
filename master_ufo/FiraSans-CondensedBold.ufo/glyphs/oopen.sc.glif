@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oopen.sc" format="2">
+  <advance width="424"/>
+  <anchor x="212" y="0" name="bottom"/>
+  <anchor x="212" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="173" y="-17" type="curve" smooth="yes"/>
+      <point x="335" y="-17"/>
+      <point x="417" y="102"/>
+      <point x="417" y="287" type="curve" smooth="yes"/>
+      <point x="417" y="473"/>
+      <point x="335" y="586"/>
+      <point x="179" y="586" type="curve" smooth="yes"/>
+      <point x="104" y="586"/>
+      <point x="42" y="559"/>
+      <point x="-3" y="519" type="curve"/>
+      <point x="80" y="412" type="line"/>
+      <point x="108" y="434"/>
+      <point x="130" y="452"/>
+      <point x="165" y="452" type="curve" smooth="yes"/>
+      <point x="211" y="452"/>
+      <point x="222" y="406"/>
+      <point x="222" y="287" type="curve" smooth="yes"/>
+      <point x="222" y="162"/>
+      <point x="206" y="123"/>
+      <point x="166" y="123" type="curve" smooth="yes"/>
+      <point x="135" y="123"/>
+      <point x="104" y="143"/>
+      <point x="77" y="170" type="curve"/>
+      <point x="-5" y="65" type="line"/>
+      <point x="36" y="20"/>
+      <point x="96" y="-17"/>
+    </contour>
+  </outline>
+</glyph>

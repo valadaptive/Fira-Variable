@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacutecomb" format="2">
+  <advance width="253"/>
+  <anchor x="201" y="877" name="top"/>
+  <anchor x="154" y="520" name="_top"/>
+  <outline>
+    <component base="ringcomb" xOffset="4" yOffset="-50"/>
+    <component base="acutecomb.case" xOffset="4" yOffset="8"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Io-cy" format="2">
+  <advance width="429"/>
+  <unicode hex="0401"/>
+  <anchor x="197" y="0" name="bottom"/>
+  <anchor x="332" y="0" name="ogonek"/>
+  <anchor x="324" y="891" name="top"/>
+  <anchor x="122" y="689" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dieresiscomb.case" xOffset="71"/>
+  </outline>
+</glyph>

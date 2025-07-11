@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgrave" format="2">
+  <advance width="492"/>
+  <anchor x="297" y="744" name="top"/>
+  <anchor x="185" y="616" name="topleft"/>
+  <anchor x="409" y="616" name="topright"/>
+  <anchor x="301" y="527" name="_top"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="100" yOffset="-170"/>
+    <component base="gravedbl" xOffset="-14" yOffset="89"/>
+  </outline>
+</glyph>

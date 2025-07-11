@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oogonekmacron" format="2">
+  <advance width="494"/>
+  <unicode hex="01ED"/>
+  <anchor x="210" y="0" name="bottom"/>
+  <anchor x="310" y="779" name="top"/>
+  <anchor x="466" y="534" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="ogonekcomb" xOffset="154"/>
+    <component base="macroncomb" xOffset="75"/>
+  </outline>
+</glyph>

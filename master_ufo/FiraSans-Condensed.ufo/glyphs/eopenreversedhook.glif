@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversedhook" format="2">
+  <advance width="709"/>
+  <unicode hex="025D"/>
+  <anchor x="192" y="0" name="bottom"/>
+  <anchor x="186" y="527" name="top"/>
+  <outline>
+    <component base="eopenreversed"/>
+    <component base="hookrightHELPER" xOffset="315"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiavaria" format="2">
+  <advance width="991"/>
+  <unicode hex="1F2B"/>
+  <anchor x="186" y="380" name="_top"/>
+  <anchor x="783" y="696" name="top"/>
+  <anchor x="682" y="0" name="bottom"/>
+  <anchor x="933" y="0" name="bottomright"/>
+  <anchor x="735" y="348" name="center"/>
+  <anchor x="550" y="696" name="topleft"/>
+  <outline>
+    <component base="dasiavaria.case"/>
+    <component base="Eta" xOffset="455"/>
+  </outline>
+</glyph>

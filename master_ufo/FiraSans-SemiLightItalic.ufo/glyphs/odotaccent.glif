@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotaccent" format="2">
+  <advance width="561"/>
+  <unicode hex="022F"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="347" y="731" name="top"/>
+  <anchor x="493" y="520" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotaccentcomb" xOffset="226"/>
+  </outline>
+</glyph>

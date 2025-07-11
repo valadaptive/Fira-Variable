@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicronvaria" format="2">
+  <advance width="458"/>
+  <unicode hex="1F78"/>
+  <anchor x="183" y="0" name="bottom"/>
+  <anchor x="308" y="746" name="top"/>
+  <anchor x="399" y="517" name="topright"/>
+  <outline>
+    <component base="omicron"/>
+    <component base="gravecomb" xOffset="144"/>
+  </outline>
+</glyph>

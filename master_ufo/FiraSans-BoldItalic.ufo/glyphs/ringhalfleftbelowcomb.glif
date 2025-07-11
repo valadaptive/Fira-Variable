@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleftbelowcomb" format="2">
+  <unicode hex="031C"/>
+  <anchor x="78" y="0" name="_bottom"/>
+  <anchor x="54" y="-337" name="bottom"/>
+  <outline>
+    <component base="ringhalfleft" xOffset="-131" yOffset="-930"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>212</integer>
+    </dict>
+  </lib>
+</glyph>

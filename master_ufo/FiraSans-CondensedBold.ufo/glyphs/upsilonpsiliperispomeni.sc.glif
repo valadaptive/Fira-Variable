@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonpsiliperispomeni.sc" format="2">
+  <advance width="468"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="237" y="571" name="top"/>
+  <outline>
+    <component base="y.sc"/>
+  </outline>
+</glyph>

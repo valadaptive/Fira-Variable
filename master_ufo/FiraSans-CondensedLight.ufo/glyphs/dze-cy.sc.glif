@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dze-cy.sc" format="2">
+  <advance width="406"/>
+  <anchor x="194" y="2" name="bottom"/>
+  <anchor x="211" y="557" name="top"/>
+  <outline>
+    <component base="s.sc"/>
+  </outline>
+</glyph>

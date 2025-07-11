@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia" format="2">
+  <advance width="600"/>
+  <unicode hex="1FDE"/>
+  <anchor x="285" y="531" name="_top"/>
+  <anchor x="501" y="833" name="_topleft"/>
+  <anchor x="305" y="838" name="top"/>
+  <outline>
+    <contour>
+      <point x="339" y="837" type="line"/>
+      <point x="298" y="600" type="line"/>
+      <point x="386" y="581" type="line"/>
+      <point x="473" y="802" type="line"/>
+    </contour>
+    <component base="dasia" xOffset="-102" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

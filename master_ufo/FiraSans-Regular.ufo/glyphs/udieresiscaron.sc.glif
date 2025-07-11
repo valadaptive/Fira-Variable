@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresiscaron.sc" format="2">
+  <advance width="605"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="393" y="0" name="ogonek"/>
+  <anchor x="302" y="936" name="top"/>
+  <anchor x="525" y="564" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresiscaroncomb" xOffset="104" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresiscaroncomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

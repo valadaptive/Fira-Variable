@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance width="448"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="443" y="291" type="line"/>
+      <point x="13" y="291" type="line"/>
+      <point x="-10" y="138" type="line"/>
+      <point x="420" y="138" type="line"/>
+    </contour>
+    <component base="dagger"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

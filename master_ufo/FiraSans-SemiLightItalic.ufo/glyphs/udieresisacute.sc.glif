@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisacute.sc" format="2">
+  <advance width="590"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="336" y="0" name="ogonek"/>
+  <anchor x="337" y="560" name="top"/>
+  <anchor x="532" y="560" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="dieresisacutecomb" xOffset="159" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresisacutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

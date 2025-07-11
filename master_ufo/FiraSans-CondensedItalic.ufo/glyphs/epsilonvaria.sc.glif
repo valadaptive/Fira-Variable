@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonvaria.sc" format="2">
+  <advance width="391"/>
+  <anchor x="182" y="0" name="bottom"/>
+  <anchor x="302" y="0" name="ogonek"/>
+  <anchor x="259" y="564" name="top"/>
+  <outline>
+    <component base="e.sc"/>
+  </outline>
+</glyph>

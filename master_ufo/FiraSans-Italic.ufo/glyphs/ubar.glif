@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubar" format="2">
+  <advance width="598"/>
+  <unicode hex="0289"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <anchor x="465" y="0" name="bottomright"/>
+  <anchor x="464" y="0" name="ogonek"/>
+  <anchor x="336" y="527" name="top"/>
+  <anchor x="539" y="527" name="topright"/>
+  <outline>
+    <contour>
+      <point x="22" y="317" type="line"/>
+      <point x="107" y="317" type="line"/>
+      <point x="585" y="317" type="line"/>
+      <point x="595" y="387" type="line"/>
+      <point x="510" y="387" type="line"/>
+      <point x="32" y="387" type="line"/>
+    </contour>
+    <component base="u" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

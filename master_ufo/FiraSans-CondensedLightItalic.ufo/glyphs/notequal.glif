@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="407"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="323" y="511" type="line"/>
+      <point x="97" y="152" type="line"/>
+      <point x="99" y="152" type="line"/>
+      <point x="325" y="511" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="digamma" format="2">
+  <advance width="382"/>
+  <unicode hex="03DD"/>
+  <anchor x="191" y="-214" name="bottom"/>
+  <anchor x="191" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="206" y="533" type="line"/>
+      <point x="75" y="533"/>
+      <point x="17" y="447"/>
+      <point x="17" y="338" type="curve" smooth="yes"/>
+      <point x="17" y="-227" type="line"/>
+      <point x="201" y="-200" type="line"/>
+      <point x="201" y="326" type="line" smooth="yes"/>
+      <point x="201" y="374"/>
+      <point x="215" y="391"/>
+      <point x="238" y="391" type="curve"/>
+      <point x="376" y="391" type="line"/>
+      <point x="394" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="106" type="curve"/>
+      <point x="350" y="227" type="line"/>
+      <point x="322" y="248"/>
+      <point x="286" y="258"/>
+      <point x="238" y="258" type="curve" smooth="yes"/>
+      <point x="100" y="258" type="line"/>
+      <point x="100" y="122" type="line"/>
+      <point x="229" y="122" type="line" smooth="yes"/>
+      <point x="262" y="122"/>
+      <point x="283" y="116"/>
+    </contour>
+  </outline>
+</glyph>

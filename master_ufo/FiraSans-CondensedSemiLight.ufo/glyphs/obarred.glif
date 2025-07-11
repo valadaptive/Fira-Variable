@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="obarred" format="2">
+  <advance width="461"/>
+  <unicode hex="0275"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="231" y="520" name="top"/>
+  <outline>
+    <component base="obarred-cy"/>
+  </outline>
+</glyph>

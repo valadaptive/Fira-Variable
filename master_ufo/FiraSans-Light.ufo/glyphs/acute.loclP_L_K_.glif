@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.loclPLK" format="2">
+  <advance width="153"/>
+  <anchor x="46" y="517" name="_top"/>
+  <outline>
+    <contour>
+      <point x="121" y="725" type="line"/>
+      <point x="30" y="583" type="line"/>
+      <point x="32" y="582" type="line"/>
+      <point x="123" y="724" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnLeftHook-cy" format="2">
+  <advance width="535"/>
+  <unicode hex="0528"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="438" y="0" name="bottomright"/>
+  <anchor x="267" y="340" name="center"/>
+  <anchor x="267" y="680" name="top"/>
+  <anchor x="65" y="680" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="hookHELPER.case" xOffset="-74" yOffset="-1"/>
+  </outline>
+</glyph>

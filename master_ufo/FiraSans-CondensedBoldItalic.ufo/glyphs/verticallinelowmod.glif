@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance width="230"/>
+  <unicode hex="02CC"/>
+  <anchor x="74" y="0" name="_bottom"/>
+  <anchor x="43" y="-341" name="bottom"/>
+  <outline>
+    <component base="verticallinebelowcomb"/>
+  </outline>
+</glyph>

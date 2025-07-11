@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="579"/>
+  <unicode hex="04A0"/>
+  <anchor x="310" y="0" name="bottom"/>
+  <anchor x="538" y="0" name="bottomright"/>
+  <anchor x="350" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="182" y="682" type="line"/>
+      <point x="0" y="682" type="line"/>
+      <point x="0" y="654" type="line"/>
+      <point x="171" y="654" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

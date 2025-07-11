@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="740"/>
+  <unicode hex="0496"/>
+  <anchor x="334.959" y="0.0" name="bottom"/>
+  <anchor x="670" y="0" name="bottomright"/>
+  <anchor x="435" y="682" name="top"/>
+  <outline>
+    <component base="Zhe-cy"/>
+    <component base="descStraight-cy.case" xOffset="666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

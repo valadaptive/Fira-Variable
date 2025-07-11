@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nj" format="2">
+  <advance width="707"/>
+  <unicode hex="01CC"/>
+  <anchor x="595" y="-201" name="bottom"/>
+  <anchor x="594" y="771" name="top"/>
+  <anchor x="65" y="527" name="topleft"/>
+  <outline>
+    <component base="n"/>
+    <component base="j" xOffset="478"/>
+  </outline>
+</glyph>

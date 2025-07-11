@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bilabialpercussive" format="2">
+  <advance width="469"/>
+  <unicode hex="02AC"/>
+  <outline>
+    <component base="wmod" xOffset="2"/>
+    <component base="wmod" xOffset="-56" yOffset="-400"/>
+  </outline>
+</glyph>

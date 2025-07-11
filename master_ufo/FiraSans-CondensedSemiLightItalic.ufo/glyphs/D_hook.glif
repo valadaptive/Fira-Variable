@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dhook" format="2">
+  <advance width="663"/>
+  <unicode hex="018A"/>
+  <anchor x="237" y="0" name="bottom"/>
+  <anchor x="321" y="341" name="center"/>
+  <anchor x="364" y="682" name="top"/>
+  <outline>
+    <component base="D" xOffset="37"/>
+    <component base="hookaboveHELPER2.case"/>
+  </outline>
+</glyph>

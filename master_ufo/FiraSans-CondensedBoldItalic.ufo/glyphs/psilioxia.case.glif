@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia.case" format="2">
+  <advance width="440"/>
+  <anchor x="172" y="391" name="_top"/>
+  <anchor x="246" y="712" name="top"/>
+  <outline>
+    <contour>
+      <point x="336" y="708" type="line"/>
+      <point x="260" y="452" type="line"/>
+      <point x="357" y="431" type="line"/>
+      <point x="477" y="671" type="line"/>
+    </contour>
+    <component base="psili" xOffset="50" yOffset="-142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gdotaccent" format="2">
+  <advance width="403"/>
+  <unicode hex="0121"/>
+  <anchor x="206" y="-193" name="bottom"/>
+  <anchor x="202" y="645" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="dotaccentcomb" xOffset="147"/>
+  </outline>
+</glyph>

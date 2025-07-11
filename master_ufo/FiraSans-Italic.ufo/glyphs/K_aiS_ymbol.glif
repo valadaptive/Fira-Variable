@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaiSymbol" format="2">
+  <advance width="605"/>
+  <unicode hex="03CF"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="385" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="455" y="78" type="line"/>
+      <point x="444" y="0" type="line"/>
+      <point x="558" y="0" type="line"/>
+      <point x="565" y="78" type="line"/>
+    </contour>
+    <component base="Kappa"/>
+    <component base="hookHELPER.case" xOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

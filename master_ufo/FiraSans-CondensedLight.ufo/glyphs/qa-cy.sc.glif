@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qa-cy.sc" format="2">
+  <advance width="495"/>
+  <anchor x="248" y="0" name="bottom"/>
+  <anchor x="248" y="557" name="top"/>
+  <outline>
+    <component base="q.sc"/>
+  </outline>
+</glyph>

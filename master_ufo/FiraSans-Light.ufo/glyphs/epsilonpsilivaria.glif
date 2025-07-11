@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonpsilivaria" format="2">
+  <advance width="447"/>
+  <unicode hex="1F12"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="256" y="517" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="psilivaria" xOffset="169"/>
+  </outline>
+</glyph>

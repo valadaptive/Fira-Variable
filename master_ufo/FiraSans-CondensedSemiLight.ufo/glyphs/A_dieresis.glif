@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis" format="2">
+  <advance width="471"/>
+  <unicode hex="00C4"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="456" y="0" name="ogonek"/>
+  <anchor x="238" y="846" name="top"/>
+  <anchor x="146" y="682" name="topleft"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresiscomb.case" xOffset="109"/>
+  </outline>
+</glyph>

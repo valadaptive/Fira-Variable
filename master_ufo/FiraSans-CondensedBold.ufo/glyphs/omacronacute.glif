@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacronacute" format="2">
+  <advance width="500"/>
+  <unicode hex="1E53"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="360" y="0" name="ogonek"/>
+  <anchor x="261" y="993" name="top"/>
+  <anchor x="436" y="534" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="macronacutesingle" xOffset="85" yOffset="1"/>
+  </outline>
+</glyph>

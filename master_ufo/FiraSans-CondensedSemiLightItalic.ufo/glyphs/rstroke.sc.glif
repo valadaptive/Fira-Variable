@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rstroke.sc" format="2">
+  <advance width="510"/>
+  <anchor x="183" y="0" name="bottom"/>
+  <anchor x="268" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="187" y="260" type="line"/>
+      <point x="163" y="288" type="line"/>
+      <point x="95" y="288" type="line"/>
+      <point x="30" y="288" type="line"/>
+      <point x="26" y="260" type="line"/>
+    </contour>
+    <component base="r.sc" xOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

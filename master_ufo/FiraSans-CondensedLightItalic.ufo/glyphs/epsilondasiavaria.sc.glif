@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilondasiavaria.sc" format="2">
+  <advance width="372"/>
+  <anchor x="187" y="0" name="bottom"/>
+  <anchor x="278" y="0" name="ogonek"/>
+  <anchor x="256" y="557" name="top"/>
+  <outline>
+    <component base="e.sc"/>
+  </outline>
+</glyph>

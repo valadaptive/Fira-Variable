@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexbelowcomb" format="2">
+  <unicode hex="032D"/>
+  <anchor x="115" y="0" name="_bottom"/>
+  <anchor x="116" y="-180" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="27" y="-170" type="line"/>
+      <point x="115" y="-87" type="line"/>
+      <point x="203" y="-170" type="line"/>
+      <point x="204" y="-169" type="line"/>
+      <point x="116" y="-85" type="line"/>
+      <point x="115" y="-85" type="line"/>
+      <point x="25" y="-169" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>229</integer>
+    </dict>
+  </lib>
+</glyph>

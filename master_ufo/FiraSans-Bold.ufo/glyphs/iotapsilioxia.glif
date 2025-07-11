@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotapsilioxia" format="2">
+  <advance width="281"/>
+  <unicode hex="1F34"/>
+  <anchor x="140.5" y="0.0" name="bottom"/>
+  <anchor x="136" y="534" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="psilioxia" xOffset="-60"/>
+  </outline>
+</glyph>

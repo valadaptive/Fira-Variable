@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Koppa" format="2">
+  <advance width="360"/>
+  <unicode hex="03DE"/>
+  <anchor x="180" y="0" name="bottom"/>
+  <anchor x="180" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="319" y="340" type="line"/>
+      <point x="317" y="341" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="340" type="line"/>
+      <point x="319" y="340" type="line"/>
+      <point x="319" y="342" type="line"/>
+      <point x="41" y="342" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="341" type="line"/>
+      <point x="201" y="680" type="line"/>
+      <point x="198" y="680" type="line"/>
+      <point x="41" y="342" type="line"/>
+    </contour>
+  </outline>
+</glyph>

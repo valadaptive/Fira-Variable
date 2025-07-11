@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lefttackbelowcomb" format="2">
+  <unicode hex="0318"/>
+  <anchor x="122" y="0" name="_bottom"/>
+  <anchor x="85" y="-356" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="95" y="-56" type="line"/>
+      <point x="81" y="-155" type="line"/>
+      <point x="-27" y="-155" type="line"/>
+      <point x="-41" y="-258" type="line"/>
+      <point x="67" y="-258" type="line"/>
+      <point x="53" y="-356" type="line"/>
+      <point x="165" y="-356" type="line"/>
+      <point x="207" y="-56" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>284</integer>
+    </dict>
+  </lib>
+</glyph>

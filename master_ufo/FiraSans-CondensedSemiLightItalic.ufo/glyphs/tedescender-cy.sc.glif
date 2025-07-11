@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy.sc" format="2">
+  <advance width="346"/>
+  <anchor x="139" y="0" name="bottom"/>
+  <anchor x="160" y="0" name="bottomright"/>
+  <anchor x="184" y="340" name="center"/>
+  <anchor x="214" y="560" name="top"/>
+  <outline>
+    <component base="te-cy.sc"/>
+    <component base="descStraight-cy" xOffset="180"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

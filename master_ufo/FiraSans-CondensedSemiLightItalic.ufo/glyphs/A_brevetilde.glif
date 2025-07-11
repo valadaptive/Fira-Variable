@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde" format="2">
+  <advance width="471"/>
+  <unicode hex="1EB4"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="404" y="0" name="ogonek"/>
+  <anchor x="326" y="931" name="top"/>
+  <anchor x="204" y="682" name="topleft"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevetilde.case" xOffset="88"/>
+  </outline>
+</glyph>

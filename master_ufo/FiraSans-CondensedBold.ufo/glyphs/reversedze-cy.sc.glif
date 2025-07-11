@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reversedze-cy.sc" format="2">
+  <advance width="418"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="209" y="570" name="top"/>
+  <outline>
+    <component base="eopen.sc"/>
+  </outline>
+</glyph>

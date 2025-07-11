@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadialytikaperispomeni" format="2">
+  <advance width="283"/>
+  <unicode hex="1FD7"/>
+  <anchor x="141.5" y="0.0" name="bottom"/>
+  <anchor x="140" y="851" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dieresistilde" xOffset="-59"/>
+  </outline>
+</glyph>

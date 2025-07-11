@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aie-cy.sc" format="2">
+  <advance width="594"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="334" y="564" name="top"/>
+  <outline>
+    <component base="ae.sc"/>
+  </outline>
+</glyph>

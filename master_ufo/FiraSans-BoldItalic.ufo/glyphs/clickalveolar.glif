@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickalveolar" format="2">
+  <advance width="342"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <contour>
+      <point x="20" y="391" type="line"/>
+      <point x="106" y="391" type="line"/>
+      <point x="355" y="391" type="line"/>
+      <point x="370" y="496" type="line"/>
+      <point x="35" y="496" type="line"/>
+    </contour>
+    <contour>
+      <point x="-2" y="242" type="line"/>
+      <point x="85" y="242" type="line"/>
+      <point x="334" y="242" type="line"/>
+      <point x="349" y="347" type="line"/>
+      <point x="13" y="347" type="line"/>
+    </contour>
+    <component base="clickdental" xOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="varia" format="2">
+  <advance width="253"/>
+  <unicode hex="1FEF"/>
+  <anchor x="141" y="520" name="_top"/>
+  <anchor x="177" y="767" name="top"/>
+  <outline>
+    <component base="gravecomb"/>
+  </outline>
+</glyph>

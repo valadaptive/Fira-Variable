@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="izhitsa-cy" format="2">
+  <advance width="451"/>
+  <unicode hex="0475"/>
+  <anchor x="195" y="0" name="bottom"/>
+  <anchor x="259" y="533" name="top"/>
+  <outline>
+    <component base="vrighthook"/>
+  </outline>
+</glyph>

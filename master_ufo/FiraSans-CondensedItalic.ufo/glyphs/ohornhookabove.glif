@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohornhookabove" format="2">
+  <advance width="595"/>
+  <unicode hex="1EDF"/>
+  <anchor x="196" y="0" name="bottom"/>
+  <anchor x="344" y="844" name="top"/>
+  <anchor x="486" y="527" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="horncomb" xOffset="355"/>
+    <component base="hookabovecomb" xOffset="139"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>hookabovecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

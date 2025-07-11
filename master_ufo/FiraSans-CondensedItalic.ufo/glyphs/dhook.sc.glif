@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dhook.sc" format="2">
+  <advance width="641"/>
+  <anchor x="245" y="0" name="bottom"/>
+  <anchor x="318" y="283" name="center"/>
+  <anchor x="350" y="564" name="top"/>
+  <outline>
+    <component base="d.sc" xOffset="61"/>
+    <component base="hookaboveHELPER2.sc" xOffset="-42" yOffset="-125"/>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lbar" format="2">
+  <advance width="390"/>
+  <unicode hex="023D"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="325" y="355" name="center"/>
+  <anchor x="191" y="680" name="top"/>
+  <anchor x="241" y="680" name="topright"/>
+  <outline>
+    <component base="L" xOffset="25"/>
+    <component base="hyphen" xOffset="-24" yOffset="50"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiaperispomeni" format="2">
+  <advance width="533"/>
+  <unicode hex="1F3F"/>
+  <anchor x="169" y="452" name="_top"/>
+  <anchor x="349" y="0" name="bottom"/>
+  <anchor x="385" y="0" name="ogonek"/>
+  <anchor x="447" y="689" name="top"/>
+  <anchor x="380" y="689" name="topleft"/>
+  <outline>
+    <component base="dasiaperispomeni.case"/>
+    <component base="Iota" xOffset="241"/>
+  </outline>
+</glyph>

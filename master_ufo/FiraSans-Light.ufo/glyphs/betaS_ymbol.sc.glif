@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="betaSymbol.sc" format="2">
+  <advance width="529"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="264.5" y="557.0" name="top"/>
+  <outline>
+    <component base="beta.sc"/>
+  </outline>
+</glyph>

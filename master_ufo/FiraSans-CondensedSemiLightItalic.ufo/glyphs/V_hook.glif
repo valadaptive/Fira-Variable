@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vhook" format="2">
+  <advance width="520"/>
+  <unicode hex="01B2"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="310" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="438" y="692" type="curve" smooth="yes"/>
+      <point x="417" y="692"/>
+      <point x="400" y="685"/>
+      <point x="386" y="676" type="curve"/>
+      <point x="395" y="654" type="line"/>
+      <point x="407" y="661"/>
+      <point x="419" y="665"/>
+      <point x="433" y="665" type="curve" smooth="yes"/>
+      <point x="461" y="665"/>
+      <point x="469" y="640"/>
+      <point x="463" y="599" type="curve" smooth="yes"/>
+      <point x="420" y="292" type="line" smooth="yes"/>
+      <point x="395" y="110"/>
+      <point x="312" y="19"/>
+      <point x="215" y="19" type="curve" smooth="yes"/>
+      <point x="140" y="19"/>
+      <point x="100" y="75"/>
+      <point x="115" y="180" type="curve" smooth="yes"/>
+      <point x="185" y="682" type="line"/>
+      <point x="154" y="682" type="line"/>
+      <point x="84" y="179" type="line" smooth="yes"/>
+      <point x="68" y="62"/>
+      <point x="120" y="-10"/>
+      <point x="213" y="-10" type="curve" smooth="yes"/>
+      <point x="325" y="-10"/>
+      <point x="423" y="89"/>
+      <point x="451" y="287" type="curve" smooth="yes"/>
+      <point x="494" y="599" type="line" smooth="yes"/>
+      <point x="503" y="663"/>
+      <point x="479" y="692"/>
+    </contour>
+  </outline>
+</glyph>

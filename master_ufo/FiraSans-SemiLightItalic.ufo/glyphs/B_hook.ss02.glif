@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bhook.ss02" format="2">
+  <advance width="561"/>
+  <anchor x="243.959" y="0.0" name="bottom"/>
+  <anchor x="339.808" y="682.0" name="top"/>
+  <outline>
+    <component base="Be-cy"/>
+  </outline>
+</glyph>

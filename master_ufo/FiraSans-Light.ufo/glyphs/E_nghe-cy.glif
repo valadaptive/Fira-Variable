@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="682"/>
+  <unicode hex="04A4"/>
+  <anchor x="327" y="0" name="bottom"/>
+  <anchor x="534" y="0" name="bottomright"/>
+  <anchor x="326" y="340" name="center"/>
+  <anchor x="326" y="680" name="top"/>
+  <anchor x="80" y="680" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="523" y="680" type="line"/>
+      <point x="523" y="678" type="line"/>
+      <point x="682" y="678" type="line"/>
+      <point x="682" y="680" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

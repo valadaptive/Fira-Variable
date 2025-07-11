@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmiddletilde" format="2">
+  <advance width="439"/>
+  <unicode hex="026B"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="461" y="374" name="center"/>
+  <anchor x="287" y="744" name="top"/>
+  <anchor x="398" y="744" name="topright"/>
+  <outline>
+    <component base="l" xOffset="109"/>
+    <component base="asciitilde" xOffset="-9" yOffset="41"/>
+  </outline>
+</glyph>

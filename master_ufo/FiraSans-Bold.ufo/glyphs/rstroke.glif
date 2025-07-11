@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rstroke" format="2">
+  <advance width="438"/>
+  <unicode hex="024D"/>
+  <anchor x="169" y="0" name="bottom"/>
+  <anchor x="259" y="534" name="top"/>
+  <outline>
+    <component base="r" xOffset="28"/>
+    <component base="hyphen" yScale="0.9" xOffset="-35" yOffset="-100"/>
+  </outline>
+</glyph>

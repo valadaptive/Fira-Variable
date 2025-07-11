@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dz" format="2">
+  <advance width="1104"/>
+  <unicode hex="01F2"/>
+  <anchor x="826" y="0" name="bottom"/>
+  <anchor x="334" y="348" name="center"/>
+  <anchor x="915" y="534" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="644"/>
+  </outline>
+</glyph>

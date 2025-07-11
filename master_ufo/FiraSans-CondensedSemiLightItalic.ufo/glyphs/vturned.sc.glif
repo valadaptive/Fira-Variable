@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vturned.sc" format="2">
+  <advance width="403"/>
+  <anchor x="238" y="560" name="top"/>
+  <anchor x="166" y="0" name="bottom"/>
+  <outline>
+    <component base="v.sc" xScale="-1" yScale="-1" xOffset="403" yOffset="560"/>
+  </outline>
+</glyph>

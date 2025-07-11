@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaprosgegrammeni" format="2">
+  <advance width="770"/>
+  <unicode hex="1F99"/>
+  <anchor x="250" y="695" name="_topleft"/>
+  <anchor x="513" y="696" name="top"/>
+  <anchor x="569" y="-210" name="bottom"/>
+  <anchor x="766" y="0" name="bottomright"/>
+  <anchor x="513" y="348" name="center"/>
+  <anchor x="269" y="695" name="topleft"/>
+  <outline>
+    <component base="Etadasia"/>
+    <component base="ypogegrammenicomb" xOffset="418"/>
+  </outline>
+</glyph>

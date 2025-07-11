@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonvaria" format="2">
+  <advance width="637"/>
+  <unicode hex="1FC8"/>
+  <anchor x="172" y="689" name="_topleft"/>
+  <anchor x="393" y="0" name="bottom"/>
+  <anchor x="553" y="0" name="ogonek"/>
+  <anchor x="392" y="689" name="top"/>
+  <anchor x="192" y="689" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="E" xOffset="102"/>
+  </outline>
+</glyph>

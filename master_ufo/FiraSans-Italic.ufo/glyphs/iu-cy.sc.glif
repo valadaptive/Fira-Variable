@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iu-cy.sc" format="2">
+  <advance width="806"/>
+  <anchor x="365.967" y="0" name="bottom"/>
+  <anchor x="445.233" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="548" y="574" type="curve" smooth="yes"/>
+      <point x="385.74" y="574"/>
+      <point x="304.906" y="451.567"/>
+      <point x="275.908" y="330" type="curve"/>
+      <point x="200" y="330" type="line"/>
+      <point x="233" y="564" type="line"/>
+      <point x="142" y="564" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="189" y="256" type="line"/>
+      <point x="264.322" y="256" type="line"/>
+      <point x="263.431" y="244.36"/>
+      <point x="263" y="232.985"/>
+      <point x="263" y="222" type="curve" smooth="yes"/>
+      <point x="263" y="72"/>
+      <point x="348" y="-11"/>
+      <point x="474" y="-11" type="curve" smooth="yes"/>
+      <point x="691" y="-11"/>
+      <point x="759" y="202"/>
+      <point x="759" y="343" type="curve" smooth="yes"/>
+      <point x="759" y="491"/>
+      <point x="675" y="574"/>
+    </contour>
+    <contour>
+      <point x="546" y="501" type="curve" smooth="yes"/>
+      <point x="619" y="501"/>
+      <point x="665" y="458"/>
+      <point x="665" y="353" type="curve" smooth="yes"/>
+      <point x="665" y="238"/>
+      <point x="626" y="62"/>
+      <point x="476" y="62" type="curve" smooth="yes"/>
+      <point x="407" y="62"/>
+      <point x="357" y="104"/>
+      <point x="357" y="212" type="curve" smooth="yes"/>
+      <point x="357" y="326"/>
+      <point x="398" y="501"/>
+    </contour>
+  </outline>
+</glyph>

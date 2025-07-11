@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsiliperispomeni" format="2">
+  <advance width="363"/>
+  <unicode hex="1F3E"/>
+  <anchor x="110" y="464" name="_top"/>
+  <anchor x="215" y="0" name="bottom"/>
+  <anchor x="229" y="0" name="ogonek"/>
+  <anchor x="311" y="682" name="top"/>
+  <anchor x="271" y="682" name="topleft"/>
+  <outline>
+    <component base="psiliperispomeni.case"/>
+    <component base="Iota" xOffset="139"/>
+  </outline>
+</glyph>

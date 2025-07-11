@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhebreve-cy" format="2">
+  <advance width="656"/>
+  <unicode hex="04C2"/>
+  <anchor x="328" y="0" name="bottom"/>
+  <anchor x="603" y="0" name="bottomright"/>
+  <anchor x="329" y="533" name="top"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <component base="breve-cy" xOffset="144"/>
+  </outline>
+</glyph>

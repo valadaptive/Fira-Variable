@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsilivaria" format="2">
+  <advance width="853"/>
+  <unicode hex="1F1A"/>
+  <anchor x="509" y="695" name="_topleft"/>
+  <anchor x="713" y="696" name="top"/>
+  <anchor x="613" y="0" name="bottom"/>
+  <anchor x="779" y="0" name="ogonek"/>
+  <anchor x="524" y="696" name="topleft"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Epsilon" xOffset="432"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookleft" format="2">
+  <advance width="580"/>
+  <unicode hex="0272"/>
+  <anchor x="303" y="-188" name="bottom"/>
+  <anchor x="295" y="517" name="top"/>
+  <anchor x="115" y="517" name="topleft"/>
+  <outline>
+    <component base="n"/>
+    <component base="hookHELPER" xOffset="-79"/>
+  </outline>
+</glyph>

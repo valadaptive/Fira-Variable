@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="San" format="2">
+  <advance width="757"/>
+  <unicode hex="03FA"/>
+  <anchor x="342.17" y="0.0" name="bottom"/>
+  <anchor x="646" y="0" name="bottomright"/>
+  <anchor x="438" y="680" name="top"/>
+  <outline>
+    <component base="M"/>
+  </outline>
+</glyph>

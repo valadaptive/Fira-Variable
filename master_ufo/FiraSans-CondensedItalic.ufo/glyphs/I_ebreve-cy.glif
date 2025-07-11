@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iebreve-cy" format="2">
+  <advance width="429"/>
+  <unicode hex="04D6"/>
+  <anchor x="197" y="0" name="bottom"/>
+  <anchor x="332" y="0" name="ogonek"/>
+  <anchor x="295" y="689" name="top"/>
+  <anchor x="122" y="689" name="topleft"/>
+  <outline>
+    <component base="Ie-cy"/>
+    <component base="breve-cy.case" xOffset="111"/>
+  </outline>
+</glyph>

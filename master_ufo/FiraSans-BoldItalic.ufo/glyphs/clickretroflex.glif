@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickretroflex" format="2">
+  <advance width="288"/>
+  <unicode hex="01C3"/>
+  <outline>
+    <contour>
+      <point x="294" y="761" type="line"/>
+      <point x="126" y="744" type="line"/>
+      <point x="58" y="250" type="line"/>
+      <point x="223" y="250" type="line"/>
+    </contour>
+    <component base="period" xOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

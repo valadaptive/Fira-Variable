@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacutesingle" format="2">
+  <advance width="331"/>
+  <anchor x="222" y="885" name="top"/>
+  <anchor x="177" y="527" name="_top"/>
+  <outline>
+    <component base="macroncomb" xOffset="-4" yOffset="-51"/>
+    <component base="acutecomb.case" xOffset="7" yOffset="-23"/>
+  </outline>
+</glyph>

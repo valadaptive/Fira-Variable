@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vturned" format="2">
+  <advance width="458"/>
+  <unicode hex="0245"/>
+  <anchor x="198" y="0" name="bottom"/>
+  <anchor x="295" y="682" name="top"/>
+  <outline>
+    <component base="Lambda"/>
+  </outline>
+</glyph>

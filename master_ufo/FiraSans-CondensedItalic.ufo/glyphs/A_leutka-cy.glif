@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aleutka-cy" format="2">
+  <advance width="601"/>
+  <unicode hex="051E"/>
+  <anchor x="216" y="0" name="bottom"/>
+  <anchor x="437" y="0" name="bottomright"/>
+  <anchor x="318" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="263" y="585" type="line"/>
+      <point x="498" y="438" type="line"/>
+      <point x="530" y="498" type="line"/>
+      <point x="295" y="647" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

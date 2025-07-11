@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zstroke" format="2">
+  <advance width="545"/>
+  <unicode hex="01B5"/>
+  <anchor x="197" y="0" name="bottom"/>
+  <anchor x="295" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="-28" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="445" y="155" type="line"/>
+      <point x="210" y="155" type="line"/>
+      <point x="484" y="548" type="line"/>
+      <point x="508" y="695" type="line"/>
+      <point x="90" y="695" type="line"/>
+      <point x="66" y="545" type="line"/>
+      <point x="279" y="545" type="line"/>
+      <point x="-5" y="145" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.3" yScale="0.8" xOffset="-1" yOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

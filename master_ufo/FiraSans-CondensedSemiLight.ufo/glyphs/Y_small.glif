@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ysmall" format="2">
+  <advance width="333"/>
+  <unicode hex="028F"/>
+  <anchor x="167" y="0" name="bottom"/>
+  <anchor x="167" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="326" y="520" type="line"/>
+      <point x="293" y="520" type="line"/>
+      <point x="169" y="238" type="line"/>
+      <point x="40" y="520" type="line"/>
+      <point x="7" y="520" type="line"/>
+      <point x="153" y="211" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

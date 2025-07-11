@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigmaLunateDottedSymbol" format="2">
+  <advance width="417"/>
+  <unicode hex="037C"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="244" y="259" name="center"/>
+  <anchor x="244" y="265" name="top"/>
+  <outline>
+    <component base="sigmaLunateSymbol"/>
+    <component base="dotaccentcomb" xOffset="208" yOffset="-441"/>
+  </outline>
+</glyph>

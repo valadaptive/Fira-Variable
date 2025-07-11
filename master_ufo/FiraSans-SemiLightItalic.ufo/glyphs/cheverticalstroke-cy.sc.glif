@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheverticalstroke-cy.sc" format="2">
+  <advance width="528"/>
+  <anchor x="227.459" y="0.0" name="bottom"/>
+  <anchor x="322" y="0" name="bottomleft"/>
+  <anchor x="382" y="0" name="bottomright"/>
+  <anchor x="271" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="263" y="417" type="line"/>
+      <point x="238" y="417" type="line"/>
+      <point x="194" y="100" type="line"/>
+      <point x="219" y="100" type="line"/>
+    </contour>
+    <component base="che-cy.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

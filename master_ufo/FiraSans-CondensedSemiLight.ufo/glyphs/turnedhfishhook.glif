@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="turnedhfishhook" format="2">
+  <advance width="655"/>
+  <unicode hex="02AE"/>
+  <anchor x="289" y="-193" name="bottom"/>
+  <anchor x="289" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="266" y="-10" type="curve" smooth="yes"/>
+      <point x="336" y="-10"/>
+      <point x="386" y="40"/>
+      <point x="425" y="112" type="curve"/>
+      <point x="417" y="137" type="line"/>
+      <point x="378" y="67"/>
+      <point x="334" y="17"/>
+      <point x="269" y="17" type="curve" smooth="yes"/>
+      <point x="210" y="17"/>
+      <point x="180" y="63"/>
+      <point x="180" y="154" type="curve" smooth="yes"/>
+      <point x="180" y="328" type="line"/>
+      <point x="150" y="328" type="line"/>
+      <point x="150" y="150" type="line" smooth="yes"/>
+      <point x="150" y="50"/>
+      <point x="189" y="-10"/>
+    </contour>
+    <contour>
+      <point x="417" y="-193" type="line"/>
+      <point x="447" y="-199" type="line"/>
+      <point x="447" y="520" type="line"/>
+      <point x="417" y="520" type="line"/>
+    </contour>
+    <component base="hookHELPER" yScale="-1" xOffset="-17" yOffset="328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

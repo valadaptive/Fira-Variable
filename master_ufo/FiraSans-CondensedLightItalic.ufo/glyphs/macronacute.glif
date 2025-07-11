@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacute" format="2">
+  <unicode hex="1DC4"/>
+  <outline>
+    <contour>
+      <point x="197" y="628" type="line"/>
+      <point x="319" y="723" type="line"/>
+      <point x="319" y="725" type="line"/>
+      <point x="196" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="628" type="line"/>
+      <point x="196" y="630" type="line"/>
+      <point x="73" y="630" type="line"/>
+      <point x="73" y="628" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>262</integer>
+    </dict>
+  </lib>
+</glyph>

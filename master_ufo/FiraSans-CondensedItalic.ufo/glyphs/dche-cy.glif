@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dche-cy" format="2">
+  <advance width="640"/>
+  <unicode hex="052D"/>
+  <anchor x="413" y="0" name="_bottom"/>
+  <anchor x="307" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="57" y="70" type="curve"/>
+      <point x="129" y="63" type="line"/>
+      <point x="171" y="83"/>
+      <point x="237" y="145"/>
+      <point x="273" y="339" type="curve" smooth="yes"/>
+      <point x="295" y="456" type="line"/>
+      <point x="396" y="456" type="line"/>
+      <point x="344" y="71" type="line"/>
+      <point x="53" y="71" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="490" y="527" type="line"/>
+      <point x="230" y="527" type="line"/>
+      <point x="192" y="333" type="line" smooth="yes"/>
+      <point x="156" y="148"/>
+      <point x="90" y="97"/>
+    </contour>
+    <contour>
+      <point x="405" y="254" type="line"/>
+      <point x="416" y="324" type="line"/>
+      <point x="248" y="324" type="line"/>
+      <point x="188" y="324"/>
+      <point x="160" y="340"/>
+      <point x="160" y="401" type="curve" smooth="yes"/>
+      <point x="160" y="419"/>
+      <point x="163" y="441"/>
+      <point x="174" y="527" type="curve"/>
+      <point x="95" y="527" type="line"/>
+      <point x="83" y="442"/>
+      <point x="80" y="424"/>
+      <point x="80" y="394" type="curve" smooth="yes"/>
+      <point x="80" y="301"/>
+      <point x="125" y="254"/>
+      <point x="231" y="254" type="curve"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="347"/>
+    <component base="descStraightleft-cy" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPP</string>
+    </dict>
+  </lib>
+</glyph>

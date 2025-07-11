@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha-cy.sc" format="2">
+  <advance width="392"/>
+  <anchor x="159" y="0" name="bottom"/>
+  <anchor x="323" y="0" name="bottomright"/>
+  <anchor x="239" y="564" name="top"/>
+  <outline>
+    <component base="x.sc"/>
+  </outline>
+</glyph>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="84"/>
+      <map input="500" output="112"/>
+      <map input="700" output="160"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="FiraMono-Regular.ufo" name="Fira Mono Regular" familyname="Fira Mono" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="84"/>
+      </location>
+    </source>
+    <source filename="FiraMono-Bold.ufo" name="Fira Mono Bold" familyname="Fira Mono" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="160"/>
+      </location>
+    </source>
+  </sources>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>BF448B58-7A35-489E-A1C9-12628F60690C</key>
+        <dict>
+          <key>HH</key>
+          <integer>141</integer>
+          <key>HV</key>
+          <integer>166</integer>
+          <key>OH</key>
+          <integer>121</integer>
+          <key>OV</key>
+          <integer>170</integer>
+          <key>nV</key>
+          <integer>160</integer>
+          <key>oH</key>
+          <integer>118</integer>
+          <key>oV</key>
+          <integer>165</integer>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <integer>78</integer>
+          <key>HV</key>
+          <integer>95</integer>
+          <key>OH</key>
+          <integer>78</integer>
+          <key>OV</key>
+          <integer>99</integer>
+          <key>nV</key>
+          <integer>92</integer>
+          <key>oH</key>
+          <integer>74</integer>
+          <key>oV</key>
+          <integer>98</integer>
+        </dict>
+      </dict>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>Ksi-cyHELPER</string>
+        <string>TseHelper-cy</string>
+        <string>descRound-cy</string>
+        <string>descStraight-cy</string>
+        <string>descStraight-cy.case</string>
+        <string>descTail-cy</string>
+        <string>descTail-cy.case</string>
+        <string>dieresisacutecomb</string>
+        <string>dieresisgravecomb</string>
+        <string>dieresistilde</string>
+        <string>dieresistilde.case</string>
+        <string>hookHELPER</string>
+        <string>hookHELPER.case</string>
+        <string>ksi-cyHELPER</string>
+        <string>ogonek.thin</string>
+        <string>r.001</string>
+        <string>tsehelper-cy</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="508"/>
+  <unicode hex="0492"/>
+  <anchor x="219.467" y="0.0" name="bottom"/>
+  <anchor x="171" y="0" name="bottomright"/>
+  <anchor x="379" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="376" y="413" type="line"/>
+      <point x="30" y="413" type="line"/>
+      <point x="20" y="343" type="line"/>
+      <point x="117" y="343" type="line"/>
+      <point x="366" y="343" type="line"/>
+    </contour>
+    <component base="Ge-cy" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

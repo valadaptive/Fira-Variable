@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yhookabove.sc" format="2">
+  <advance width="366"/>
+  <anchor x="184" y="0" name="bottom"/>
+  <anchor x="190" y="856" name="top"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="hookabovecomb" xOffset="100" yOffset="40"/>
+  </outline>
+</glyph>

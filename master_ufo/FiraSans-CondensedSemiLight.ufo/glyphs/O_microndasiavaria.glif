@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrondasiavaria" format="2">
+  <advance width="700"/>
+  <unicode hex="1F4B"/>
+  <anchor x="203" y="682" name="_topleft"/>
+  <anchor x="417" y="682" name="top"/>
+  <anchor x="417" y="0" name="bottom"/>
+  <anchor x="488" y="0" name="ogonek"/>
+  <anchor x="220" y="682" name="topleft"/>
+  <anchor x="575" y="682" name="topright"/>
+  <outline>
+    <component base="dasiavaria.case"/>
+    <component base="Omicron" xOffset="134"/>
+  </outline>
+</glyph>

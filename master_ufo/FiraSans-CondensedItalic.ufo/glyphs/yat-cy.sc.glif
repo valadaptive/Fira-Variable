@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yat-cy.sc" format="2">
+  <advance width="448"/>
+  <anchor x="194" y="0" name="bottom"/>
+  <anchor x="273" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="214" y="0" type="line" smooth="yes"/>
+      <point x="374" y="0"/>
+      <point x="428" y="101"/>
+      <point x="428" y="203" type="curve" smooth="yes"/>
+      <point x="428" y="301"/>
+      <point x="365" y="355"/>
+      <point x="262" y="355" type="curve" smooth="yes"/>
+      <point x="190" y="355" type="line"/>
+      <point x="180" y="289" type="line"/>
+      <point x="250" y="289" type="line" smooth="yes"/>
+      <point x="306" y="289"/>
+      <point x="337" y="261"/>
+      <point x="337" y="202" type="curve" smooth="yes"/>
+      <point x="337" y="135"/>
+      <point x="311" y="68"/>
+      <point x="220" y="68" type="curve" smooth="yes"/>
+      <point x="164" y="68" type="line"/>
+      <point x="232" y="564" type="line"/>
+      <point x="146" y="564" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="443" type="line"/>
+      <point x="321" y="443" type="line"/>
+      <point x="331" y="505" type="line"/>
+      <point x="138" y="505" type="line"/>
+      <point x="42" y="505" type="line"/>
+    </contour>
+  </outline>
+</glyph>

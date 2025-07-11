@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildeacute" format="2">
+  <advance width="394"/>
+  <anchor x="172" y="886" name="top"/>
+  <anchor x="165" y="527" name="_top"/>
+  <outline>
+    <component base="tildecomb" yOffset="-61"/>
+    <component base="acutecomb.case" xOffset="38" yOffset="-22"/>
+  </outline>
+</glyph>

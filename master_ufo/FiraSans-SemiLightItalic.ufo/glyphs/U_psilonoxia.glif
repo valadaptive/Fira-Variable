@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilonoxia" format="2">
+  <advance width="620"/>
+  <unicode hex="1FEB"/>
+  <anchor x="169" y="682" name="_topleft"/>
+  <anchor x="335" y="0" name="bottom"/>
+  <anchor x="425" y="682" name="top"/>
+  <anchor x="193" y="682" name="topleft"/>
+  <outline>
+    <component base="oxia.case"/>
+    <component base="Y" xOffset="120"/>
+  </outline>
+</glyph>

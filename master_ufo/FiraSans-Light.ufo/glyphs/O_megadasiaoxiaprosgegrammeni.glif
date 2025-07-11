@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaoxiaprosgegrammeni" format="2">
+  <advance width="774"/>
+  <unicode hex="1FAD"/>
+  <anchor x="155" y="680" name="_topleft"/>
+  <anchor x="430" y="680" name="top"/>
+  <anchor x="493" y="-142" name="bottom"/>
+  <anchor x="191" y="680" name="topleft"/>
+  <outline>
+    <component base="Omegadasiaoxia"/>
+    <component base="ypogegrammenicomb" xOffset="399"/>
+  </outline>
+</glyph>

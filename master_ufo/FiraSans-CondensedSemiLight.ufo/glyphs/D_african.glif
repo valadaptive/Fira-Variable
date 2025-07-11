@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dafrican" format="2">
+  <advance width="513"/>
+  <unicode hex="0189"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="261" y="341" name="center"/>
+  <anchor x="244" y="682" name="top"/>
+  <outline>
+    <component base="Eth"/>
+  </outline>
+</glyph>

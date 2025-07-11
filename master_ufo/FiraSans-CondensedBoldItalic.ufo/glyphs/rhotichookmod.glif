@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhotichookmod" format="2">
+  <advance width="401"/>
+  <unicode hex="02DE"/>
+  <anchor x="77" y="434" name="_topright"/>
+  <outline>
+    <component base="hookrightHELPER" xOffset="-1" yOffset="-100"/>
+  </outline>
+</glyph>

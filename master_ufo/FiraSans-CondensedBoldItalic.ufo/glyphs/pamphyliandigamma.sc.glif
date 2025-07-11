@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pamphyliandigamma.sc" format="2">
+  <advance width="463"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="420" y="0" name="bottomright"/>
+  <anchor x="281" y="570" name="top"/>
+  <outline>
+    <component base="ii-cy.sc"/>
+  </outline>
+</glyph>

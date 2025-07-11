@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ereversed.sc" format="2">
+  <advance width="370"/>
+  <outline>
+    <contour>
+      <point x="58" y="570" type="line"/>
+      <point x="37" y="438" type="line"/>
+      <point x="192" y="438" type="line"/>
+      <point x="185" y="354" type="line"/>
+      <point x="65" y="354" type="line"/>
+      <point x="45" y="228" type="line"/>
+      <point x="164" y="228" type="line"/>
+      <point x="155" y="132" type="line"/>
+      <point x="-4" y="132" type="line"/>
+      <point x="-25" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="397" y="570" type="line"/>
+    </contour>
+  </outline>
+</glyph>

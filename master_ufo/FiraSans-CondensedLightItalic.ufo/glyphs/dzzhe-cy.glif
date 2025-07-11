@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzzhe-cy" format="2">
+  <advance width="821"/>
+  <unicode hex="052B"/>
+  <anchor x="37" y="0" name="_bottom"/>
+  <anchor x="380" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="66" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="368" y="517" type="line"/>
+      <point x="227" y="517" type="line"/>
+      <point x="186" y="306" type="line" smooth="yes"/>
+      <point x="144" y="87"/>
+      <point x="114" y="36"/>
+      <point x="66" y="2" type="curve"/>
+      <point x="68" y="1" type="line"/>
+      <point x="116" y="35"/>
+      <point x="146" y="88"/>
+      <point x="188" y="306" type="curve" smooth="yes"/>
+      <point x="229" y="515" type="line"/>
+      <point x="366" y="515" type="line"/>
+      <point x="294" y="2" type="line"/>
+      <point x="66" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="2" type="line"/>
+      <point x="291" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="277" type="line"/>
+      <point x="471" y="277" type="line"/>
+      <point x="471" y="279" type="line"/>
+      <point x="333" y="279" type="line"/>
+    </contour>
+    <contour>
+      <point x="591" y="0" type="line"/>
+      <point x="471" y="278" type="line"/>
+      <point x="565" y="417" type="line" smooth="yes"/>
+      <point x="588" y="451"/>
+      <point x="624" y="510"/>
+      <point x="663" y="525" type="curve"/>
+      <point x="662" y="527" type="line"/>
+      <point x="622" y="511"/>
+      <point x="588" y="454"/>
+      <point x="564" y="419" type="curve" smooth="yes"/>
+      <point x="469" y="279" type="line"/>
+      <point x="417" y="279" type="line"/>
+      <point x="450" y="517" type="line"/>
+      <point x="448" y="517" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="417" y="277" type="line"/>
+      <point x="470" y="277" type="line"/>
+      <point x="589" y="0" type="line"/>
+    </contour>
+    <component base="descStraightleft-cy" xOffset="14"/>
+    <component base="descStraight-cy" xOffset="382"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+    </dict>
+  </lib>
+</glyph>

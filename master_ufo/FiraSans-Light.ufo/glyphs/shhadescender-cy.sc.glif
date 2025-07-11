@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shhadescender-cy.sc" format="2">
+  <advance width="597"/>
+  <anchor x="268.5" y="0.0" name="bottom"/>
+  <anchor x="467" y="0" name="bottomright"/>
+  <anchor x="268.5" y="557.0" name="top"/>
+  <outline>
+    <component base="shha-cy.sc"/>
+    <component base="descStraight-cy" xOffset="447"/>
+  </outline>
+</glyph>

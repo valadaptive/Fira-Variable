@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonLunateReversedSymbol" format="2">
+  <advance width="398"/>
+  <unicode hex="03F6"/>
+  <anchor x="151" y="0" name="bottom"/>
+  <anchor x="225" y="527" name="top"/>
+  <outline>
+    <component base="ereversed-cy"/>
+  </outline>
+</glyph>

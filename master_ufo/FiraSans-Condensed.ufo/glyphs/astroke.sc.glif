@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="astroke.sc" format="2">
+  <advance width="416"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="208" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="277" y="617" type="line"/>
+      <point x="123" y="-52" type="line"/>
+      <point x="160" y="-62" type="line"/>
+      <point x="313" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="564" type="line"/>
+      <point x="155" y="564" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="207" y="502" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="205" type="line"/>
+      <point x="123" y="205" type="line"/>
+      <point x="105" y="139" type="line"/>
+      <point x="306" y="139" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="es-cy" format="2">
+  <advance width="600"/>
+  <unicode hex="0441"/>
+  <anchor x="339" y="0" name="bottom"/>
+  <anchor x="339" y="0" name="bottomAttach"/>
+  <anchor x="344" y="518" name="top"/>
+  <outline>
+    <component base="c"/>
+  </outline>
+</glyph>

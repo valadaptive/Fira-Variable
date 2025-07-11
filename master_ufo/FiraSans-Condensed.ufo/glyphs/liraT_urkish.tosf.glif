@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish.tosf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="109" y="0" type="line"/>
+      <point x="109" y="669" type="line"/>
+      <point x="196" y="669" type="line"/>
+      <point x="196" y="75" type="line"/>
+      <point x="232" y="75" type="line" smooth="yes"/>
+      <point x="306" y="75"/>
+      <point x="349" y="106"/>
+      <point x="382" y="196" type="curve"/>
+      <point x="444" y="171" type="line"/>
+      <point x="412" y="62"/>
+      <point x="346" y="0"/>
+      <point x="225" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="65" y="180" type="line"/>
+      <point x="43" y="233" type="line"/>
+      <point x="325" y="387" type="line"/>
+      <point x="347" y="334" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="321" type="line"/>
+      <point x="43" y="374" type="line"/>
+      <point x="325" y="528" type="line"/>
+      <point x="347" y="475" type="line"/>
+    </contour>
+  </outline>
+</glyph>

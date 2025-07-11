@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yot" format="2">
+  <advance width="325"/>
+  <unicode hex="037F"/>
+  <anchor x="162.425" y="-215.0" name="bottom"/>
+  <anchor x="181" y="696" name="top"/>
+  <outline>
+    <component base="J"/>
+  </outline>
+</glyph>

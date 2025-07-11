@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutegraveacute" format="2">
+  <unicode hex="1DC9"/>
+  <anchor x="236" y="527" name="_top"/>
+  <anchor x="268" y="794" name="top"/>
+  <outline>
+    <contour>
+      <point x="294" y="654" type="line"/>
+      <point x="435" y="739" type="line"/>
+      <point x="408" y="794" type="line"/>
+      <point x="303" y="716" type="line"/>
+      <point x="217" y="794" type="line"/>
+      <point x="92" y="698" type="line"/>
+      <point x="110" y="655" type="line"/>
+      <point x="207" y="716" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>386</integer>
+    </dict>
+  </lib>
+</glyph>

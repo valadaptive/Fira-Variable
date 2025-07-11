@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppaArchaic.sc" format="2">
+  <advance width="612"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="311" y="564" name="top"/>
+  <anchor x="470" y="564" name="topright"/>
+  <outline>
+    <contour>
+      <point x="146" y="-201" type="line"/>
+      <point x="234" y="-201" type="line"/>
+      <point x="263" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

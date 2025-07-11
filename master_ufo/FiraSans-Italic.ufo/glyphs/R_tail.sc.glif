@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rtail.sc" format="2">
+  <advance width="546"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="319" y="564" name="top"/>
+  <outline>
+    <component base="rhook.sc"/>
+  </outline>
+</glyph>

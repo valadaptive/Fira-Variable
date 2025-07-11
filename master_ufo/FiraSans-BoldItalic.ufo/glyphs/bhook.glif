@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bhook" format="2">
+  <advance width="583"/>
+  <unicode hex="0253"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="359" y="744" name="top"/>
+  <outline>
+    <contour>
+      <point x="272" y="533" type="line"/>
+      <point x="78" y="533" type="line"/>
+      <point x="7" y="30" type="line"/>
+      <point x="77" y="-1"/>
+      <point x="156" y="-20"/>
+      <point x="244" y="-20" type="curve" smooth="yes"/>
+      <point x="514" y="-20"/>
+      <point x="571" y="191"/>
+      <point x="571" y="347" type="curve" smooth="yes"/>
+      <point x="571" y="478"/>
+      <point x="518" y="554"/>
+      <point x="405" y="554" type="curve" smooth="yes"/>
+      <point x="359" y="554"/>
+      <point x="300" y="530"/>
+      <point x="267" y="493" type="curve"/>
+    </contour>
+    <contour>
+      <point x="326" y="412" type="curve" smooth="yes"/>
+      <point x="351" y="412"/>
+      <point x="372" y="400"/>
+      <point x="372" y="338" type="curve" smooth="yes"/>
+      <point x="372" y="249"/>
+      <point x="345" y="121"/>
+      <point x="266" y="121" type="curve" smooth="yes"/>
+      <point x="245" y="121"/>
+      <point x="228" y="126"/>
+      <point x="215" y="131" type="curve"/>
+      <point x="247" y="359" type="line"/>
+      <point x="272" y="396"/>
+      <point x="299" y="412"/>
+    </contour>
+    <component base="hookaboveHELPER" xOffset="7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

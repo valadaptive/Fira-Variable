@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mturned.sc" format="2">
+  <advance width="676"/>
+  <anchor x="338" y="0" name="bottom"/>
+  <anchor x="338" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="201" y="-8" type="curve" smooth="yes"/>
+      <point x="262" y="-8"/>
+      <point x="300" y="34"/>
+      <point x="336" y="107" type="curve"/>
+      <point x="335" y="109" type="line"/>
+      <point x="299" y="36"/>
+      <point x="261" y="-6"/>
+      <point x="201" y="-6" type="curve" smooth="yes"/>
+      <point x="141" y="-6"/>
+      <point x="100" y="42"/>
+      <point x="100" y="139" type="curve" smooth="yes"/>
+      <point x="100" y="557" type="line"/>
+      <point x="98" y="557" type="line"/>
+      <point x="98" y="139" type="line" smooth="yes"/>
+      <point x="98" y="41"/>
+      <point x="140" y="-8"/>
+    </contour>
+    <contour>
+      <point x="434" y="-8" type="curve" smooth="yes"/>
+      <point x="497" y="-8"/>
+      <point x="534" y="34"/>
+      <point x="569" y="105" type="curve"/>
+      <point x="568" y="107" type="line"/>
+      <point x="533" y="36"/>
+      <point x="496" y="-6"/>
+      <point x="434" y="-6" type="curve" smooth="yes"/>
+      <point x="375" y="-6"/>
+      <point x="335" y="42"/>
+      <point x="335" y="139" type="curve" smooth="yes"/>
+      <point x="335" y="557" type="line"/>
+      <point x="333" y="557" type="line"/>
+      <point x="333" y="139" type="line" smooth="yes"/>
+      <point x="333" y="41"/>
+      <point x="374" y="-8"/>
+    </contour>
+    <contour>
+      <point x="568" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="570" y="557" type="line"/>
+      <point x="568" y="557" type="line"/>
+      <point x="568" y="105" type="line"/>
+    </contour>
+  </outline>
+</glyph>

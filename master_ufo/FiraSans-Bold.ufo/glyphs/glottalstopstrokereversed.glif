@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopstrokereversed" format="2">
+  <advance width="500"/>
+  <unicode hex="02A2"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="280" y="744" name="top"/>
+  <outline>
+    <contour>
+      <point x="437" y="226" type="line"/>
+      <point x="83" y="226" type="line"/>
+      <point x="83" y="120" type="line"/>
+      <point x="370" y="120" type="line"/>
+      <point x="437" y="120" type="line"/>
+    </contour>
+    <component base="glottalstopreversed"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute.sc" format="2">
+  <advance width="509"/>
+  <anchor x="254" y="0" name="bottom"/>
+  <anchor x="255" y="560" name="top"/>
+  <outline>
+    <component base="oslash.sc"/>
+    <component base="acutecomb.sc" xOffset="146"/>
+  </outline>
+</glyph>

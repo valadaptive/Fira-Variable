@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kahook-cy" format="2">
+  <advance width="651"/>
+  <unicode hex="04C3"/>
+  <anchor x="274" y="-214" name="bottom"/>
+  <anchor x="274" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="285" type="line"/>
+      <point x="273" y="285" type="line"/>
+      <point x="408" y="380" type="line"/>
+      <point x="536" y="695" type="line"/>
+      <point x="348" y="695" type="line"/>
+      <point x="253" y="425" type="line"/>
+      <point x="218" y="425" type="line"/>
+      <point x="218" y="695" type="line"/>
+      <point x="20" y="695" type="line"/>
+    </contour>
+    <contour>
+      <point x="326" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="524" y="192" type="line" smooth="yes"/>
+      <point x="524" y="357"/>
+      <point x="456" y="425"/>
+      <point x="335" y="425" type="curve"/>
+      <point x="273" y="285" type="line"/>
+      <point x="311" y="285"/>
+      <point x="326" y="255"/>
+      <point x="326" y="191" type="curve" smooth="yes"/>
+    </contour>
+    <component base="hookHELPER.case" xOffset="149"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

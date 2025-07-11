@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcaron.sc" format="2">
+  <advance width="456"/>
+  <anchor x="264" y="0" name="bottom"/>
+  <anchor x="264" y="557" name="top"/>
+  <outline>
+    <component base="k.sc"/>
+    <component base="caroncomb.sc" xOffset="125"/>
+  </outline>
+</glyph>

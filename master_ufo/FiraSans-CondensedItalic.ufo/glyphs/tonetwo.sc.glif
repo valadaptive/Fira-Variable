@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonetwo.sc" format="2">
+  <advance width="389"/>
+  <anchor x="164" y="0" name="bottom"/>
+  <anchor x="244" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="254" y="574" type="curve" smooth="yes"/>
+      <point x="188" y="574"/>
+      <point x="137" y="552"/>
+      <point x="83" y="507" type="curve"/>
+      <point x="120" y="455" type="line"/>
+      <point x="165" y="488"/>
+      <point x="200" y="503"/>
+      <point x="243" y="503" type="curve" smooth="yes"/>
+      <point x="279" y="503"/>
+      <point x="300" y="483"/>
+      <point x="300" y="446" type="curve" smooth="yes"/>
+      <point x="300" y="380"/>
+      <point x="267" y="362"/>
+      <point x="185" y="331" type="curve" smooth="yes"/>
+      <point x="87" y="294"/>
+      <point x="19" y="241"/>
+      <point x="19" y="134" type="curve" smooth="yes"/>
+      <point x="19" y="47"/>
+      <point x="78" y="-11"/>
+      <point x="170" y="-11" type="curve" smooth="yes"/>
+      <point x="241" y="-11"/>
+      <point x="300" y="17"/>
+      <point x="350" y="63" type="curve"/>
+      <point x="312" y="116" type="line"/>
+      <point x="272" y="85"/>
+      <point x="229" y="60"/>
+      <point x="180" y="60" type="curve" smooth="yes"/>
+      <point x="138" y="60"/>
+      <point x="110" y="83"/>
+      <point x="110" y="135" type="curve" smooth="yes"/>
+      <point x="110" y="199"/>
+      <point x="137" y="230"/>
+      <point x="226" y="262" type="curve" smooth="yes"/>
+      <point x="327" y="298"/>
+      <point x="387" y="339"/>
+      <point x="390" y="444" type="curve" smooth="yes"/>
+      <point x="392" y="522"/>
+      <point x="342" y="574"/>
+    </contour>
+  </outline>
+</glyph>

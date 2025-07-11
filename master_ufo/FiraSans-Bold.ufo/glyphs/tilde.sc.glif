@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde.sc" format="2">
+  <advance width="462"/>
+  <anchor x="231" y="564" name="_top"/>
+  <anchor x="231" y="790" name="top"/>
+  <outline>
+    <component base="tildecomb" yOffset="30"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy.sc" format="2">
+  <advance width="501"/>
+  <anchor x="372" y="0" name="bottomright"/>
+  <anchor x="251" y="280" name="center"/>
+  <anchor x="290" y="560" name="top"/>
+  <outline>
+    <component base="en-cy.sc"/>
+    <component base="descStraight-cy" xOffset="442"/>
+  </outline>
+</glyph>

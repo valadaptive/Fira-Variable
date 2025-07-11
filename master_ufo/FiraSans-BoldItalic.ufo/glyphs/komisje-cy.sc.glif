@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="komisje-cy.sc" format="2">
+  <advance width="574"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="353" y="571" name="top"/>
+  <outline>
+    <component base="g.sc"/>
+  </outline>
+</glyph>

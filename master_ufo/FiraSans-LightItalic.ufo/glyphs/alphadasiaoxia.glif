@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphadasiaoxia" format="2">
+  <advance width="572"/>
+  <unicode hex="1F05"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="301" y="517" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="dasiaoxia" xOffset="196"/>
+  </outline>
+</glyph>

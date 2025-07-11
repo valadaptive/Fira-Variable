@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e-cy.sc" format="2">
+  <advance width="407"/>
+  <anchor x="203" y="0" name="bottom"/>
+  <anchor x="203" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="254" y="568" type="curve" smooth="yes"/>
+      <point x="148" y="568"/>
+      <point x="60" y="473"/>
+      <point x="60" y="280" type="curve" smooth="yes"/>
+      <point x="60" y="92"/>
+      <point x="143" y="-8"/>
+      <point x="252" y="-8" type="curve" smooth="yes"/>
+      <point x="309" y="-8"/>
+      <point x="349" y="14"/>
+      <point x="379" y="46" type="curve"/>
+      <point x="362" y="68" type="line"/>
+      <point x="333" y="40"/>
+      <point x="305" y="21"/>
+      <point x="253" y="21" type="curve" smooth="yes"/>
+      <point x="164" y="21"/>
+      <point x="91" y="105"/>
+      <point x="91" y="280" type="curve"/>
+      <point x="91" y="291" type="line"/>
+      <point x="94" y="468"/>
+      <point x="168" y="540"/>
+      <point x="255" y="540" type="curve" smooth="yes"/>
+      <point x="298" y="540"/>
+      <point x="323" y="528"/>
+      <point x="357" y="498" type="curve"/>
+      <point x="374" y="519" type="line"/>
+      <point x="341" y="549"/>
+      <point x="308" y="568"/>
+    </contour>
+    <contour>
+      <point x="290" y="305" type="line"/>
+      <point x="86" y="305" type="line"/>
+      <point x="85" y="277" type="line"/>
+      <point x="290" y="277" type="line"/>
+    </contour>
+  </outline>
+</glyph>

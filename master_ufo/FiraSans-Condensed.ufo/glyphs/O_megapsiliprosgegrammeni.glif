@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsiliprosgegrammeni" format="2">
+  <advance width="660"/>
+  <unicode hex="1FA8"/>
+  <anchor x="155" y="689" name="_topleft"/>
+  <anchor x="375" y="689" name="top"/>
+  <anchor x="438" y="-188" name="bottom"/>
+  <anchor x="183" y="689" name="topleft"/>
+  <outline>
+    <component base="Omegapsili"/>
+    <component base="ypogegrammenicomb" xOffset="317"/>
+  </outline>
+</glyph>

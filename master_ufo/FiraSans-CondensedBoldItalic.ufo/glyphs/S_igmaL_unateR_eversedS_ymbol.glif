@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SigmaLunateReversedSymbol" format="2">
+  <advance width="497"/>
+  <unicode hex="03FD"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="182" y="353" name="center"/>
+  <anchor x="315" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="190" y="-17" type="curve" smooth="yes"/>
+      <point x="393" y="-17"/>
+      <point x="509" y="162"/>
+      <point x="509" y="395" type="curve" smooth="yes"/>
+      <point x="509" y="620"/>
+      <point x="402" y="716"/>
+      <point x="260" y="716" type="curve" smooth="yes"/>
+      <point x="175" y="716"/>
+      <point x="102" y="678"/>
+      <point x="50" y="629" type="curve"/>
+      <point x="120" y="517" type="line"/>
+      <point x="158" y="546"/>
+      <point x="185" y="567"/>
+      <point x="224" y="567" type="curve" smooth="yes"/>
+      <point x="287" y="567"/>
+      <point x="311" y="508"/>
+      <point x="311" y="411" type="curve" smooth="yes"/>
+      <point x="311" y="265"/>
+      <point x="271" y="126"/>
+      <point x="180" y="126" type="curve" smooth="yes"/>
+      <point x="142" y="126"/>
+      <point x="115" y="143"/>
+      <point x="87" y="173" type="curve"/>
+      <point x="-13" y="69" type="line"/>
+      <point x="38" y="16"/>
+      <point x="102" y="-17"/>
+    </contour>
+  </outline>
+</glyph>

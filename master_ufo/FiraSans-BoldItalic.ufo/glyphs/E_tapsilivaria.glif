@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilivaria" format="2">
+  <advance width="1103"/>
+  <unicode hex="1F2A"/>
+  <anchor x="550" y="696" name="_topleft"/>
+  <anchor x="840" y="696" name="top"/>
+  <anchor x="742" y="0" name="bottom"/>
+  <anchor x="1032" y="0" name="bottomright"/>
+  <anchor x="792" y="348" name="center"/>
+  <anchor x="562" y="696" name="topleft"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Eta" xOffset="458"/>
+  </outline>
+</glyph>

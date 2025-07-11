@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegadasia" format="2">
+  <advance width="637"/>
+  <unicode hex="1F61"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="292" y="800" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="dasia" xOffset="216"/>
+  </outline>
+</glyph>

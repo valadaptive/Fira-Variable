@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegapsili.sc" format="2">
+  <advance width="506"/>
+  <anchor x="224" y="0" name="bottom"/>
+  <anchor x="298" y="557" name="top"/>
+  <outline>
+    <component base="omega.sc"/>
+  </outline>
+</glyph>

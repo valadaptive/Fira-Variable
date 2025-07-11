@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="komisje-cy" format="2">
+  <advance width="441"/>
+  <unicode hex="050D"/>
+  <anchor x="206.78" y="0" name="bottom"/>
+  <anchor x="281.26" y="533" name="top"/>
+  <outline>
+    <component base="Gsmall" xScale="0.98"/>
+  </outline>
+</glyph>

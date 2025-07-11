@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescenderabkhasian-cy" format="2">
+  <advance width="579"/>
+  <unicode hex="04BF"/>
+  <anchor x="226" y="0" name="bottom"/>
+  <anchor x="316" y="10" name="ogonek"/>
+  <anchor x="317" y="517" name="top"/>
+  <outline>
+    <component base="cheabkhasian-cy"/>
+    <component base="ogonekcomb" xOffset="201" yOffset="10"/>
+  </outline>
+</glyph>

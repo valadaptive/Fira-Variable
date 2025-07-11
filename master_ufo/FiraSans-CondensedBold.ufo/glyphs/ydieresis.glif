@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis" format="2">
+  <advance width="457"/>
+  <unicode hex="00FF"/>
+  <anchor x="222" y="-214" name="bottom"/>
+  <anchor x="230" y="814" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresiscomb" xOffset="5"/>
+  </outline>
+</glyph>

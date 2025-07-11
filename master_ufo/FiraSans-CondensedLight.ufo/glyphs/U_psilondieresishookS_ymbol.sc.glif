@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilondieresishookSymbol.sc" format="2">
+  <advance width="328"/>
+  <anchor x="164" y="0" name="bottom"/>
+  <anchor x="173" y="557" name="top"/>
+  <outline>
+    <component base="yhook.sc"/>
+    <component base="dieresiscomb.sc" xOffset="82"/>
+  </outline>
+</glyph>

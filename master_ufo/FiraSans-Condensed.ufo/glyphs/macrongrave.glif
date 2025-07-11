@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongrave" format="2">
+  <unicode hex="1DC6"/>
+  <anchor x="174" y="527" name="_top"/>
+  <anchor x="176" y="745" name="top"/>
+  <outline>
+    <component base="acutemacron" xScale="-1" xOffset="352"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>411</integer>
+    </dict>
+  </lib>
+</glyph>

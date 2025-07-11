@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rha-cy" format="2">
+  <advance width="868"/>
+  <unicode hex="0517"/>
+  <anchor x="434" y="-215" name="bottom"/>
+  <anchor x="434" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="870" y="534" type="line"/>
+      <point x="687" y="534" type="line"/>
+      <point x="559" y="303" type="line"/>
+      <point x="559" y="212" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="878" y="0" type="line"/>
+      <point x="721" y="272" type="line"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasia.sc" format="2">
+  <advance width="506"/>
+  <anchor x="255" y="0" name="bottom"/>
+  <anchor x="441" y="0" name="bottomright"/>
+  <anchor x="255" y="283" name="center"/>
+  <anchor x="255" y="564" name="top"/>
+  <outline>
+    <component base="h.sc"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflextilde.sc" format="2">
+  <advance width="510"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="337" y="800" name="top"/>
+  <anchor x="366" y="555" name="topright"/>
+  <anchor x="249" y="555" name="topleft"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="circumflextilde" xOffset="134" yOffset="40"/>
+  </outline>
+</glyph>

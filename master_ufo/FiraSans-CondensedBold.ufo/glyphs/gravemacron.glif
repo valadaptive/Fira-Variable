@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravemacron" format="2">
+  <unicode hex="1DC5"/>
+  <outline>
+    <contour>
+      <point x="227" y="594" type="line"/>
+      <point x="288" y="708" type="line"/>
+      <point x="170" y="837" type="line"/>
+      <point x="81" y="732" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="594" type="line"/>
+      <point x="461" y="594" type="line"/>
+      <point x="461" y="723" type="line"/>
+      <point x="230" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>542</integer>
+    </dict>
+  </lib>
+</glyph>

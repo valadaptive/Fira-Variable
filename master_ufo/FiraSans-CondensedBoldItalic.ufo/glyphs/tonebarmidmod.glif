@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonebarmidmod" format="2">
+  <advance width="325"/>
+  <unicode hex="02E7"/>
+  <outline>
+    <contour>
+      <point x="241" y="696" type="line"/>
+      <point x="202" y="406" type="line"/>
+      <point x="52" y="406" type="line"/>
+      <point x="36" y="293" type="line"/>
+      <point x="183" y="293" type="line"/>
+      <point x="144" y="0" type="line"/>
+      <point x="267" y="0" type="line"/>
+      <point x="364" y="696" type="line"/>
+    </contour>
+  </outline>
+</glyph>

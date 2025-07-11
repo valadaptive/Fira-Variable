@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Odotbelow" format="2">
+  <advance width="690"/>
+  <unicode hex="1ECC"/>
+  <anchor x="345" y="-193" name="bottom"/>
+  <anchor x="430" y="0" name="ogonek"/>
+  <anchor x="345" y="682" name="top"/>
+  <anchor x="103" y="682" name="topleft"/>
+  <anchor x="536" y="682" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotbelowcomb" xOffset="289"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

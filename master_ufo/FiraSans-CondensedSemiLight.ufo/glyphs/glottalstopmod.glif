@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopmod" format="2">
+  <advance width="211"/>
+  <unicode hex="02C0"/>
+  <anchor x="83" y="520" name="_top"/>
+  <anchor x="90" y="816" name="top"/>
+  <outline>
+    <component base="hookabovecomb"/>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorndotbelow.sc" format="2">
+  <advance width="667"/>
+  <anchor x="230" y="-264" name="bottom"/>
+  <anchor x="342" y="571" name="top"/>
+  <anchor x="621" y="571" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="horncomb" xOffset="478" yOffset="37"/>
+    <component base="dotbelowcomb" xOffset="163"/>
+  </outline>
+</glyph>

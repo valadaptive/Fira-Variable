@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexacute" format="2">
+  <advance width="559"/>
+  <unicode hex="1ED1"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="335" y="670" name="top"/>
+  <anchor x="391" y="520" name="topright"/>
+  <anchor x="249" y="520" name="topleft"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexacute" xOffset="139"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexacute</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

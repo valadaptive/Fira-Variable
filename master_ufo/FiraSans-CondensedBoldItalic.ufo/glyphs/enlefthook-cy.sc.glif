@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enlefthook-cy.sc" format="2">
+  <advance width="488"/>
+  <anchor x="429" y="0" name="bottomright"/>
+  <anchor x="246" y="286" name="center"/>
+  <anchor x="286" y="571" name="top"/>
+  <outline>
+    <component base="h.sc"/>
+    <component base="hookHELPER" xOffset="-160"/>
+  </outline>
+</glyph>

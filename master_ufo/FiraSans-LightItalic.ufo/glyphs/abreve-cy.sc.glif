@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abreve-cy.sc" format="2">
+  <advance width="491"/>
+  <anchor x="214" y="0" name="bottom"/>
+  <anchor x="422" y="0" name="ogonek"/>
+  <anchor x="286" y="557" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="breve-cy.sc" xOffset="154"/>
+  </outline>
+</glyph>

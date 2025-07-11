@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etaprosgegrammeni" format="2">
+  <advance width="544"/>
+  <unicode hex="1FCC"/>
+  <anchor x="264" y="-159" name="bottom"/>
+  <anchor x="419" y="0" name="bottomright"/>
+  <anchor x="282" y="341" name="center"/>
+  <anchor x="330" y="682" name="top"/>
+  <anchor x="132" y="682" name="topleft"/>
+  <outline>
+    <component base="Eta"/>
+    <component base="ypogegrammenicomb" xOffset="230"/>
+  </outline>
+</glyph>

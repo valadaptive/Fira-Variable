@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcircumflexbelow.sc" format="2">
+  <advance width="456"/>
+  <anchor x="265" y="-206" name="bottom"/>
+  <anchor x="366" y="316" name="center"/>
+  <anchor x="146" y="564" name="top"/>
+  <anchor x="213" y="564" name="topright"/>
+  <outline>
+    <component base="l.sc"/>
+    <component base="circumflexbelowcomb" xOffset="67"/>
+  </outline>
+</glyph>

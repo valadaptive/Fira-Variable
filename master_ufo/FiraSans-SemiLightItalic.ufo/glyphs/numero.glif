@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numero" format="2">
+  <advance width="1060"/>
+  <unicode hex="2116"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="398" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="867" y="682" type="curve" smooth="yes"/>
+      <point x="741" y="682"/>
+      <point x="667" y="569"/>
+      <point x="667" y="435" type="curve" smooth="yes"/>
+      <point x="667" y="335"/>
+      <point x="720" y="276"/>
+      <point x="813" y="276" type="curve" smooth="yes"/>
+      <point x="941" y="276"/>
+      <point x="1015" y="390"/>
+      <point x="1015" y="525" type="curve" smooth="yes"/>
+      <point x="1015" y="628"/>
+      <point x="960" y="682"/>
+    </contour>
+    <contour>
+      <point x="868" y="654" type="curve" smooth="yes"/>
+      <point x="943" y="654"/>
+      <point x="984" y="611"/>
+      <point x="984" y="527" type="curve" smooth="yes"/>
+      <point x="984" y="411"/>
+      <point x="929" y="304"/>
+      <point x="814" y="304" type="curve" smooth="yes"/>
+      <point x="740" y="304"/>
+      <point x="698" y="350"/>
+      <point x="698" y="435" type="curve" smooth="yes"/>
+      <point x="698" y="550"/>
+      <point x="754" y="654"/>
+    </contour>
+    <component base="N"/>
+    <component base="minus" xOffset="521" yOffset="-316"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPP</string>
+    </dict>
+  </lib>
+</glyph>

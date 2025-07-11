@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.sc" format="2">
+  <advance width="397"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="224" y="560" name="top"/>
+  <outline>
+    <component base="k.sc"/>
+  </outline>
+</glyph>

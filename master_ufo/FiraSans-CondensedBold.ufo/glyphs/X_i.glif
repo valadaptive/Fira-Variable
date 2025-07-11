@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xi" format="2">
+  <advance width="441"/>
+  <unicode hex="039E"/>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="221" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="432" y="168" type="line"/>
+      <point x="10" y="168" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="428" type="line"/>
+      <point x="65" y="428" type="line"/>
+      <point x="65" y="278" type="line"/>
+      <point x="379" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="695" type="line"/>
+      <point x="10" y="695" type="line"/>
+      <point x="10" y="534" type="line"/>
+      <point x="418" y="534" type="line"/>
+    </contour>
+  </outline>
+</glyph>

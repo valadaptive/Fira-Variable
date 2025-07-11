@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="righttackbelowcomb" format="2">
+  <unicode hex="0319"/>
+  <anchor x="119" y="0" name="_bottom"/>
+  <anchor x="122" y="-356" name="bottom"/>
+  <outline>
+    <component base="lefttackbelowcomb" xScale="-1" xOffset="238"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>284</integer>
+    </dict>
+  </lib>
+</glyph>

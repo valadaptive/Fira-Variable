@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy.sc" format="2">
+  <advance width="501"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="402" y="0" name="bottomright"/>
+  <outline>
+    <component base="tsehelper-cy.sc"/>
+    <component base="descStraight-cy" xOffset="471"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

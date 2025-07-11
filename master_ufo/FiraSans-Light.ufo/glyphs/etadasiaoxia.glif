@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaoxia" format="2">
+  <advance width="579"/>
+  <unicode hex="1F25"/>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="295" y="517" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaoxia" xOffset="218"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psi-cy.sc" format="2">
+  <advance width="568"/>
+  <anchor x="247.67" y="0.0" name="bottom"/>
+  <anchor x="325.951" y="557.0" name="top"/>
+  <outline>
+    <component base="psi.sc"/>
+  </outline>
+</glyph>

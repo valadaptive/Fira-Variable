@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeta.sc" format="2">
+  <advance width="381"/>
+  <anchor x="146" y="0" name="bottom"/>
+  <anchor x="241" y="564" name="top"/>
+  <outline>
+    <component base="z.sc"/>
+  </outline>
+</glyph>

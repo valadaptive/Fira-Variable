@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistilde.case" format="2">
+  <advance width="332"/>
+  <anchor x="233" y="904" name="top"/>
+  <anchor x="214" y="682" name="_top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="37" yOffset="72"/>
+    <component base="tildecomb" xOffset="22" yOffset="158"/>
+  </outline>
+</glyph>

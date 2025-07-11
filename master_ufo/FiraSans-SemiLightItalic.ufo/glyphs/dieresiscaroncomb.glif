@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb" format="2">
+  <advance width="325"/>
+  <anchor x="240" y="810" name="top"/>
+  <anchor x="200" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="309" y="690" type="curve" smooth="yes"/>
+      <point x="294" y="690"/>
+      <point x="283" y="680"/>
+      <point x="281" y="667" type="curve" smooth="yes"/>
+      <point x="279" y="652"/>
+      <point x="289" y="640"/>
+      <point x="306" y="640" type="curve" smooth="yes"/>
+      <point x="320" y="640"/>
+      <point x="330" y="650"/>
+      <point x="332" y="663" type="curve" smooth="yes"/>
+      <point x="334" y="678"/>
+      <point x="325" y="690"/>
+    </contour>
+    <contour>
+      <point x="136" y="690" type="curve" smooth="yes"/>
+      <point x="122" y="690"/>
+      <point x="111" y="680"/>
+      <point x="109" y="667" type="curve" smooth="yes"/>
+      <point x="107" y="652"/>
+      <point x="117" y="640"/>
+      <point x="133" y="640" type="curve" smooth="yes"/>
+      <point x="148" y="640"/>
+      <point x="158" y="650"/>
+      <point x="160" y="663" type="curve" smooth="yes"/>
+      <point x="162" y="678"/>
+      <point x="153" y="690"/>
+    </contour>
+    <component base="caroncomb.case" xOffset="-8" yOffset="-60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

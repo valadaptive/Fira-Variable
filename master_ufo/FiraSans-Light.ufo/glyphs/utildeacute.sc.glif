@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utildeacute.sc" format="2">
+  <advance width="581"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <anchor x="361" y="0" name="ogonek"/>
+  <anchor x="291" y="814" name="top"/>
+  <anchor x="471" y="557" name="topright"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="tildeacute" xOffset="142" yOffset="40"/>
+  </outline>
+</glyph>

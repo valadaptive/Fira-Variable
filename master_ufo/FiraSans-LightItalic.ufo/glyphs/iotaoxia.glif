@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotaoxia" format="2">
+  <advance width="246"/>
+  <unicode hex="1F77"/>
+  <anchor x="86.6702" y="0.0" name="bottom"/>
+  <anchor x="185" y="746" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="acutecomb" xOffset="6"/>
+  </outline>
+</glyph>

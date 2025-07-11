@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kastroke-cy.sc" format="2">
+  <advance width="432"/>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="300" y="0" name="bottomright"/>
+  <anchor x="232" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="59" y="455" type="line"/>
+      <point x="208" y="455" type="line"/>
+      <point x="209" y="457" type="line"/>
+      <point x="103" y="457" type="line"/>
+      <point x="59" y="457" type="line"/>
+    </contour>
+    <component base="ka-cy.sc" xOffset="-38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

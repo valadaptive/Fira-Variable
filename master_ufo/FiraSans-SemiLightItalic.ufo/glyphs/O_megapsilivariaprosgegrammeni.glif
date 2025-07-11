@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilivariaprosgegrammeni" format="2">
+  <advance width="842"/>
+  <unicode hex="1FAA"/>
+  <anchor x="286" y="682" name="_topleft"/>
+  <anchor x="556" y="682" name="top"/>
+  <anchor x="499" y="-159" name="bottom"/>
+  <anchor x="322" y="682" name="topleft"/>
+  <outline>
+    <component base="Omegapsilivaria"/>
+    <component base="ypogegrammenicomb" xOffset="457"/>
+  </outline>
+</glyph>

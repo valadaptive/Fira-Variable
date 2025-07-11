@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegaypogegrammeni" format="2">
+  <advance width="753"/>
+  <unicode hex="1FF3"/>
+  <anchor x="394" y="-212" name="bottom"/>
+  <anchor x="415" y="534" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="ypogegrammenicomb" xOffset="289"/>
+  </outline>
+</glyph>

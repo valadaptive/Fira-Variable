@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturned" format="2">
+  <advance width="410"/>
+  <unicode hex="027B"/>
+  <anchor x="174" y="-214" name="bottom"/>
+  <anchor x="227" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="32" y="-17" type="curve" smooth="yes"/>
+      <point x="83" y="-17"/>
+      <point x="133" y="38"/>
+      <point x="144" y="117" type="curve"/>
+      <point x="135" y="307" type="line"/>
+      <point x="125" y="225"/>
+      <point x="114" y="168"/>
+      <point x="57" y="168" type="curve" smooth="yes"/>
+      <point x="44" y="168"/>
+      <point x="30" y="171"/>
+      <point x="16" y="176" type="curve"/>
+      <point x="-13" y="-8" type="line"/>
+      <point x="3" y="-14"/>
+      <point x="14" y="-17"/>
+    </contour>
+    <contour>
+      <point x="132" y="0" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="322" y="533" type="line"/>
+      <point x="132" y="533" type="line"/>
+      <point x="132" y="270" type="line"/>
+      <point x="132" y="115" type="line"/>
+    </contour>
+    <component base="hookHELPER" xScale="-1" xOffset="490"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

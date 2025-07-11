@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="varia.case" format="2">
+  <advance width="19"/>
+  <anchor x="121" y="680" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="88" y="680" type="line"/>
+      <point x="86" y="680" type="line"/>
+      <point x="96" y="572" type="line"/>
+      <point x="98" y="572" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khook.sc" format="2">
+  <advance width="447"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="273" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="210" y="564" type="line"/>
+      <point x="124" y="564" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="455" type="line" smooth="yes"/>
+      <point x="405" y="498"/>
+      <point x="417" y="505"/>
+      <point x="433" y="505" type="curve" smooth="yes"/>
+      <point x="444" y="505"/>
+      <point x="451" y="501"/>
+      <point x="461" y="494" type="curve"/>
+      <point x="497" y="547" type="line"/>
+      <point x="481" y="563"/>
+      <point x="461" y="574"/>
+      <point x="428" y="574" type="curve" smooth="yes"/>
+      <point x="381" y="574"/>
+      <point x="352" y="553"/>
+      <point x="311" y="496" type="curve" smooth="yes"/>
+      <point x="176" y="302" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+      <point x="271" y="303" type="line"/>
+    </contour>
+  </outline>
+</glyph>

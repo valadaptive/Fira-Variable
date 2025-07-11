@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsiliperispomeni" format="2">
+  <advance width="956"/>
+  <unicode hex="1F6E"/>
+  <anchor x="450" y="695" name="_topleft"/>
+  <anchor x="672" y="696" name="top"/>
+  <anchor x="673" y="0" name="bottom"/>
+  <anchor x="471" y="696" name="topleft"/>
+  <outline>
+    <component base="psiliperispomeni.case"/>
+    <component base="Omega" xOffset="391"/>
+  </outline>
+</glyph>

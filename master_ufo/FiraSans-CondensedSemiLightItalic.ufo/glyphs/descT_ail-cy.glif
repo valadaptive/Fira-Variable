@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descTail-cy" format="2">
+  <advance width="149"/>
+  <anchor x="37" y="0" name="_bottom"/>
+  <anchor x="17" y="0" name="_bottomleft"/>
+  <anchor x="10" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="-23" y="-141" type="line"/>
+      <point x="0" y="-141" type="line"/>
+      <point x="63" y="28" type="line"/>
+      <point x="-9" y="28" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="21" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

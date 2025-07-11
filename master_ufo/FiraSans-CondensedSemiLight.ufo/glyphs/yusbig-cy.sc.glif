@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yusbig-cy.sc" format="2">
+  <advance width="489"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="244" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="160" y="278" type="line"/>
+      <point x="230" y="278" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="260" y="278" type="line"/>
+      <point x="329" y="278" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="347" y="305" type="line"/>
+      <point x="141" y="305" type="line"/>
+    </contour>
+    <contour>
+      <point x="229" y="281" type="line"/>
+      <point x="260" y="281" type="line"/>
+      <point x="413" y="538" type="line"/>
+      <point x="413" y="560" type="line"/>
+      <point x="395" y="560" type="line"/>
+      <point x="245" y="305" type="line"/>
+      <point x="92" y="560" type="line"/>
+      <point x="73" y="560" type="line"/>
+      <point x="73" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="535" type="line"/>
+      <point x="402" y="535" type="line"/>
+      <point x="402" y="560" type="line"/>
+      <point x="86" y="560" type="line"/>
+    </contour>
+  </outline>
+</glyph>

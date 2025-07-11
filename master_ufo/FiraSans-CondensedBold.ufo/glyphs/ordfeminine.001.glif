@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine.001" format="2">
+  <advance width="453"/>
+  <anchor x="450" y="0" name="ogonek"/>
+  <anchor x="231" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="216" y="553" type="curve" smooth="yes"/>
+      <point x="165" y="553"/>
+      <point x="91" y="538"/>
+      <point x="35" y="511" type="curve"/>
+      <point x="76" y="390" type="line"/>
+      <point x="119" y="408"/>
+      <point x="164" y="418"/>
+      <point x="188" y="418" type="curve" smooth="yes"/>
+      <point x="232" y="418"/>
+      <point x="242" y="403"/>
+      <point x="242" y="347" type="curve"/>
+      <point x="242" y="137" type="line"/>
+      <point x="277" y="72" type="line"/>
+      <point x="306" y="11"/>
+      <point x="348" y="-11"/>
+      <point x="412" y="-16" type="curve"/>
+      <point x="450" y="107" type="line"/>
+      <point x="431" y="116"/>
+      <point x="427" y="131"/>
+      <point x="427" y="169" type="curve" smooth="yes"/>
+      <point x="427" y="358" type="line" smooth="yes"/>
+      <point x="427" y="488"/>
+      <point x="366" y="553"/>
+    </contour>
+    <contour>
+      <point x="266" y="332" type="line"/>
+      <point x="222" y="332" type="line" smooth="yes"/>
+      <point x="79" y="332"/>
+      <point x="4" y="267"/>
+      <point x="4" y="150" type="curve" smooth="yes"/>
+      <point x="4" y="51"/>
+      <point x="62" y="-19"/>
+      <point x="150" y="-19" type="curve" smooth="yes"/>
+      <point x="205" y="-19"/>
+      <point x="260" y="6"/>
+      <point x="292" y="72" type="curve"/>
+      <point x="248" y="167" type="line"/>
+      <point x="244" y="139"/>
+      <point x="233" y="114"/>
+      <point x="216" y="114" type="curve" smooth="yes"/>
+      <point x="205" y="114"/>
+      <point x="197" y="133"/>
+      <point x="197" y="163" type="curve" smooth="yes"/>
+      <point x="197" y="210"/>
+      <point x="212" y="228"/>
+      <point x="240" y="228" type="curve" smooth="yes"/>
+      <point x="266" y="228" type="line"/>
+    </contour>
+  </outline>
+</glyph>

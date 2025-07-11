@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigmafinal.sc" format="2">
+  <advance width="357"/>
+  <anchor x="147" y="0" name="bottom"/>
+  <anchor x="228" y="570" name="top"/>
+  <outline>
+    <component base="sigma.sc"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="increment" format="2">
+  <advance width="609"/>
+  <unicode hex="2206"/>
+  <anchor x="304.5" y="0.0" name="bottom"/>
+  <anchor x="304.5" y="696.0" name="top"/>
+  <outline>
+    <component base="Delta"/>
+  </outline>
+</glyph>

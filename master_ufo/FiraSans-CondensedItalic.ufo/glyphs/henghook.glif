@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="henghook" format="2">
+  <advance width="581"/>
+  <unicode hex="0267"/>
+  <anchor x="177" y="-201" name="bottom"/>
+  <anchor x="338" y="739" name="top"/>
+  <outline>
+    <component base="hookHELPER" xOffset="152"/>
+    <component base="hhook"/>
+  </outline>
+</glyph>

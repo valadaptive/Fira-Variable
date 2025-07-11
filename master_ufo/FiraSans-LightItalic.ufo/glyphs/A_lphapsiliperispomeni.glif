@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliperispomeni" format="2">
+  <advance width="556"/>
+  <unicode hex="1F0E"/>
+  <anchor x="110" y="470" name="_top"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="495" y="0" name="ogonek"/>
+  <anchor x="337" y="680" name="top"/>
+  <anchor x="229" y="680" name="topleft"/>
+  <outline>
+    <component base="psiliperispomeni.case" xOffset="28"/>
+    <component base="Alpha"/>
+  </outline>
+</glyph>

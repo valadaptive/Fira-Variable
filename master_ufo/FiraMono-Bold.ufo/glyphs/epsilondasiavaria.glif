@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilondasiavaria" format="2">
+  <advance width="600"/>
+  <unicode hex="1F13"/>
+  <anchor x="319" y="0" name="bottom"/>
+  <anchor x="317" y="836" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="dasiavaria" xOffset="-6"/>
+  </outline>
+</glyph>

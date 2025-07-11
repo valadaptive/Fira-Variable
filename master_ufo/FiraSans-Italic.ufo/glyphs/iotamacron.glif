@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotamacron" format="2">
+  <advance width="271"/>
+  <unicode hex="1FD1"/>
+  <anchor x="98.4675" y="0.0" name="bottom"/>
+  <anchor x="201" y="736" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="macroncomb" xOffset="-28"/>
+  </outline>
+</glyph>

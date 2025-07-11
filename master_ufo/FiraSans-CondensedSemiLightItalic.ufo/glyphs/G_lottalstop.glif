@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Glottalstop" format="2">
+  <advance width="376"/>
+  <unicode hex="0241"/>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="254" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="103" y="0" type="line"/>
+      <point x="134" y="0" type="line"/>
+      <point x="172" y="271" type="line"/>
+      <point x="209" y="282" type="line" smooth="yes"/>
+      <point x="321" y="315"/>
+      <point x="387" y="388"/>
+      <point x="387" y="525" type="curve" smooth="yes"/>
+      <point x="387" y="625"/>
+      <point x="335" y="692"/>
+      <point x="245" y="692" type="curve" smooth="yes"/>
+      <point x="180" y="692"/>
+      <point x="126" y="664"/>
+      <point x="71" y="610" type="curve"/>
+      <point x="88" y="589" type="line"/>
+      <point x="136" y="634"/>
+      <point x="185" y="663"/>
+      <point x="243" y="663" type="curve" smooth="yes"/>
+      <point x="315" y="663"/>
+      <point x="354" y="610"/>
+      <point x="354" y="524" type="curve" smooth="yes"/>
+      <point x="354" y="405"/>
+      <point x="303" y="338"/>
+      <point x="201" y="309" type="curve" smooth="yes"/>
+      <point x="144" y="293" type="line"/>
+    </contour>
+  </outline>
+</glyph>

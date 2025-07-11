@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasia" format="2">
+  <advance width="681"/>
+  <unicode hex="1F29"/>
+  <anchor x="87" y="469" name="_top"/>
+  <anchor x="412" y="680" name="top"/>
+  <anchor x="331" y="0" name="bottom"/>
+  <anchor x="525" y="0" name="bottomright"/>
+  <anchor x="365" y="340" name="center"/>
+  <anchor x="166" y="680" name="topleft"/>
+  <outline>
+    <component base="dasia.case"/>
+    <component base="Eta" xOffset="27"/>
+  </outline>
+</glyph>

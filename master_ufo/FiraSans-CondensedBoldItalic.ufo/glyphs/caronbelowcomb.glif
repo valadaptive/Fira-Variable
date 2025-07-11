@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronbelowcomb" format="2">
+  <unicode hex="032C"/>
+  <anchor x="171" y="0" name="_bottom"/>
+  <anchor x="129" y="-269" name="bottom"/>
+  <outline>
+    <component base="caroncomb.case" xOffset="-142" yOffset="-1017"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>460</integer>
+    </dict>
+  </lib>
+</glyph>

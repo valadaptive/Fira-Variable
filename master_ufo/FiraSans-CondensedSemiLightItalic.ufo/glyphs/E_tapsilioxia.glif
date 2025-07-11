@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilioxia" format="2">
+  <advance width="708"/>
+  <unicode hex="1F2C"/>
+  <anchor x="95" y="439" name="_top"/>
+  <anchor x="494" y="682" name="top"/>
+  <anchor x="396" y="0" name="bottom"/>
+  <anchor x="583" y="0" name="bottomright"/>
+  <anchor x="446" y="341" name="center"/>
+  <anchor x="296" y="682" name="topleft"/>
+  <outline>
+    <component base="psilioxia.case"/>
+    <component base="Eta" xOffset="164"/>
+  </outline>
+</glyph>

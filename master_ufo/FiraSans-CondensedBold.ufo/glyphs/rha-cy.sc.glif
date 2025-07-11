@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rha-cy.sc" format="2">
+  <advance width="588"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="294" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="441" type="line"/>
+      <point x="222" y="441" type="line" smooth="yes"/>
+      <point x="260" y="441"/>
+      <point x="265" y="414"/>
+      <point x="265" y="376" type="curve" smooth="yes"/>
+      <point x="265" y="329"/>
+      <point x="257" y="303"/>
+      <point x="229" y="303" type="curve" smooth="yes"/>
+      <point x="197" y="303" type="line"/>
+      <point x="197" y="172" type="line"/>
+      <point x="250" y="172" type="line" smooth="yes"/>
+      <point x="364" y="172"/>
+      <point x="416" y="250"/>
+      <point x="416" y="375" type="curve"/>
+      <point x="405" y="504"/>
+      <point x="348" y="570"/>
+      <point x="214" y="570" type="curve" smooth="yes"/>
+      <point x="20" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="0" type="line"/>
+      <point x="601" y="0" type="line"/>
+      <point x="480" y="291" type="line"/>
+      <point x="607" y="570" type="line"/>
+      <point x="414" y="570" type="line"/>
+      <point x="349" y="308" type="line"/>
+      <point x="299" y="264" type="line"/>
+    </contour>
+  </outline>
+</glyph>

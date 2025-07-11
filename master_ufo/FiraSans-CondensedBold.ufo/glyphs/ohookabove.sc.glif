@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohookabove.sc" format="2">
+  <advance width="502"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <anchor x="370" y="0" name="ogonek"/>
+  <anchor x="256" y="882" name="top"/>
+  <anchor x="86" y="571" name="topleft"/>
+  <anchor x="459" y="571" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="hookabovecomb.case" xOffset="130" yOffset="-125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hookabovecomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

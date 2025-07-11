@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Phook" format="2">
+  <advance width="658"/>
+  <unicode hex="01A4"/>
+  <anchor x="334" y="0" name="bottom"/>
+  <anchor x="431" y="689" name="top"/>
+  <anchor x="222" y="687" name="topleft"/>
+  <outline>
+    <component base="P" xOffset="83"/>
+    <component base="hookaboveHELPER2.case"/>
+  </outline>
+</glyph>

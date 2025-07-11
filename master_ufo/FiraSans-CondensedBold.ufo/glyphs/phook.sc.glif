@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phook.sc" format="2">
+  <advance width="709"/>
+  <anchor x="275" y="0" name="bottom"/>
+  <anchor x="390" y="571" name="top"/>
+  <outline>
+    <component base="p.sc" xOffset="152"/>
+    <component base="hookaboveHELPER2.sc" xOffset="-22" yOffset="-125"/>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semisoftsign-cy.sc" format="2">
+  <advance width="476"/>
+  <anchor x="238" y="0" name="bottom"/>
+  <anchor x="238" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="39" y="570" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="274" y="0" type="line" smooth="yes"/>
+      <point x="388" y="0"/>
+      <point x="472" y="69"/>
+      <point x="472" y="195" type="curve" smooth="yes"/>
+      <point x="472" y="317"/>
+      <point x="399" y="378"/>
+      <point x="264" y="378" type="curve" smooth="yes"/>
+      <point x="218" y="378" type="line"/>
+      <point x="218" y="254" type="line"/>
+      <point x="238" y="254" type="line" smooth="yes"/>
+      <point x="274" y="254"/>
+      <point x="277" y="225"/>
+      <point x="277" y="194" type="curve" smooth="yes"/>
+      <point x="277" y="162"/>
+      <point x="273" y="131"/>
+      <point x="242" y="131" type="curve" smooth="yes"/>
+      <point x="228" y="131" type="line"/>
+      <point x="228" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="433" type="line"/>
+      <point x="275" y="433" type="line"/>
+      <point x="275" y="520" type="line"/>
+      <point x="39" y="520" type="line"/>
+      <point x="0" y="520" type="line"/>
+    </contour>
+  </outline>
+</glyph>

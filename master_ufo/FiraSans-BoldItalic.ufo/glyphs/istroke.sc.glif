@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke.sc" format="2">
+  <advance width="340"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="202" y="0" name="ogonek"/>
+  <anchor x="215" y="571" name="top"/>
+  <outline>
+    <component base="i.sc" xOffset="32"/>
+    <component base="hyphen" xOffset="-32" yOffset="-13"/>
+  </outline>
+</glyph>

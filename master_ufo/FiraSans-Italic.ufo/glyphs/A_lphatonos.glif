@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphatonos" format="2">
+  <advance width="599"/>
+  <unicode hex="0386"/>
+  <anchor x="242" y="689" name="_topleft"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="527" y="0" name="ogonek"/>
+  <anchor x="376" y="689" name="top"/>
+  <anchor x="259" y="689" name="topleft"/>
+  <outline>
+    <component base="tonos.case"/>
+    <component base="A" xOffset="32"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="664"/>
+  <unicode hex="014A"/>
+  <anchor x="332" y="0" name="bottom"/>
+  <anchor x="339" y="682" name="top"/>
+  <outline>
+    <component base="hookHELPER.case" xOffset="310"/>
+    <component base="N"/>
+  </outline>
+</glyph>

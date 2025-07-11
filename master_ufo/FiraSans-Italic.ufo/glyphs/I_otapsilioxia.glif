@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsilioxia" format="2">
+  <advance width="532"/>
+  <unicode hex="1F3C"/>
+  <anchor x="122" y="418" name="_top"/>
+  <anchor x="446" y="689" name="top"/>
+  <anchor x="348" y="0" name="bottom"/>
+  <anchor x="384" y="0" name="ogonek"/>
+  <anchor x="379" y="689" name="topleft"/>
+  <outline>
+    <component base="psilioxia.case"/>
+    <component base="Iota" xOffset="240"/>
+  </outline>
+</glyph>

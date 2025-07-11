@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="706"/>
+  <unicode hex="01C7"/>
+  <anchor x="181" y="0" name="bottom"/>
+  <anchor x="354" y="403" name="center"/>
+  <anchor x="641" y="696" name="top"/>
+  <anchor x="296" y="696" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="428"/>
+  </outline>
+</glyph>

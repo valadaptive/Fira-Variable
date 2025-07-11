@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger.tf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="379" y="696" type="line"/>
+      <point x="208" y="696" type="line"/>
+      <point x="189" y="559" type="line"/>
+      <point x="53" y="559" type="line"/>
+      <point x="31" y="406" type="line"/>
+      <point x="167" y="406" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="339" y="406" type="line"/>
+      <point x="468" y="406" type="line"/>
+      <point x="490" y="559" type="line"/>
+      <point x="361" y="559" type="line"/>
+    </contour>
+  </outline>
+</glyph>

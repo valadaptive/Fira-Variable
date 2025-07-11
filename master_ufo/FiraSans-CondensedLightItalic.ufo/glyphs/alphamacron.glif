@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphamacron" format="2">
+  <advance width="470"/>
+  <unicode hex="1FB1"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="286" y="691" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="macroncomb" xOffset="115"/>
+  </outline>
+</glyph>

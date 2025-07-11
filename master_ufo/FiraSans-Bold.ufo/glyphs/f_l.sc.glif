@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_l.sc" format="2">
+  <advance width="914"/>
+  <anchor x="142" y="0" name="bottom_1"/>
+  <anchor x="241" y="571" name="top_1"/>
+  <anchor x="683" y="0" name="bottom_2"/>
+  <anchor x="823" y="336" name="center_2"/>
+  <anchor x="580" y="571" name="top_2"/>
+  <anchor x="700" y="571" name="topright_2"/>
+  <outline>
+    <component base="f.sc"/>
+    <component base="l.sc" xOffset="439"/>
+  </outline>
+</glyph>

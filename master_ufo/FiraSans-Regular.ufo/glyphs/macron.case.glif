@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron.case" format="2">
+  <advance width="333"/>
+  <anchor x="167" y="653" name="_top"/>
+  <anchor x="169" y="862" name="top"/>
+  <outline>
+    <component base="macroncomb" yOffset="126"/>
+  </outline>
+</glyph>

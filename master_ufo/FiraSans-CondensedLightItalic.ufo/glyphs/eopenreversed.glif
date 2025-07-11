@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversed" format="2">
+  <advance width="379"/>
+  <unicode hex="025C"/>
+  <anchor x="148" y="0" name="bottom"/>
+  <anchor x="216" y="517" name="top"/>
+  <outline>
+    <component base="ze-cy"/>
+  </outline>
+</glyph>

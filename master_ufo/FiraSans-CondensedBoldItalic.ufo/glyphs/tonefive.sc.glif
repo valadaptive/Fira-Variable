@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonefive.sc" format="2">
+  <advance width="419"/>
+  <anchor x="178" y="0" name="bottom"/>
+  <anchor x="259" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="427" y="570" type="line"/>
+      <point x="85" y="570" type="line"/>
+      <point x="37" y="243" type="line"/>
+      <point x="155" y="243" type="line"/>
+      <point x="171" y="251"/>
+      <point x="184" y="255"/>
+      <point x="196" y="255" type="curve" smooth="yes"/>
+      <point x="211" y="255"/>
+      <point x="223" y="244"/>
+      <point x="223" y="210" type="curve" smooth="yes"/>
+      <point x="223" y="157"/>
+      <point x="208" y="118"/>
+      <point x="164" y="118" type="curve" smooth="yes"/>
+      <point x="133" y="118"/>
+      <point x="106" y="132"/>
+      <point x="82" y="160" type="curve"/>
+      <point x="-25" y="67" type="line"/>
+      <point x="16" y="20"/>
+      <point x="60" y="-19"/>
+      <point x="156" y="-19" type="curve" smooth="yes"/>
+      <point x="291" y="-19"/>
+      <point x="404" y="74"/>
+      <point x="404" y="226" type="curve" smooth="yes"/>
+      <point x="404" y="327"/>
+      <point x="346" y="376"/>
+      <point x="277" y="376" type="curve" smooth="yes"/>
+      <point x="252" y="376"/>
+      <point x="234" y="371"/>
+      <point x="216" y="364" type="curve"/>
+      <point x="221" y="436" type="line"/>
+      <point x="382" y="436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

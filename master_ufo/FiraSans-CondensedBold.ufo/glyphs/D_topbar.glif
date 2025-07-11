@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dtopbar" format="2">
+  <advance width="606"/>
+  <unicode hex="018B"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="252" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="83" y="695" type="line"/>
+      <point x="83" y="548" type="line"/>
+      <point x="299" y="548" type="line"/>
+      <point x="484" y="695" type="line"/>
+    </contour>
+    <component base="Komide-cy" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

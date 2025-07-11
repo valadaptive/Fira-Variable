@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonLunateSymbol" format="2">
+  <advance width="472"/>
+  <unicode hex="03F5"/>
+  <anchor x="199.459" y="0.0" name="bottom"/>
+  <anchor x="272.541" y="520.0" name="top"/>
+  <outline>
+    <component base="e-cy"/>
+  </outline>
+</glyph>

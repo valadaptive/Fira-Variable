@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni" format="2">
+  <advance width="600"/>
+  <unicode hex="1FCF"/>
+  <anchor x="273" y="531" name="_top"/>
+  <anchor x="483" y="938" name="_topleft"/>
+  <anchor x="284" y="953" name="top"/>
+  <outline>
+    <contour>
+      <point x="236" y="581" type="line"/>
+      <point x="311" y="581" type="line"/>
+      <point x="336" y="625" type="line" smooth="yes"/>
+      <point x="357" y="662"/>
+      <point x="365" y="683"/>
+      <point x="365" y="709" type="curve" smooth="yes"/>
+      <point x="365" y="753"/>
+      <point x="332" y="787"/>
+      <point x="286" y="787" type="curve" smooth="yes"/>
+      <point x="239" y="787"/>
+      <point x="206" y="752"/>
+      <point x="206" y="709" type="curve" smooth="yes"/>
+      <point x="206" y="679"/>
+      <point x="220" y="658"/>
+      <point x="250" y="642" type="curve"/>
+    </contour>
+    <component base="perispomeni" xOffset="-13" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

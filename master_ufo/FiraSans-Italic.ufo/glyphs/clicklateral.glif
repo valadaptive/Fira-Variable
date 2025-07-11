@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clicklateral" format="2">
+  <advance width="455"/>
+  <unicode hex="01C1"/>
+  <outline>
+    <component base="clickdental"/>
+    <component base="clickdental" xOffset="172"/>
+  </outline>
+</glyph>

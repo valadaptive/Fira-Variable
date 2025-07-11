@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotaoxia" format="2">
+  <advance width="343"/>
+  <unicode hex="1FDB"/>
+  <anchor x="162" y="689" name="_topleft"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="262" y="0" name="ogonek"/>
+  <anchor x="225" y="689" name="top"/>
+  <anchor x="172" y="689" name="topleft"/>
+  <outline>
+    <component base="oxia.case"/>
+    <component base="I" xOffset="104"/>
+  </outline>
+</glyph>

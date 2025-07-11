@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ystroke" format="2">
+  <advance width="502"/>
+  <unicode hex="024F"/>
+  <anchor x="215" y="-201" name="bottom"/>
+  <anchor x="214" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="11" y="323" type="line"/>
+      <point x="405" y="323" type="line"/>
+      <point x="405" y="387" type="line"/>
+      <point x="369" y="387" type="line"/>
+      <point x="47" y="387" type="line"/>
+      <point x="11" y="387" type="line"/>
+    </contour>
+    <component base="y" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

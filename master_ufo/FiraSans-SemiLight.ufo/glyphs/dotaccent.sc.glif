@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccent.sc" format="2">
+  <advance width="112"/>
+  <anchor x="56" y="736" name="_center"/>
+  <anchor x="56" y="675" name="top"/>
+  <outline>
+    <component base="dotaccentcomb" yOffset="30"/>
+  </outline>
+</glyph>

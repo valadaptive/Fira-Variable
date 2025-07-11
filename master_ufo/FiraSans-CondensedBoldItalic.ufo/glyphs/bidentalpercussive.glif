@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bidentalpercussive" format="2">
+  <advance width="322"/>
+  <unicode hex="02AD"/>
+  <anchor x="119" y="-87" name="_top"/>
+  <anchor x="243" y="572" name="top"/>
+  <outline>
+    <component base="bridgeinvertedbelowcomb" xScale="-1" yScale="-1" xOffset="246" yOffset="-87"/>
+    <component base="bridgeinvertedbelowcomb" xScale="-1" yScale="-1" xOffset="345" yOffset="314"/>
+  </outline>
+</glyph>

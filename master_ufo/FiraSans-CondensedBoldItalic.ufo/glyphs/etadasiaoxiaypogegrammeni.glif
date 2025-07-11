@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaoxiaypogegrammeni" format="2">
+  <advance width="452"/>
+  <unicode hex="1F95"/>
+  <anchor x="88" y="-210" name="bottom"/>
+  <anchor x="273" y="533" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaoxia" xOffset="28"/>
+    <component base="ypogegrammenicomb" xOffset="1"/>
+  </outline>
+</glyph>

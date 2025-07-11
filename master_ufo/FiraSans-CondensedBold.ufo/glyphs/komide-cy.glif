@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="komide-cy" format="2">
+  <advance width="494"/>
+  <unicode hex="0501"/>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="253" y="267" name="center"/>
+  <anchor x="248" y="744" name="top"/>
+  <anchor x="488" y="744" name="topright"/>
+  <outline>
+    <component base="d"/>
+  </outline>
+</glyph>

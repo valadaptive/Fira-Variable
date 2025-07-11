@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="045F"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="455" y="0" name="bottomright"/>
+  <anchor x="454" y="0" name="ogonek"/>
+  <anchor x="323" y="527" name="top"/>
+  <anchor x="529" y="527" name="topright"/>
+  <outline>
+    <contour>
+      <point x="162" y="52" type="line"/>
+      <point x="152" y="-150" type="line"/>
+      <point x="222" y="-150" type="line"/>
+      <point x="247" y="38" type="line"/>
+    </contour>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

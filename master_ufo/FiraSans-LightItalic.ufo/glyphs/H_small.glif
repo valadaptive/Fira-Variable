@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hsmall" format="2">
+  <advance width="578"/>
+  <unicode hex="029C"/>
+  <anchor x="253" y="0" name="bottom"/>
+  <anchor x="427" y="0" name="bottomright"/>
+  <anchor x="325" y="517" name="top"/>
+  <outline>
+    <component base="en-cy"/>
+  </outline>
+</glyph>

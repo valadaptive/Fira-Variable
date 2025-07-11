@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphavariaypogegrammeni.sc" format="2">
+  <advance width="403"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="387" y="0" name="ogonek"/>
+  <anchor x="207" y="557" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+  </outline>
+</glyph>

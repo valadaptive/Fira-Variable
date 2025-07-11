@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy" format="2">
+  <advance width="603"/>
+  <unicode hex="0446"/>
+  <anchor x="488" y="0" name="_bottom"/>
+  <anchor x="251" y="0" name="bottom"/>
+  <anchor x="486" y="0" name="bottomright"/>
+  <anchor x="484" y="0" name="ogonek"/>
+  <anchor x="312" y="534" name="top"/>
+  <anchor x="560" y="534" name="topright"/>
+  <outline>
+    <component base="descStraight-cy" xOffset="368"/>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>descStraight-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

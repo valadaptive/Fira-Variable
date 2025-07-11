@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ngrave" format="2">
+  <advance width="553"/>
+  <unicode hex="01F8"/>
+  <anchor x="240" y="0" name="bottom"/>
+  <anchor x="363" y="908" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="gravecomb.case" xOffset="155"/>
+  </outline>
+</glyph>

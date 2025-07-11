@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7AD.sc" format="2">
+  <advance width="506"/>
+  <anchor x="234" y="0" name="bottom"/>
+  <anchor x="366" y="316" name="center"/>
+  <anchor x="218" y="564" name="top"/>
+  <anchor x="279" y="564" name="topright"/>
+  <outline>
+    <contour>
+      <point x="127" y="191" type="curve"/>
+      <point x="214" y="193" type="line"/>
+      <point x="253" y="195"/>
+      <point x="282" y="200"/>
+      <point x="321" y="208" type="curve"/>
+      <point x="320" y="267" type="line"/>
+      <point x="284" y="261"/>
+      <point x="261" y="256"/>
+      <point x="223" y="255" type="curve"/>
+      <point x="136" y="255" type="line"/>
+      <point x="105" y="255"/>
+      <point x="87" y="267"/>
+      <point x="87" y="296" type="curve" smooth="yes"/>
+      <point x="87" y="330"/>
+      <point x="103" y="348"/>
+      <point x="128" y="348" type="curve" smooth="yes"/>
+      <point x="136" y="348"/>
+      <point x="143" y="347"/>
+      <point x="149" y="345" type="curve"/>
+      <point x="161" y="403" type="line"/>
+      <point x="153" y="406"/>
+      <point x="142" y="408"/>
+      <point x="127" y="408" type="curve" smooth="yes"/>
+      <point x="66" y="408"/>
+      <point x="20" y="364"/>
+      <point x="20" y="293" type="curve" smooth="yes"/>
+      <point x="20" y="232"/>
+      <point x="55" y="195"/>
+    </contour>
+    <component base="l.sc" xOffset="56"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

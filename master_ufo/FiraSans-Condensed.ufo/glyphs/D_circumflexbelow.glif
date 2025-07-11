@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcircumflexbelow" format="2">
+  <advance width="534"/>
+  <unicode hex="1E12"/>
+  <anchor x="251" y="-205" name="bottom"/>
+  <anchor x="267" y="345" name="center"/>
+  <anchor x="248" y="689" name="top"/>
+  <outline>
+    <component base="D"/>
+    <component base="circumflexbelowcomb" xOffset="84"/>
+  </outline>
+</glyph>

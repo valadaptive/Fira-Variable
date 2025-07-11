@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhook" format="2">
+  <advance width="396"/>
+  <unicode hex="027E"/>
+  <anchor x="96" y="0" name="bottom"/>
+  <anchor x="294" y="534" name="top"/>
+  <outline>
+    <contour>
+      <point x="238" y="328" type="line"/>
+      <point x="44" y="328" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+    </contour>
+    <component base="hookHELPER" xScale="-1" yScale="-1" xOffset="405" yOffset="328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

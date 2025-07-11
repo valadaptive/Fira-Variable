@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omega-cy" format="2">
+  <advance width="916"/>
+  <unicode hex="0460"/>
+  <anchor x="420.476" y="0.0" name="bottom"/>
+  <anchor x="518.292" y="696.0" name="top"/>
+  <outline>
+    <component base="uniA7B6"/>
+  </outline>
+</glyph>

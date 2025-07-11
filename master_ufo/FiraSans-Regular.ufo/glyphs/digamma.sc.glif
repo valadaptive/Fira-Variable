@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="digamma.sc" format="2">
+  <advance width="460"/>
+  <anchor x="146" y="0" name="bottom"/>
+  <anchor x="200" y="0" name="bottomright"/>
+  <anchor x="273" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="372" y="229" type="curve"/>
+      <point x="395" y="296" type="line"/>
+      <point x="366" y="311"/>
+      <point x="340" y="318"/>
+      <point x="291" y="318" type="curve" smooth="yes"/>
+      <point x="103" y="318" type="line"/>
+      <point x="103" y="243" type="line"/>
+      <point x="283" y="243" type="line" smooth="yes"/>
+      <point x="326" y="243"/>
+      <point x="349" y="237"/>
+    </contour>
+    <component base="gamma.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

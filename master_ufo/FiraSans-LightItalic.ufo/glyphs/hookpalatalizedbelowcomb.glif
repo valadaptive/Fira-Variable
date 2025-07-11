@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookpalatalizedbelowcomb" format="2">
+  <unicode hex="0321"/>
+  <anchor x="156" y="0" name="_bottom"/>
+  <anchor x="66" y="-192" name="bottom"/>
+  <outline>
+    <component base="hookHELPER" xOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>223</integer>
+    </dict>
+  </lib>
+</glyph>

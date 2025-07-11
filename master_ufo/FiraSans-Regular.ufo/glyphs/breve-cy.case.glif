@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve-cy.case" format="2">
+  <advance width="362"/>
+  <anchor x="182" y="689" name="_top"/>
+  <outline>
+    <component base="breve-cy" yOffset="126"/>
+  </outline>
+</glyph>

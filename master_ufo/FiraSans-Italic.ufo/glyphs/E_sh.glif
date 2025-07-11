@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esh" format="2">
+  <advance width="497"/>
+  <unicode hex="01A9"/>
+  <anchor x="211.467" y="0.0" name="bottom"/>
+  <anchor x="308.3" y="689.0" name="top"/>
+  <outline>
+    <component base="Sigma"/>
+  </outline>
+</glyph>

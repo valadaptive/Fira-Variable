@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzhe-cy" format="2">
+  <advance width="533"/>
+  <unicode hex="040F"/>
+  <anchor x="237" y="0" name="bottom"/>
+  <anchor x="405" y="0" name="bottomright"/>
+  <outline>
+    <component base="TseHelper-cy"/>
+    <component base="descStraight-cy.case" xOffset="214"/>
+  </outline>
+</glyph>

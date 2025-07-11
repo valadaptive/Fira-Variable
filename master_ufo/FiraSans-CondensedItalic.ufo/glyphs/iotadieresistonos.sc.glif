@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresistonos.sc" format="2">
+  <advance width="237"/>
+  <anchor x="83" y="0" name="bottom"/>
+  <anchor x="119" y="0" name="ogonek"/>
+  <anchor x="163" y="564" name="top"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="dieresiscomb.sc" xOffset="-43"/>
+  </outline>
+</glyph>

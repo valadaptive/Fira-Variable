@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge.tosf" format="2">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="296" y="662" type="line"/>
+      <point x="264" y="662" type="line"/>
+      <point x="80" y="333" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="480" y="333" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="635" type="line"/>
+      <point x="447" y="333" type="line"/>
+      <point x="280" y="26" type="line"/>
+      <point x="113" y="333" type="line"/>
+    </contour>
+  </outline>
+</glyph>

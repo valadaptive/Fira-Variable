@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wynn" format="2">
+  <advance width="461"/>
+  <unicode hex="01F7"/>
+  <anchor x="200" y="0" name="bottom"/>
+  <anchor x="296" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="173" y="613" type="curve"/>
+      <point x="170" y="582" type="line"/>
+      <point x="211" y="622"/>
+      <point x="263" y="663"/>
+      <point x="336" y="663" type="curve" smooth="yes"/>
+      <point x="394" y="663"/>
+      <point x="431" y="624"/>
+      <point x="431" y="548" type="curve" smooth="yes"/>
+      <point x="431" y="403"/>
+      <point x="341" y="337"/>
+      <point x="222" y="287" type="curve" smooth="yes"/>
+      <point x="126" y="247" type="line"/>
+      <point x="121" y="218" type="line"/>
+      <point x="221" y="258" type="line" smooth="yes"/>
+      <point x="353" y="311"/>
+      <point x="463" y="383"/>
+      <point x="463" y="548" type="curve" smooth="yes"/>
+      <point x="463" y="638"/>
+      <point x="414" y="692"/>
+      <point x="339" y="692" type="curve" smooth="yes"/>
+      <point x="266" y="692"/>
+      <point x="213" y="653"/>
+    </contour>
+    <contour>
+      <point x="193" y="682" type="line"/>
+      <point x="162" y="682" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

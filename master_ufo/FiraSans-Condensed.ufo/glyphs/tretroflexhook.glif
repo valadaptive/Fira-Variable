@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tretroflexhook" format="2">
+  <advance width="361"/>
+  <unicode hex="0288"/>
+  <anchor x="206" y="-201" name="bottom"/>
+  <anchor x="122" y="642" name="top"/>
+  <outline>
+    <contour>
+      <point x="78" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="166" y="657" type="line"/>
+      <point x="78" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="7" y="458" type="line"/>
+      <point x="259" y="458" type="line"/>
+      <point x="268" y="527" type="line"/>
+      <point x="7" y="527" type="line"/>
+    </contour>
+    <component base="hookHELPER" xScale="-1" xOffset="333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

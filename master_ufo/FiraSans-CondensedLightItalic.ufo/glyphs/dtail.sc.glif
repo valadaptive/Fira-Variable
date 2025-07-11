@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dtail.sc" format="2">
+  <advance width="474"/>
+  <anchor x="178" y="0" name="bottom"/>
+  <anchor x="247" y="279" name="center"/>
+  <anchor x="277" y="557" name="top"/>
+  <outline>
+    <component base="eth.sc"/>
+  </outline>
+</glyph>

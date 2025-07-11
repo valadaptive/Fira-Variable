@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreveacute" format="2">
+  <advance width="482"/>
+  <unicode hex="1EAE"/>
+  <anchor x="204" y="0" name="bottom"/>
+  <anchor x="406" y="0" name="ogonek"/>
+  <anchor x="326" y="875" name="top"/>
+  <anchor x="201" y="689" name="topleft"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveacute.case" xOffset="84"/>
+  </outline>
+</glyph>

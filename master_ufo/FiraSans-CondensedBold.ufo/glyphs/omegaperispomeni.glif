@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegaperispomeni" format="2">
+  <advance width="632"/>
+  <unicode hex="1FF6"/>
+  <anchor x="318" y="0" name="bottom"/>
+  <anchor x="316" y="533" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="perispomeni" xOffset="118"/>
+  </outline>
+</glyph>

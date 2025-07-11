@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tturned" format="2">
+  <advance width="271"/>
+  <unicode hex="0287"/>
+  <anchor x="129" y="520" name="top"/>
+  <anchor x="139" y="260" name="center"/>
+  <anchor x="111" y="-131" name="bottom"/>
+  <anchor x="53" y="-214" name="bottomleft"/>
+  <outline>
+    <component base="t" xScale="-1" yScale="-1" xOffset="271" yOffset="520"/>
+  </outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nmod" format="2">
+  <advance width="251"/>
+  <unicode hex="207F"/>
+  <outline>
+    <contour>
+      <point x="211" y="400" type="line"/>
+      <point x="238" y="400" type="line"/>
+      <point x="264" y="586" type="line" smooth="yes"/>
+      <point x="271" y="636"/>
+      <point x="252" y="667"/>
+      <point x="208" y="667" type="curve" smooth="yes"/>
+      <point x="171" y="667"/>
+      <point x="141" y="644"/>
+      <point x="116" y="610" type="curve"/>
+      <point x="119" y="587" type="line"/>
+      <point x="141" y="619"/>
+      <point x="168" y="642"/>
+      <point x="202" y="642" type="curve" smooth="yes"/>
+      <point x="231" y="642"/>
+      <point x="242" y="625"/>
+      <point x="236" y="582" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="66" y="400" type="line"/>
+      <point x="93" y="400" type="line"/>
+      <point x="121" y="597" type="line"/>
+      <point x="126" y="661" type="line"/>
+      <point x="102" y="661" type="line"/>
+    </contour>
+  </outline>
+</glyph>

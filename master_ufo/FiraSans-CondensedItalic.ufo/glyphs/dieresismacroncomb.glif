@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacroncomb" format="2">
+  <advance width="380"/>
+  <anchor x="246" y="858" name="top"/>
+  <anchor x="207" y="527" name="_top"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="-4" yOffset="-30"/>
+    <component base="macroncomb" xOffset="38" yOffset="124"/>
+  </outline>
+</glyph>

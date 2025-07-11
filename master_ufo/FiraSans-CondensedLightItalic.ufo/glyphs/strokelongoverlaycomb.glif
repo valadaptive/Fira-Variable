@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongoverlaycomb" format="2">
+  <unicode hex="0336"/>
+  <outline>
+    <component base="emdash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>772</integer>
+    </dict>
+  </lib>
+</glyph>

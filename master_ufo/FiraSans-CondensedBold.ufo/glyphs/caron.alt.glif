@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.alt" format="2">
+  <advance width="168"/>
+  <anchor x="13" y="696" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="52" y="715" type="line"/>
+      <point x="30" y="480" type="line"/>
+      <point x="133" y="464" type="line"/>
+      <point x="183" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

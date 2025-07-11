@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsilivaria" format="2">
+  <advance width="789"/>
+  <unicode hex="1F4A"/>
+  <anchor x="155" y="680" name="_topleft"/>
+  <anchor x="446" y="680" name="top"/>
+  <anchor x="446" y="0" name="bottom"/>
+  <anchor x="524" y="0" name="ogonek"/>
+  <anchor x="204" y="680" name="topleft"/>
+  <anchor x="619" y="680" name="topright"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Omicron" xOffset="102"/>
+  </outline>
+</glyph>

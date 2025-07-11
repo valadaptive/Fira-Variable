@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiavaria.case" format="2">
+  <advance width="171"/>
+  <anchor x="115" y="440" name="_top"/>
+  <anchor x="121" y="686" name="top"/>
+  <outline>
+    <contour>
+      <point x="221" y="685" type="line"/>
+      <point x="184" y="676" type="line"/>
+      <point x="214" y="512" type="line"/>
+      <point x="239" y="518" type="line"/>
+    </contour>
+    <component base="dasia" xOffset="-8" yOffset="-80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

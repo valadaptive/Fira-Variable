@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzzhe-cy" format="2">
+  <advance width="625"/>
+  <unicode hex="052B"/>
+  <anchor x="307" y="0" name="_bottom"/>
+  <anchor x="312" y="-193" name="bottom"/>
+  <anchor x="312" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="287" y="520" type="line"/>
+      <point x="120" y="520" type="line"/>
+      <point x="109" y="314" type="line" smooth="yes"/>
+      <point x="97" y="94"/>
+      <point x="73" y="64"/>
+      <point x="34" y="28" type="curve"/>
+      <point x="60" y="25" type="line"/>
+      <point x="103" y="53"/>
+      <point x="129" y="92"/>
+      <point x="141" y="317" type="curve" smooth="yes"/>
+      <point x="150" y="492" type="line"/>
+      <point x="255" y="492" type="line"/>
+      <point x="255" y="28" type="line"/>
+      <point x="34" y="28" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="264" type="line"/>
+      <point x="377" y="264" type="line"/>
+      <point x="377" y="290" type="line"/>
+      <point x="267" y="290" type="line"/>
+    </contour>
+    <contour>
+      <point x="361" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="264" type="line"/>
+      <point x="421" y="264" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="606" y="0" type="line"/>
+      <point x="446" y="279" type="line"/>
+      <point x="582" y="520" type="line"/>
+      <point x="548" y="520" type="line"/>
+      <point x="421" y="290" type="line"/>
+      <point x="391" y="290" type="line"/>
+      <point x="391" y="520" type="line"/>
+      <point x="361" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="0" type="line"/>
+      <point x="382" y="0" type="line"/>
+      <point x="382" y="28" type="line"/>
+      <point x="295" y="28" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="240"/>
+    <component base="descStraight-cy" xScale="-1" xOffset="104"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent.tosf" format="2">
+  <advance width="560"/>
+  <anchor x="265" y="0" name="bottom"/>
+  <anchor x="353" y="534" name="top"/>
+  <outline>
+    <component base="cent.tf"/>
+  </outline>
+</glyph>

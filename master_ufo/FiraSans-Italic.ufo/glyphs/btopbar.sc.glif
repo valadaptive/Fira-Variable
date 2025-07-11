@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="btopbar.sc" format="2">
+  <advance width="522"/>
+  <anchor x="223.967" y="0.0" name="bottom"/>
+  <anchor x="303.233" y="564.0" name="top"/>
+  <outline>
+    <component base="be-cy.sc"/>
+  </outline>
+</glyph>

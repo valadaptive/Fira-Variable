@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotaccentmacron.sc" format="2">
+  <advance width="612"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="380" y="848" name="top"/>
+  <anchor x="540" y="564" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="dotmacroncomb.case" xOffset="120" yOffset="-125"/>
+  </outline>
+</glyph>

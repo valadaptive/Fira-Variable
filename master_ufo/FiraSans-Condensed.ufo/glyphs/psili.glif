@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psili" format="2">
+  <advance width="174"/>
+  <unicode hex="1FBF"/>
+  <anchor x="48" y="527" name="_top"/>
+  <anchor x="148" y="790" name="_topleft"/>
+  <anchor x="76" y="800" name="top"/>
+  <outline>
+    <component base="commaaccentcomb" xOffset="-3" yOffset="878"/>
+  </outline>
+</glyph>

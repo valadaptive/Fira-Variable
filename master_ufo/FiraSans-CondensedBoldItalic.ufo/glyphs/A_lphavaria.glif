@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphavaria" format="2">
+  <advance width="683"/>
+  <unicode hex="1FBA"/>
+  <anchor x="327" y="695" name="_topleft"/>
+  <anchor x="390" y="0" name="bottom"/>
+  <anchor x="577" y="0" name="ogonek"/>
+  <anchor x="490" y="696" name="top"/>
+  <anchor x="355" y="696" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="Alpha" xOffset="177"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.case" format="2">
+  <advance width="336"/>
+  <anchor x="233" y="689" name="_top"/>
+  <anchor x="257" y="906" name="top"/>
+  <outline>
+    <component base="caroncomb.case"/>
+  </outline>
+</glyph>

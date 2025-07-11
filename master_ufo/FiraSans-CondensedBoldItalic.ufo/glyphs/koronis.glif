@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koronis" format="2">
+  <advance width="232"/>
+  <unicode hex="1FBD"/>
+  <anchor x="122" y="533" name="_top"/>
+  <outline>
+    <component base="commaaccentcomb" xOffset="93" yOffset="912"/>
+  </outline>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="komidzje-cy" format="2">
+  <advance width="373"/>
+  <unicode hex="0507"/>
+  <anchor x="278.8" y="0" name="_bottom"/>
+  <anchor x="231" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="42" y="174" type="line"/>
+      <point x="185" y="174" type="line"/>
+      <point x="292" y="199"/>
+      <point x="360" y="260"/>
+      <point x="360" y="382" type="curve" smooth="yes"/>
+      <point x="360" y="488"/>
+      <point x="300" y="533"/>
+      <point x="183" y="533" type="curve" smooth="yes"/>
+      <point x="56" y="533" type="line"/>
+      <point x="36" y="406" type="line"/>
+      <point x="158" y="406" type="line" smooth="yes"/>
+      <point x="175" y="406"/>
+      <point x="180" y="394"/>
+      <point x="180" y="370" type="curve" smooth="yes"/>
+      <point x="180" y="331"/>
+      <point x="173" y="296"/>
+      <point x="140" y="296" type="curve" smooth="yes"/>
+      <point x="60" y="296" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="223" type="line"/>
+      <point x="114" y="187" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xScale="0.98" xOffset="171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsadblgrave-cy" format="2">
+  <advance width="503"/>
+  <unicode hex="0476"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="202" y="992" name="top"/>
+  <outline>
+    <component base="Izhitsa-cy"/>
+    <component base="dblgravecomb" xOffset="45" yOffset="162"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphaoxia" format="2">
+  <advance width="470"/>
+  <unicode hex="1F71"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="289" y="746" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="acutecomb" xOffset="124"/>
+  </outline>
+</glyph>

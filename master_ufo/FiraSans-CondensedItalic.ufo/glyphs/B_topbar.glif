@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Btopbar" format="2">
+  <advance width="472"/>
+  <unicode hex="0182"/>
+  <anchor x="205" y="0" name="bottom"/>
+  <anchor x="302" y="689" name="top"/>
+  <outline>
+    <component base="Be-cy"/>
+  </outline>
+</glyph>

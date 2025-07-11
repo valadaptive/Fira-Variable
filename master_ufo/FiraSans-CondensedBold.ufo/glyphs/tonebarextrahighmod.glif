@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonebarextrahighmod" format="2">
+  <advance width="326"/>
+  <unicode hex="02E5"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="301" y="696" type="line"/>
+      <point x="25" y="696" type="line"/>
+      <point x="25" y="583" type="line"/>
+      <point x="176" y="583" type="line"/>
+    </contour>
+  </outline>
+</glyph>

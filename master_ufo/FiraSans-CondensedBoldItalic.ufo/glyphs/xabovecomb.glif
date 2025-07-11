@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xabovecomb" format="2">
+  <unicode hex="033D"/>
+  <anchor x="179" y="533" name="_top"/>
+  <anchor x="210" y="838" name="top"/>
+  <outline>
+    <component base="xsuperior" yScale="0.9" xOffset="26" yOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>280</integer>
+    </dict>
+  </lib>
+</glyph>

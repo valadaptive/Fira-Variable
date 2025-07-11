@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy.sc" format="2">
+  <advance width="601"/>
+  <anchor x="264.17" y="0" name="bottom"/>
+  <anchor x="445" y="0" name="bottomright"/>
+  <anchor x="342.451" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="513" y="557" type="line"/>
+      <point x="172" y="557" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="174" y="555" type="line"/>
+      <point x="511" y="555" type="line"/>
+      <point x="433" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

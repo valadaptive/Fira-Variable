@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphaturned-latin" format="2">
+  <advance width="488"/>
+  <unicode hex="0252"/>
+  <anchor x="244" y="533" name="top"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <outline>
+    <component base="alpha-latin" xScale="-1" yScale="-1" xOffset="488" yOffset="534"/>
+  </outline>
+</glyph>

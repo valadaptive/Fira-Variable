@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enhook-cy" format="2">
+  <advance width="545"/>
+  <unicode hex="04C7"/>
+  <anchor x="273" y="0" name="bottom"/>
+  <anchor x="456" y="0" name="bottomright"/>
+  <anchor x="271" y="341" name="center"/>
+  <anchor x="271" y="682" name="top"/>
+  <anchor x="74" y="682" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="hookHELPER.case" xOffset="308"/>
+  </outline>
+</glyph>

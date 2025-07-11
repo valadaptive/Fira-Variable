@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbelt" format="2">
+  <advance width="296"/>
+  <unicode hex="026C"/>
+  <anchor x="122" y="0" name="bottom"/>
+  <anchor x="242" y="375" name="center"/>
+  <anchor x="181" y="730" name="top"/>
+  <anchor x="222" y="727" name="topright"/>
+  <outline>
+    <contour>
+      <point x="126" y="290" type="curve"/>
+      <point x="128" y="290" type="line"/>
+      <point x="156" y="291"/>
+      <point x="172" y="293"/>
+      <point x="195" y="298" type="curve"/>
+      <point x="195" y="300" type="line"/>
+      <point x="173" y="295"/>
+      <point x="156" y="293"/>
+      <point x="128" y="292" type="curve"/>
+      <point x="126" y="292" type="line"/>
+      <point x="76" y="292"/>
+      <point x="50" y="313"/>
+      <point x="50" y="355" type="curve" smooth="yes"/>
+      <point x="50" y="405"/>
+      <point x="83" y="433"/>
+      <point x="124" y="433" type="curve" smooth="yes"/>
+      <point x="133" y="433"/>
+      <point x="140" y="432"/>
+      <point x="147" y="431" type="curve"/>
+      <point x="147" y="433" type="line"/>
+      <point x="140" y="434"/>
+      <point x="133" y="435"/>
+      <point x="124" y="435" type="curve" smooth="yes"/>
+      <point x="82" y="435"/>
+      <point x="48" y="406"/>
+      <point x="48" y="355" type="curve" smooth="yes"/>
+      <point x="48" y="312"/>
+      <point x="75" y="290"/>
+    </contour>
+    <component base="l" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

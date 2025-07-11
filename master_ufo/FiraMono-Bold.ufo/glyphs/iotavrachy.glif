@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotavrachy" format="2">
+  <advance width="600"/>
+  <unicode hex="1FD0"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="290" y="531" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="breve" xOffset="-10"/>
+  </outline>
+</glyph>

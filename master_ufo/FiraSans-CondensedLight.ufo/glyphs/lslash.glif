@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="237"/>
+  <unicode hex="0142"/>
+  <anchor x="146" y="0" name="bottom"/>
+  <anchor x="214" y="375" name="center"/>
+  <anchor x="103" y="730" name="top"/>
+  <anchor x="153" y="727" name="topright"/>
+  <outline>
+    <contour>
+      <point x="46" y="317" type="line"/>
+      <point x="196" y="432" type="line"/>
+      <point x="195" y="434" type="line"/>
+      <point x="103" y="364" type="line"/>
+      <point x="45" y="319" type="line"/>
+    </contour>
+    <component base="l" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

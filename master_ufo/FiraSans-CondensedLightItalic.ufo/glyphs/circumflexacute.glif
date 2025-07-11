@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacute" format="2">
+  <advance width="330"/>
+  <anchor x="177" y="670" name="top"/>
+  <anchor x="102" y="520" name="topleft"/>
+  <anchor x="219" y="520" name="topright"/>
+  <anchor x="158" y="517" name="_top"/>
+  <outline>
+    <component base="circumflexcomb.case" xOffset="-25" yOffset="-180"/>
+    <component base="acutedbl" xOffset="154" yOffset="3"/>
+  </outline>
+</glyph>

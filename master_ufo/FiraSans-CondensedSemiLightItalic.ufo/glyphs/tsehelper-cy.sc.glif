@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tsehelper-cy.sc" format="2">
+  <advance width="503"/>
+  <anchor x="220" y="0" name="bottom"/>
+  <anchor x="384" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="426" y="560" type="line"/>
+      <point x="351" y="28" type="line"/>
+      <point x="101" y="28" type="line"/>
+      <point x="175" y="560" type="line"/>
+      <point x="145" y="560" type="line"/>
+      <point x="66" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="455" y="560" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Palochka-cy" format="2">
+  <advance width="262"/>
+  <unicode hex="04C0"/>
+  <anchor x="95" y="0" name="bottom"/>
+  <anchor x="106" y="0" name="ogonek"/>
+  <anchor x="190" y="680" name="top"/>
+  <anchor x="140" y="680" name="topleft"/>
+  <outline>
+    <component base="I"/>
+  </outline>
+</glyph>

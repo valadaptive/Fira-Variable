@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="estroke.sc" format="2">
+  <advance width="490"/>
+  <anchor x="268" y="0" name="bottom"/>
+  <anchor x="416" y="0" name="ogonek"/>
+  <anchor x="268" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="345" y="618" type="line"/>
+      <point x="159" y="-52" type="line"/>
+      <point x="202" y="-62" type="line"/>
+      <point x="387" y="608" type="line"/>
+    </contour>
+    <component base="e.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

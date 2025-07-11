@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etatonos" format="2">
+  <advance width="482"/>
+  <unicode hex="03AE"/>
+  <anchor x="110" y="0" name="bottom"/>
+  <anchor x="239" y="527" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="tonos" xOffset="184"/>
+  </outline>
+</glyph>

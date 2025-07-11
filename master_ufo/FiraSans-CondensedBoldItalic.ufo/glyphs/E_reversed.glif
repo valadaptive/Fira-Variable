@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed" format="2">
+  <advance width="408"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="76" y="695" type="line"/>
+      <point x="54" y="558" type="line"/>
+      <point x="238" y="558" type="line"/>
+      <point x="222" y="420" type="line"/>
+      <point x="68" y="420" type="line"/>
+      <point x="48" y="286" type="line"/>
+      <point x="202" y="286" type="line"/>
+      <point x="185" y="139" type="line"/>
+      <point x="-2" y="139" type="line"/>
+      <point x="-25" y="0" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="454" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

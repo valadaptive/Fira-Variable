@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.sc" format="2">
+  <advance width="641"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="323" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="641" y="571" type="line"/>
+      <point x="459" y="571" type="line"/>
+      <point x="442" y="135" type="line"/>
+      <point x="421" y="571" type="line"/>
+      <point x="225" y="571" type="line"/>
+      <point x="195" y="134" type="line"/>
+      <point x="187" y="571" type="line"/>
+      <point x="0" y="571" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="319" y="398" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="584" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

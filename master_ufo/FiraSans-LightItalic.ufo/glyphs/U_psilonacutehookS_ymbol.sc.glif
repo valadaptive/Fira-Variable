@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilonacutehookSymbol.sc" format="2">
+  <advance width="425"/>
+  <anchor x="176.17" y="0.0" name="bottom"/>
+  <anchor x="266" y="776" name="top"/>
+  <outline>
+    <component base="yhook.sc"/>
+    <component base="acutecomb.sc" xOffset="83"/>
+  </outline>
+</glyph>

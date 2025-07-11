@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yot" format="2">
+  <advance width="300"/>
+  <unicode hex="037F"/>
+  <anchor x="219" y="689" name="top"/>
+  <outline>
+    <component base="J"/>
+  </outline>
+</glyph>

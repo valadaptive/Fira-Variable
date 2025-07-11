@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dezh" format="2">
+  <advance width="862"/>
+  <unicode hex="02A4"/>
+  <anchor x="560" y="-193" name="bottom"/>
+  <anchor x="288" y="260" name="center"/>
+  <anchor x="519" y="734" name="top"/>
+  <anchor x="552" y="734" name="topright"/>
+  <outline>
+    <component base="d"/>
+    <component base="ezh" xOffset="417"/>
+  </outline>
+</glyph>

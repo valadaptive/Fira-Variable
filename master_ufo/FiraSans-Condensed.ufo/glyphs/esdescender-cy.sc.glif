@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy.sc" format="2">
+  <advance width="414"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="261" y="564" name="top"/>
+  <outline>
+    <component base="c.sc"/>
+    <component base="descRound-cy" xOffset="132"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotapsiliperispomeni" format="2">
+  <advance width="600"/>
+  <unicode hex="1F36"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="301" y="953" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="psiliperispomeni" xOffset="17"/>
+  </outline>
+</glyph>

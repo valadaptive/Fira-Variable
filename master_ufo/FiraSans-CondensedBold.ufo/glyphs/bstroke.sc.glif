@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bstroke.sc" format="2">
+  <advance width="482"/>
+  <anchor x="241" y="0" name="bottom"/>
+  <anchor x="241" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="237" y="225" type="line"/>
+      <point x="39" y="225" type="line"/>
+      <point x="0" y="225" type="line"/>
+      <point x="0" y="149" type="line"/>
+      <point x="237" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="214" y="570" type="curve" smooth="yes"/>
+      <point x="39" y="570" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="234" y="0" type="line" smooth="yes"/>
+      <point x="371" y="0"/>
+      <point x="478" y="32"/>
+      <point x="478" y="170" type="curve" smooth="yes"/>
+      <point x="478" y="259"/>
+      <point x="422" y="290"/>
+      <point x="369" y="303" type="curve"/>
+      <point x="412" y="317"/>
+      <point x="458" y="348"/>
+      <point x="458" y="422" type="curve" smooth="yes"/>
+      <point x="458" y="537"/>
+      <point x="362" y="570"/>
+    </contour>
+    <contour>
+      <point x="231" y="448" type="line" smooth="yes"/>
+      <point x="263" y="448"/>
+      <point x="268" y="433"/>
+      <point x="268" y="403" type="curve"/>
+      <point x="268" y="363"/>
+      <point x="265" y="351"/>
+      <point x="226" y="351" type="curve" smooth="yes"/>
+      <point x="217" y="351" type="line"/>
+      <point x="217" y="248" type="line"/>
+      <point x="237" y="248" type="line" smooth="yes"/>
+      <point x="276" y="248"/>
+      <point x="284" y="231"/>
+      <point x="284" y="184" type="curve" smooth="yes"/>
+      <point x="284" y="131"/>
+      <point x="266" y="122"/>
+      <point x="236" y="122" type="curve" smooth="yes"/>
+      <point x="218" y="122" type="line"/>
+      <point x="218" y="448" type="line"/>
+    </contour>
+  </outline>
+</glyph>

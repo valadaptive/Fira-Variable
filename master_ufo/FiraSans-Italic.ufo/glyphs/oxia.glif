@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oxia" format="2">
+  <advance width="300"/>
+  <unicode hex="1FFD"/>
+  <anchor x="182" y="527" name="_top"/>
+  <anchor x="212" y="801" name="top"/>
+  <outline>
+    <component base="acutecomb"/>
+  </outline>
+</glyph>

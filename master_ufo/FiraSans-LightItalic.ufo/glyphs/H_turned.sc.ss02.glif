@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hturned.sc.ss02" format="2">
+  <advance width="513"/>
+  <anchor x="220.17" y="0" name="bottom"/>
+  <anchor x="298.451" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="347" y="0" type="line"/>
+      <point x="425" y="557" type="line"/>
+      <point x="423" y="557" type="line"/>
+      <point x="381" y="256" type="line"/>
+      <point x="74" y="256" type="line"/>
+      <point x="116" y="557" type="line"/>
+      <point x="114" y="557" type="line"/>
+      <point x="72" y="254" type="line"/>
+      <point x="381" y="254" type="line"/>
+    </contour>
+  </outline>
+</glyph>

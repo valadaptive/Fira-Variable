@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uk-cy.sc" format="2">
+  <advance width="855"/>
+  <anchor x="647" y="0" name="bottom"/>
+  <anchor x="726" y="557" name="top"/>
+  <anchor x="440" y="557" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="y.sc" xOffset="510"/>
+  </outline>
+</glyph>

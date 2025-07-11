@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sampi" format="2">
+  <advance width="446"/>
+  <unicode hex="03E0"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="289" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="367" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="275" y="682" type="line"/>
+      <point x="248" y="682" type="line"/>
+      <point x="269" y="574" type="line"/>
+    </contour>
+    <contour>
+      <point x="-12" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="288" y="586" type="line"/>
+      <point x="265" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="329" y="373" type="line"/>
+      <point x="310" y="390" type="line"/>
+    </contour>
+  </outline>
+</glyph>

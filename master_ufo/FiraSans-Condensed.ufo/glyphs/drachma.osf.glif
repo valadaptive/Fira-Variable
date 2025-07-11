@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="drachma.osf" format="2">
+  <advance width="995"/>
+  <anchor x="750" y="-202" name="bottom"/>
+  <anchor x="757" y="527" name="top"/>
+  <outline>
+    <component base="drachma"/>
+  </outline>
+</glyph>

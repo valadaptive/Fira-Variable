@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descStraightleft-cy" format="2">
+  <advance width="179"/>
+  <anchor x="57" y="0" name="_bottom"/>
+  <anchor x="83" y="0" name="_bottomleft"/>
+  <anchor x="75" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="-3" y="-141" type="line"/>
+      <point x="19" y="-141" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="115" y="28" type="line"/>
+      <point x="26" y="28" type="line"/>
+    </contour>
+  </outline>
+</glyph>

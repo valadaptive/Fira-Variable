@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl.tf" format="2">
+  <advance width="460"/>
+  <outline>
+    <contour>
+      <point x="447" y="293" type="line"/>
+      <point x="12" y="293" type="line"/>
+      <point x="12" y="140" type="line"/>
+      <point x="447" y="140" type="line"/>
+    </contour>
+    <component base="dagger.tf" xOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

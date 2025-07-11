@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etapsiliperispomeni.sc" format="2">
+  <advance width="503"/>
+  <anchor x="400" y="0" name="bottomright"/>
+  <anchor x="256" y="283" name="center"/>
+  <anchor x="295" y="564" name="top"/>
+  <outline>
+    <component base="h.sc"/>
+  </outline>
+</glyph>

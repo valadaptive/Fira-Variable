@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hturned" format="2">
+  <advance width="579"/>
+  <unicode hex="A78D"/>
+  <anchor x="289.5" y="0.0" name="bottom"/>
+  <anchor x="408" y="0" name="bottomleft"/>
+  <anchor x="469" y="0" name="bottomright"/>
+  <anchor x="255" y="682" name="top"/>
+  <outline>
+    <component base="Che-cy"/>
+  </outline>
+</glyph>

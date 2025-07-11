@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="je-cy.sc" format="2">
+  <advance width="234"/>
+  <anchor x="167" y="564" name="top"/>
+  <outline>
+    <component base="j.sc"/>
+  </outline>
+</glyph>

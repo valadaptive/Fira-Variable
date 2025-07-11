@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="abrevetilde" format="2">
+  <advance width="523"/>
+  <unicode hex="1EB5"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="457" y="-9" name="ogonek"/>
+  <anchor x="249" y="730" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevetilde" xOffset="101"/>
+  </outline>
+</glyph>

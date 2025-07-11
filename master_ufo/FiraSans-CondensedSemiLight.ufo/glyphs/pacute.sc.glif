@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pacute.sc" format="2">
+  <advance width="417"/>
+  <anchor x="112" y="0" name="bottom"/>
+  <anchor x="211" y="560" name="top"/>
+  <outline>
+    <component base="p.sc"/>
+    <component base="acutecomb.sc" xOffset="102"/>
+  </outline>
+</glyph>

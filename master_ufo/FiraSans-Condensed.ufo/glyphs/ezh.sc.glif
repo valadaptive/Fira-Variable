@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezh.sc" format="2">
+  <advance width="389"/>
+  <anchor x="194" y="0" name="bottom"/>
+  <anchor x="185" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="172" y="-11" type="curve" smooth="yes"/>
+      <point x="277" y="-11"/>
+      <point x="356" y="57"/>
+      <point x="356" y="163" type="curve" smooth="yes"/>
+      <point x="356" y="257"/>
+      <point x="305" y="321"/>
+      <point x="200" y="321" type="curve" smooth="yes"/>
+      <point x="159" y="321" type="line"/>
+      <point x="101" y="264" type="line"/>
+      <point x="166" y="264" type="line" smooth="yes"/>
+      <point x="231" y="264"/>
+      <point x="263" y="228"/>
+      <point x="263" y="164" type="curve" smooth="yes"/>
+      <point x="263" y="101"/>
+      <point x="226" y="62"/>
+      <point x="171" y="62" type="curve" smooth="yes"/>
+      <point x="121" y="62"/>
+      <point x="88" y="81"/>
+      <point x="57" y="116" type="curve"/>
+      <point x="7" y="66" type="line"/>
+      <point x="48" y="15"/>
+      <point x="101" y="-11"/>
+    </contour>
+    <contour>
+      <point x="101" y="264" type="line"/>
+      <point x="169" y="297" type="line"/>
+      <point x="338" y="494" type="line"/>
+      <point x="338" y="564" type="line"/>
+      <point x="32" y="564" type="line"/>
+      <point x="32" y="492" type="line"/>
+      <point x="236" y="492" type="line"/>
+      <point x="101" y="323" type="line"/>
+    </contour>
+  </outline>
+</glyph>

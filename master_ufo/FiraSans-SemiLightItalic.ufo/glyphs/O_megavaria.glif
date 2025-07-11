@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegavaria" format="2">
+  <advance width="720"/>
+  <unicode hex="1FFA"/>
+  <anchor x="159" y="682" name="_topleft"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="434" y="682" name="top"/>
+  <anchor x="200" y="682" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="Omega" xOffset="30"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tau.sc" format="2">
+  <advance width="346"/>
+  <anchor x="139" y="0" name="bottom"/>
+  <anchor x="160" y="0" name="bottomright"/>
+  <anchor x="184" y="340" name="center"/>
+  <anchor x="214" y="560" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+  </outline>
+</glyph>

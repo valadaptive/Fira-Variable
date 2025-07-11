@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etaoxia" format="2">
+  <advance width="783"/>
+  <unicode hex="1FCB"/>
+  <anchor x="274" y="695" name="_topleft"/>
+  <anchor x="526" y="0" name="bottom"/>
+  <anchor x="779" y="0" name="bottomright"/>
+  <anchor x="526" y="348" name="center"/>
+  <anchor x="526" y="696" name="top"/>
+  <anchor x="282" y="695" name="topleft"/>
+  <outline>
+    <component base="oxia.case"/>
+    <component base="H" xOffset="251"/>
+  </outline>
+</glyph>

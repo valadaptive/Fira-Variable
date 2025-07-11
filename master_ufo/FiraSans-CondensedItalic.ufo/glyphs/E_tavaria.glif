@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etavaria" format="2">
+  <advance width="651"/>
+  <unicode hex="1FCA"/>
+  <anchor x="220" y="689" name="_topleft"/>
+  <anchor x="347" y="0" name="bottom"/>
+  <anchor x="551" y="0" name="bottomright"/>
+  <anchor x="391" y="345" name="center"/>
+  <anchor x="440" y="689" name="top"/>
+  <anchor x="226" y="689" name="topleft"/>
+  <outline>
+    <component base="varia.case"/>
+    <component base="H" xOffset="104"/>
+  </outline>
+</glyph>

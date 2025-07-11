@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA7B3.sc" format="2">
+  <advance width="357"/>
+  <anchor x="228" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="108" y="560" type="line"/>
+      <point x="75" y="560" type="line"/>
+      <point x="167" y="262" type="line"/>
+      <point x="181" y="242" type="line"/>
+      <point x="274" y="-80" type="line"/>
+      <point x="307" y="-80" type="line"/>
+      <point x="202" y="263" type="line"/>
+      <point x="186" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="375" y="560" type="line"/>
+      <point x="341" y="560" type="line"/>
+      <point x="186" y="282" type="line"/>
+      <point x="167" y="262" type="line"/>
+      <point x="-30" y="-80" type="line"/>
+      <point x="4" y="-80" type="line"/>
+      <point x="181" y="242" type="line"/>
+      <point x="202" y="263" type="line"/>
+    </contour>
+  </outline>
+</glyph>

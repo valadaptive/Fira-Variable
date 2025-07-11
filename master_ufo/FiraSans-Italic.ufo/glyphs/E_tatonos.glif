@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etatonos" format="2">
+  <advance width="776"/>
+  <unicode hex="0389"/>
+  <anchor x="242" y="689" name="_topleft"/>
+  <anchor x="410" y="0" name="bottom"/>
+  <anchor x="650" y="0" name="bottomright"/>
+  <anchor x="450" y="345" name="center"/>
+  <anchor x="499" y="689" name="top"/>
+  <anchor x="241" y="689" name="topleft"/>
+  <outline>
+    <component base="tonos.case"/>
+    <component base="H" xOffset="102"/>
+  </outline>
+</glyph>

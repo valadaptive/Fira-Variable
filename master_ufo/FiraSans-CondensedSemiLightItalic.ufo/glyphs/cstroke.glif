@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cstroke" format="2">
+  <advance width="461"/>
+  <unicode hex="023C"/>
+  <anchor x="187" y="0" name="bottom"/>
+  <anchor x="272" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="336" y="589" type="line"/>
+      <point x="98" y="-64" type="line"/>
+      <point x="117" y="-70" type="line"/>
+      <point x="355" y="583" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

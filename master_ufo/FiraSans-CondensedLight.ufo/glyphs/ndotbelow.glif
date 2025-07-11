@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ndotbelow" format="2">
+  <advance width="475"/>
+  <unicode hex="1E47"/>
+  <anchor x="235" y="-188" name="bottom"/>
+  <anchor x="242" y="517" name="top"/>
+  <anchor x="94" y="517" name="topleft"/>
+  <outline>
+    <component base="n"/>
+    <component base="dotbelowcomb" xOffset="205"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

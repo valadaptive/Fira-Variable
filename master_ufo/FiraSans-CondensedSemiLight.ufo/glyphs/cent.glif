@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="374"/>
+  <unicode hex="00A2"/>
+  <anchor x="232" y="0" name="bottom"/>
+  <anchor x="232" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="246" y="677" type="line"/>
+      <point x="220" y="677" type="line"/>
+      <point x="220" y="527" type="line"/>
+      <point x="246" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="-7" type="line"/>
+      <point x="219" y="-147" type="line"/>
+      <point x="246" y="-147" type="line"/>
+      <point x="246" y="-6" type="line"/>
+    </contour>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

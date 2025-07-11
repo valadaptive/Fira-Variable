@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lefttorightmark" format="2">
+  <unicode hex="200E"/>
+  <outline>
+    <contour>
+      <point x="148" y="822" type="line"/>
+      <point x="135" y="813" type="line"/>
+      <point x="169" y="758" type="line"/>
+      <point x="60" y="758" type="line"/>
+      <point x="-68" y="-150" type="line"/>
+      <point x="-52" y="-150" type="line"/>
+      <point x="74" y="742" type="line"/>
+      <point x="167" y="742" type="line"/>
+      <point x="117" y="687" type="line"/>
+      <point x="129" y="678" type="line"/>
+      <point x="193" y="750" type="line"/>
+    </contour>
+  </outline>
+</glyph>

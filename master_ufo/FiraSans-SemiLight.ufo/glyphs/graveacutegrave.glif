@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="graveacutegrave" format="2">
+  <unicode hex="1DC8"/>
+  <anchor x="210" y="520" name="_top"/>
+  <anchor x="212" y="774" name="top"/>
+  <outline>
+    <component base="acutegraveacute" xScale="-1" xOffset="419"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>419</integer>
+    </dict>
+  </lib>
+</glyph>

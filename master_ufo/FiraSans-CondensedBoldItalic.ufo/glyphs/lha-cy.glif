@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lha-cy" format="2">
+  <advance width="762"/>
+  <unicode hex="0515"/>
+  <anchor x="290" y="0" name="bottom"/>
+  <anchor x="567.84" y="0" name="bottomright"/>
+  <anchor x="365" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="97" y="533" type="line"/>
+      <point x="223" y="400" type="line"/>
+      <point x="415" y="400" type="line"/>
+      <point x="418" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="238" y="401" type="line"/>
+      <point x="98" y="533" type="line"/>
+      <point x="63" y="322" type="line" smooth="yes"/>
+      <point x="37" y="164"/>
+      <point x="26" y="153"/>
+      <point x="-25" y="123" type="curve"/>
+      <point x="0" y="-13" type="line"/>
+      <point x="156" y="20"/>
+      <point x="193" y="97"/>
+      <point x="225" y="313" type="curve" smooth="yes"/>
+    </contour>
+    <component base="x" xScale="0.98" xOffset="217"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

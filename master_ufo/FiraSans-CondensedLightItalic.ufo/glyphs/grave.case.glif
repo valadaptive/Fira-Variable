@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.case" format="2">
+  <advance width="198"/>
+  <anchor x="158" y="680" name="_top"/>
+  <anchor x="179" y="842" name="top"/>
+  <outline>
+    <component base="gravecomb.case"/>
+  </outline>
+</glyph>

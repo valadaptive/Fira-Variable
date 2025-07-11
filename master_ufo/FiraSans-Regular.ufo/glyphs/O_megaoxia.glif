@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegaoxia" format="2">
+  <advance width="784"/>
+  <unicode hex="1FFB"/>
+  <anchor x="182" y="689" name="_topleft"/>
+  <anchor x="438" y="0" name="bottom"/>
+  <anchor x="436" y="689" name="top"/>
+  <anchor x="203" y="689" name="topleft"/>
+  <outline>
+    <component base="oxia.case"/>
+    <component base="Omega" xOffset="92"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rtail" format="2">
+  <advance width="612"/>
+  <unicode hex="2C64"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="367" y="696" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="hookHELPERright.case" xOffset="9"/>
+  </outline>
+</glyph>

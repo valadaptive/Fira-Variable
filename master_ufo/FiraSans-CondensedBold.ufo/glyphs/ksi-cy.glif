@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ksi-cy" format="2">
+  <advance width="452"/>
+  <unicode hex="046F"/>
+  <anchor x="226" y="-214" name="bottom"/>
+  <anchor x="217" y="823" name="top"/>
+  <outline>
+    <component base="ezhtail"/>
+    <component base="caroncomb" xOffset="8"/>
+  </outline>
+</glyph>

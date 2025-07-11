@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhook.sc" format="2">
+  <advance width="510"/>
+  <anchor x="278" y="0" name="bottom"/>
+  <anchor x="261" y="557" name="top"/>
+  <outline>
+    <component base="r.sc"/>
+    <component base="hookHELPER" xScale="-1" xOffset="336"/>
+  </outline>
+</glyph>

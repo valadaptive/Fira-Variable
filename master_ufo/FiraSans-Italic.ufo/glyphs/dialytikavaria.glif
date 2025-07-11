@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikavaria" format="2">
+  <advance width="385"/>
+  <unicode hex="1FED"/>
+  <anchor x="193" y="527" name="_top"/>
+  <outline>
+    <component base="dieresisgravecomb"/>
+  </outline>
+</glyph>

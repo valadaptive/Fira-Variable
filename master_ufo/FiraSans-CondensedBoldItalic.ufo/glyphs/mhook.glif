@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mhook" format="2">
+  <advance width="678"/>
+  <unicode hex="0271"/>
+  <anchor x="252" y="-214" name="bottom"/>
+  <anchor x="381" y="533" name="top"/>
+  <outline>
+    <component base="m"/>
+    <component base="hookHELPER" xOffset="387"/>
+  </outline>
+</glyph>

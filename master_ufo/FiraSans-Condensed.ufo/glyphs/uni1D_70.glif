@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D70" format="2">
+  <advance width="641"/>
+  <unicode hex="1D70"/>
+  <anchor x="270" y="0" name="bottom"/>
+  <anchor x="274" y="527" name="top"/>
+  <anchor x="94" y="527" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="55" y="201" type="line"/>
+      <point x="66" y="228"/>
+      <point x="79" y="244"/>
+      <point x="101" y="244" type="curve"/>
+      <point x="101" y="314" type="line"/>
+      <point x="54" y="314"/>
+      <point x="22" y="269"/>
+      <point x="10" y="219" type="curve"/>
+    </contour>
+    <contour>
+      <point x="355" y="184" type="curve"/>
+      <point x="355" y="255" type="line"/>
+      <point x="298" y="272"/>
+      <point x="242" y="289"/>
+      <point x="186" y="306" type="curve"/>
+      <point x="186" y="236" type="line"/>
+      <point x="242" y="219"/>
+      <point x="298" y="201"/>
+    </contour>
+    <contour>
+      <point x="438" y="183" type="line"/>
+      <point x="485" y="183"/>
+      <point x="517" y="227"/>
+      <point x="530" y="277" type="curve"/>
+      <point x="484" y="296" type="line"/>
+      <point x="473" y="268"/>
+      <point x="460" y="252"/>
+      <point x="438" y="252" type="curve"/>
+    </contour>
+    <component base="n" xOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPPP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bstroke" format="2">
+  <advance width="603"/>
+  <unicode hex="0180"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="322" y="739" name="top"/>
+  <outline>
+    <contour>
+      <point x="344" y="676" type="line"/>
+      <point x="25" y="676" type="line"/>
+      <point x="25" y="606" type="line"/>
+      <point x="104" y="606" type="line"/>
+      <point x="344" y="606" type="line"/>
+    </contour>
+    <component base="b" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

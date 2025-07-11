@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="528"/>
+  <unicode hex="04FF"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="222" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="185" y="533" type="line"/>
+      <point x="-13" y="533" type="line"/>
+      <point x="105" y="280" type="line"/>
+      <point x="215" y="201" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="336" y="286" type="line"/>
+      <point x="223" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="533" type="line"/>
+      <point x="254" y="533" type="line"/>
+      <point x="223" y="364" type="line"/>
+      <point x="105" y="280" type="line"/>
+      <point x="-23" y="0" type="line"/>
+      <point x="180" y="0" type="line"/>
+      <point x="215" y="201" type="line"/>
+      <point x="336" y="286" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.3" yScale="0.75" xOffset="-2" yOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

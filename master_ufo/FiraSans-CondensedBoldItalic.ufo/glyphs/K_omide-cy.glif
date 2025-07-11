@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Komide-cy" format="2">
+  <advance width="496"/>
+  <unicode hex="0500"/>
+  <anchor x="217" y="0" name="bottom"/>
+  <anchor x="315" y="695" name="top"/>
+  <outline>
+    <contour>
+      <point x="348" y="695" type="line"/>
+      <point x="273" y="140" type="line"/>
+      <point x="249" y="140" type="line" smooth="yes"/>
+      <point x="220" y="140"/>
+      <point x="206" y="161"/>
+      <point x="206" y="209" type="curve" smooth="yes"/>
+      <point x="206" y="269"/>
+      <point x="227" y="321"/>
+      <point x="273" y="321" type="curve" smooth="yes"/>
+      <point x="305" y="321" type="line"/>
+      <point x="328" y="454" type="line"/>
+      <point x="270" y="454" type="line" smooth="yes"/>
+      <point x="116" y="454"/>
+      <point x="3" y="367"/>
+      <point x="3" y="199" type="curve" smooth="yes"/>
+      <point x="3" y="65"/>
+      <point x="79" y="0"/>
+      <point x="196" y="0" type="curve" smooth="yes"/>
+      <point x="444" y="0" type="line"/>
+      <point x="542" y="695" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegaprosgegrammeni" format="2">
+  <advance width="564"/>
+  <unicode hex="1FFC"/>
+  <anchor x="334" y="-142" name="bottom"/>
+  <anchor x="282" y="680" name="top"/>
+  <anchor x="86" y="680" name="topleft"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="ypogegrammenicomb" xOffset="256"/>
+  </outline>
+</glyph>

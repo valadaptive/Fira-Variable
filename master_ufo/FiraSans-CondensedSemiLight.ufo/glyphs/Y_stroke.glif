@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ystroke" format="2">
+  <advance width="414"/>
+  <unicode hex="024E"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="207" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="399" y="587" type="line"/>
+      <point x="358" y="587" type="line"/>
+      <point x="56" y="587" type="line"/>
+      <point x="15" y="587" type="line"/>
+      <point x="15" y="563" type="line"/>
+      <point x="399" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="399" y="682" type="line"/>
+      <point x="365" y="682" type="line"/>
+      <point x="209" y="297" type="line"/>
+      <point x="50" y="682" type="line"/>
+      <point x="15" y="682" type="line"/>
+      <point x="193" y="270" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+      <point x="224" y="271" type="line"/>
+    </contour>
+  </outline>
+</glyph>

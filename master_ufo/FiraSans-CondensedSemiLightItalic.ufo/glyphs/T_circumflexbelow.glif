@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcircumflexbelow" format="2">
+  <advance width="394"/>
+  <unicode hex="1E70"/>
+  <anchor x="136" y="-189" name="bottom"/>
+  <anchor x="184" y="0" name="bottomright"/>
+  <anchor x="210" y="348" name="center"/>
+  <anchor x="257" y="682" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="circumflexbelowcomb" xOffset="56"/>
+  </outline>
+</glyph>

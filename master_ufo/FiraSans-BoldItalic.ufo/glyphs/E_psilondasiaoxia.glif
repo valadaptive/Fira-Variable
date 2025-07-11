@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasiaoxia" format="2">
+  <advance width="961"/>
+  <unicode hex="1F1D"/>
+  <anchor x="199" y="376" name="_top"/>
+  <anchor x="779" y="696" name="top"/>
+  <anchor x="679" y="0" name="bottom"/>
+  <anchor x="871" y="0" name="ogonek"/>
+  <anchor x="554" y="696" name="topleft"/>
+  <outline>
+    <component base="dasiaoxia.case"/>
+    <component base="Epsilon" xOffset="450"/>
+  </outline>
+</glyph>

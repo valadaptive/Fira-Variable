@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsili" format="2">
+  <advance width="467"/>
+  <unicode hex="1F18"/>
+  <anchor x="101" y="682" name="_topleft"/>
+  <anchor x="295" y="682" name="top"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="420" y="0" name="ogonek"/>
+  <anchor x="133" y="682" name="topleft"/>
+  <outline>
+    <component base="psili.case"/>
+    <component base="Epsilon" xOffset="59"/>
+  </outline>
+</glyph>

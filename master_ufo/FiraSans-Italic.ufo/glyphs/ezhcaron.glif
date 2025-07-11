@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezhcaron" format="2">
+  <advance width="475"/>
+  <unicode hex="01EF"/>
+  <anchor x="145" y="-202" name="bottom"/>
+  <anchor x="291" y="785" name="top"/>
+  <outline>
+    <component base="ezh"/>
+    <component base="caroncomb" xOffset="28"/>
+  </outline>
+</glyph>

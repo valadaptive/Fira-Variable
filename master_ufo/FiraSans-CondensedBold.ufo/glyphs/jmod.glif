@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jmod" format="2">
+  <advance width="181"/>
+  <unicode hex="02B2"/>
+  <outline>
+    <contour>
+      <point x="147" y="665" type="line"/>
+      <point x="73" y="665" type="line"/>
+      <point x="73" y="425" type="line" smooth="yes"/>
+      <point x="73" y="377"/>
+      <point x="57" y="364"/>
+      <point x="25" y="347" type="curve"/>
+      <point x="46" y="291" type="line"/>
+      <point x="109" y="312"/>
+      <point x="147" y="338"/>
+      <point x="147" y="427" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="110" y="810" type="curve" smooth="yes"/>
+      <point x="83" y="810"/>
+      <point x="63" y="788"/>
+      <point x="63" y="760" type="curve" smooth="yes"/>
+      <point x="63" y="732"/>
+      <point x="83" y="710"/>
+      <point x="110" y="710" type="curve" smooth="yes"/>
+      <point x="139" y="710"/>
+      <point x="156" y="732"/>
+      <point x="156" y="760" type="curve" smooth="yes"/>
+      <point x="156" y="788"/>
+      <point x="139" y="810"/>
+    </contour>
+  </outline>
+</glyph>

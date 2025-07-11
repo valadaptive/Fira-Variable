@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphaprosgegrammeni" format="2">
+  <advance width="499"/>
+  <unicode hex="1FBC"/>
+  <anchor x="314" y="-210" name="bottom"/>
+  <anchor x="437" y="0" name="ogonek"/>
+  <anchor x="259" y="696" name="top"/>
+  <anchor x="126" y="696" name="topleft"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="ypogegrammenicomb" xOffset="163"/>
+  </outline>
+</glyph>

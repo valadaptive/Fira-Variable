@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia" format="2">
+  <advance width="232"/>
+  <unicode hex="1FFE"/>
+  <anchor x="125" y="533" name="_top"/>
+  <anchor x="212" y="837" name="_topleft"/>
+  <anchor x="104" y="854" name="top"/>
+  <outline>
+    <component base="commaaccentcomb" xScale="-1" xOffset="211" yOffset="917"/>
+  </outline>
+</glyph>

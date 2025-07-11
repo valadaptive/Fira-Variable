@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaperispomeni" format="2">
+  <advance width="600"/>
+  <unicode hex="1F2F"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="530" y="0" name="bottomright"/>
+  <anchor x="300" y="345" name="center"/>
+  <anchor x="-100" y="699" name="top"/>
+  <anchor x="70" y="689" name="topleft"/>
+  <outline>
+    <component base="Eta"/>
+    <component base="dasiaperispomeni" xOffset="-398" yOffset="-171"/>
+  </outline>
+</glyph>

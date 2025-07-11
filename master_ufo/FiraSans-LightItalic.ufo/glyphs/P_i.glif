@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance width="654"/>
+  <unicode hex="03A0"/>
+  <anchor x="290.67" y="0.0" name="bottom"/>
+  <anchor x="498" y="0" name="bottomright"/>
+  <anchor x="386.238" y="680.0" name="top"/>
+  <outline>
+    <component base="Pe-cy"/>
+  </outline>
+</glyph>

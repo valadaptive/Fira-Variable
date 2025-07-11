@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rinvertedbreve.sc" format="2">
+  <advance width="546"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="346" y="797" name="top"/>
+  <outline>
+    <component base="r.sc"/>
+    <component base="breveinvertedcomb" xOffset="99" yOffset="37"/>
+  </outline>
+</glyph>

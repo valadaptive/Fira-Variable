@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphavrachy" format="2">
+  <advance width="556"/>
+  <unicode hex="1FB8"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="495" y="0" name="ogonek"/>
+  <anchor x="358" y="835" name="top"/>
+  <anchor x="229" y="680" name="topleft"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="brevecomb.case" xOffset="149"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iigrave-cy" format="2">
+  <advance width="577"/>
+  <unicode hex="045D"/>
+  <anchor x="257" y="0" name="bottom"/>
+  <anchor x="440" y="0" name="bottomright"/>
+  <anchor x="440" y="0" name="ogonek"/>
+  <anchor x="298" y="520" name="top"/>
+  <anchor x="514" y="520" name="topright"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="gravecomb" xOffset="180"/>
+  </outline>
+</glyph>

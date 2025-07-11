@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perispomeni" format="2">
+  <advance width="303"/>
+  <unicode hex="1FC0"/>
+  <anchor x="149" y="517" name="_top"/>
+  <outline>
+    <component base="tildecomb"/>
+  </outline>
+</glyph>

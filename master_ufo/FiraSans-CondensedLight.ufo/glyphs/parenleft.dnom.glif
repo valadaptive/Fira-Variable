@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.dnom" format="2">
+  <advance width="329"/>
+  <outline>
+    <contour>
+      <point x="208" y="495" type="line"/>
+      <point x="162" y="420"/>
+      <point x="119" y="335"/>
+      <point x="119" y="194" type="curve"/>
+      <point x="119" y="53"/>
+      <point x="162" y="-32"/>
+      <point x="208" y="-107" type="curve"/>
+      <point x="210" y="-106" type="line"/>
+      <point x="165" y="-31"/>
+      <point x="121" y="53"/>
+      <point x="121" y="194" type="curve"/>
+      <point x="121" y="335"/>
+      <point x="165" y="419"/>
+      <point x="210" y="494" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

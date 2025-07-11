@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrondasia" format="2">
+  <advance width="739"/>
+  <unicode hex="1F49"/>
+  <anchor x="122" y="682" name="_topleft"/>
+  <anchor x="394" y="682" name="top"/>
+  <anchor x="394" y="0" name="bottom"/>
+  <anchor x="479" y="0" name="ogonek"/>
+  <anchor x="152" y="682" name="topleft"/>
+  <anchor x="585" y="682" name="topright"/>
+  <outline>
+    <component base="dasia.case"/>
+    <component base="Omicron" xOffset="49"/>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yturned" format="2">
+  <advance width="356"/>
+  <unicode hex="028E"/>
+  <anchor x="152" y="0" name="bottom"/>
+  <anchor x="246" y="727" name="top"/>
+  <outline>
+    <contour>
+      <point x="-5" y="0" type="line"/>
+      <point x="-3" y="0" type="line"/>
+      <point x="215" y="516" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="217" y="517" type="line"/>
+      <point x="215" y="517" type="line"/>
+      <point x="274" y="658"/>
+      <point x="305" y="700"/>
+      <point x="393" y="730" type="curve"/>
+      <point x="393" y="732" type="line"/>
+      <point x="303" y="702"/>
+      <point x="272" y="658"/>
+      <point x="213" y="517" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

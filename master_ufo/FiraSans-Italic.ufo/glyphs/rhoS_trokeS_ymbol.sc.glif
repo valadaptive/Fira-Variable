@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhoStrokeSymbol.sc" format="2">
+  <advance width="542"/>
+  <anchor x="240" y="0" name="bottom"/>
+  <anchor x="320" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="23" y="144" type="line"/>
+      <point x="13" y="74" type="line"/>
+      <point x="91" y="74" type="line"/>
+      <point x="338" y="74" type="line"/>
+      <point x="348" y="144" type="line"/>
+    </contour>
+    <component base="rho.sc" xOffset="18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

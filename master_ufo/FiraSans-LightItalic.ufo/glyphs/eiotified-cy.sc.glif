@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eiotified-cy.sc" format="2">
+  <advance width="652"/>
+  <anchor x="289.67" y="0" name="bottom"/>
+  <anchor x="367.951" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="174" y="557" type="line"/>
+      <point x="172" y="557" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="137" y="292" type="line"/>
+      <point x="252" y="292" type="line"/>
+      <point x="252" y="294" type="line"/>
+      <point x="137" y="294" type="line"/>
+    </contour>
+    <component base="e-cy.sc" xOffset="161"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

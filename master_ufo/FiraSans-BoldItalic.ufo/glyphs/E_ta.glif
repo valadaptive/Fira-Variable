@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eta" format="2">
+  <advance width="645"/>
+  <unicode hex="0397"/>
+  <anchor x="284" y="0" name="bottom"/>
+  <anchor x="574" y="0" name="bottomright"/>
+  <anchor x="334" y="348" name="center"/>
+  <anchor x="382" y="696" name="top"/>
+  <anchor x="104" y="696" name="topleft"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+</glyph>

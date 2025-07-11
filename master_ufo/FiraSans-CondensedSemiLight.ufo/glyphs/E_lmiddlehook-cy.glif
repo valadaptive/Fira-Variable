@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Elmiddlehook-cy" format="2">
+  <advance width="954"/>
+  <unicode hex="0520"/>
+  <anchor x="392" y="-193" name="bottom"/>
+  <anchor x="436" y="0" name="bottomright"/>
+  <anchor x="392" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="587" y="424" type="curve" smooth="yes"/>
+      <point x="515" y="424"/>
+      <point x="466" y="387"/>
+      <point x="425" y="327" type="curve"/>
+      <point x="425" y="287" type="line"/>
+      <point x="470" y="360"/>
+      <point x="518" y="395"/>
+      <point x="584" y="395" type="curve" smooth="yes"/>
+      <point x="673" y="395"/>
+      <point x="709" y="332"/>
+      <point x="709" y="241" type="curve" smooth="yes"/>
+      <point x="709" y="0" type="line"/>
+      <point x="740" y="0" type="line"/>
+      <point x="740" y="243" type="line" smooth="yes"/>
+      <point x="740" y="354"/>
+      <point x="689" y="424"/>
+    </contour>
+    <component base="El-cy"/>
+    <component base="hookHELPER.case" xOffset="665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

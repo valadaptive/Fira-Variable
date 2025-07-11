@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chekhakassian-cy" format="2">
+  <advance width="566"/>
+  <unicode hex="04CB"/>
+  <anchor x="246.67" y="0" name="bottom"/>
+  <anchor x="378" y="0" name="bottomleft"/>
+  <anchor x="410" y="0" name="bottomright"/>
+  <anchor x="307" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="234" y="239" type="curve" smooth="yes"/>
+      <point x="321" y="239"/>
+      <point x="393" y="276"/>
+      <point x="447" y="340" type="curve"/>
+      <point x="447" y="342" type="line"/>
+      <point x="392" y="278"/>
+      <point x="321" y="241"/>
+      <point x="234" y="241" type="curve" smooth="yes"/>
+      <point x="132" y="241"/>
+      <point x="69" y="304"/>
+      <point x="83" y="412" type="curve" smooth="yes"/>
+      <point x="121" y="680" type="line"/>
+      <point x="119" y="680" type="line"/>
+      <point x="81" y="412" type="line" smooth="yes"/>
+      <point x="67" y="303"/>
+      <point x="130" y="239"/>
+    </contour>
+    <contour>
+      <point x="325" y="-131" type="line"/>
+      <point x="327" y="-131" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="399" y="0" type="line"/>
+      <point x="399" y="2" type="line"/>
+      <point x="344" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="495" y="680" type="line"/>
+      <point x="493" y="680" type="line"/>
+    </contour>
+  </outline>
+</glyph>

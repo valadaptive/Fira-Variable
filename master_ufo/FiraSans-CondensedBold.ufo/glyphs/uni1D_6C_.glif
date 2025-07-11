@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D6C" format="2">
+  <advance width="555"/>
+  <unicode hex="1D6C"/>
+  <anchor x="326" y="0" name="bottom"/>
+  <anchor x="340" y="744" name="top"/>
+  <outline>
+    <contour>
+      <point x="268" y="569" type="curve"/>
+      <point x="328" y="569"/>
+      <point x="360" y="620"/>
+      <point x="371" y="683" type="curve"/>
+      <point x="300" y="711" type="line"/>
+      <point x="298" y="699"/>
+      <point x="292" y="681"/>
+      <point x="266" y="672" type="curve"/>
+      <point x="207" y="684"/>
+      <point x="146" y="700"/>
+      <point x="96" y="712" type="curve"/>
+      <point x="36" y="712"/>
+      <point x="5" y="660"/>
+      <point x="-7" y="598" type="curve"/>
+      <point x="64" y="570" type="line"/>
+      <point x="66" y="582"/>
+      <point x="72" y="600"/>
+      <point x="97" y="609" type="curve"/>
+      <point x="157" y="597"/>
+      <point x="219" y="581"/>
+    </contour>
+    <component base="b" xOffset="67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

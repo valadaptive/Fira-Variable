@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje-cy.sc" format="2">
+  <advance width="674"/>
+  <anchor x="337" y="0" name="bottom"/>
+  <anchor x="337" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="108" y="557" type="line"/>
+      <point x="106" y="557" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="108" y="0" type="line"/>
+      <point x="108" y="309" type="line"/>
+      <point x="378" y="309" type="line"/>
+      <point x="378" y="311" type="line"/>
+      <point x="108" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="557" type="line"/>
+      <point x="377" y="557" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="482" y="0" type="line" smooth="yes"/>
+      <point x="569" y="0"/>
+      <point x="625" y="58"/>
+      <point x="625" y="164" type="curve" smooth="yes"/>
+      <point x="625" y="265"/>
+      <point x="569" y="311"/>
+      <point x="479" y="311" type="curve" smooth="yes"/>
+      <point x="379" y="311" type="line"/>
+      <point x="379" y="309" type="line"/>
+      <point x="479" y="309" type="line" smooth="yes"/>
+      <point x="568" y="309"/>
+      <point x="623" y="264"/>
+      <point x="623" y="164" type="curve" smooth="yes"/>
+      <point x="623" y="59"/>
+      <point x="568" y="2"/>
+      <point x="482" y="2" type="curve" smooth="yes"/>
+      <point x="379" y="2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

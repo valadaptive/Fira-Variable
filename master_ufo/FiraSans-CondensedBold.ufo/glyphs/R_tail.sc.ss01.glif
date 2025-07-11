@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rtail.sc.ss01" format="2">
+  <advance width="425"/>
+  <anchor x="177" y="-214" name="bottom"/>
+  <anchor x="177" y="570" name="top"/>
+  <outline>
+    <contour>
+      <point x="184" y="570" type="line"/>
+      <point x="20" y="570" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="308" type="line"/>
+      <point x="201" y="455" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="582" type="curve" smooth="yes"/>
+      <point x="259" y="582"/>
+      <point x="209" y="537"/>
+      <point x="187" y="449" type="curve"/>
+      <point x="205" y="259" type="line"/>
+      <point x="218" y="340"/>
+      <point x="228" y="398"/>
+      <point x="285" y="398" type="curve" smooth="yes"/>
+      <point x="299" y="398"/>
+      <point x="312" y="395"/>
+      <point x="326" y="390" type="curve"/>
+      <point x="355" y="574" type="line"/>
+      <point x="339" y="579"/>
+      <point x="329" y="582"/>
+    </contour>
+    <component base="hookHELPER" xScale="-1" xOffset="377"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

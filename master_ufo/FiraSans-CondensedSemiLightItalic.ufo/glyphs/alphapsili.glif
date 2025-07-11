@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsili" format="2">
+  <advance width="487"/>
+  <unicode hex="1F00"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="327" y="767" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="psili" xOffset="189"/>
+  </outline>
+</glyph>

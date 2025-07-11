@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="332"/>
+  <unicode hex="0140"/>
+  <anchor x="178" y="0" name="bottom"/>
+  <anchor x="297" y="380" name="center"/>
+  <anchor x="300" y="440" name="top"/>
+  <anchor x="193" y="739" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotaccentcomb" xOffset="203" yOffset="-340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>center</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

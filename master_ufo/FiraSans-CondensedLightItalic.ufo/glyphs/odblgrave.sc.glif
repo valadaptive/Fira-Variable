@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odblgrave.sc" format="2">
+  <advance width="510"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="312" y="825" name="top"/>
+  <anchor x="440" y="557" name="topright"/>
+  <outline>
+    <component base="o.sc"/>
+    <component base="dblgravecomb" xOffset="142" yOffset="40"/>
+  </outline>
+</glyph>

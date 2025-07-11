@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsiliprosgegrammeni" format="2">
+  <advance width="777"/>
+  <unicode hex="1F98"/>
+  <anchor x="122" y="424" name="_top"/>
+  <anchor x="500" y="689" name="top"/>
+  <anchor x="464" y="-190" name="bottom"/>
+  <anchor x="651" y="0" name="bottomright"/>
+  <anchor x="451" y="345" name="center"/>
+  <anchor x="242" y="689" name="topleft"/>
+  <outline>
+    <component base="Etapsili"/>
+    <component base="ypogegrammenicomb" xOffset="383"/>
+  </outline>
+</glyph>

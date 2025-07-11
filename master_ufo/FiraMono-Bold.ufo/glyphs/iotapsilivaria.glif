@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotapsilivaria" format="2">
+  <advance width="600"/>
+  <unicode hex="1F32"/>
+  <anchor x="300" y="0" name="bottom"/>
+  <anchor x="215" y="838" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="psilivaria" xOffset="-5"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiavaria" format="2">
+  <advance width="563"/>
+  <unicode hex="1F0B"/>
+  <anchor x="115" y="440" name="_top"/>
+  <anchor x="400" y="682" name="top"/>
+  <anchor x="303" y="0" name="bottom"/>
+  <anchor x="509" y="0" name="ogonek"/>
+  <anchor x="309" y="682" name="topleft"/>
+  <outline>
+    <component base="dasiavaria.case"/>
+    <component base="Alpha" xOffset="105"/>
+  </outline>
+</glyph>

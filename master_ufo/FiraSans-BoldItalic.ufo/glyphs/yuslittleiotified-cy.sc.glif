@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittleiotified-cy.sc" format="2">
+  <advance width="830"/>
+  <anchor x="377.476" y="0" name="bottom"/>
+  <anchor x="457.724" y="571" name="top"/>
+  <outline>
+    <contour>
+      <point x="372" y="172" type="line"/>
+      <point x="389" y="287" type="line"/>
+      <point x="242" y="287" type="line"/>
+      <point x="281" y="571" type="line"/>
+      <point x="87" y="571" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="225" y="172" type="line"/>
+    </contour>
+    <component base="yuslittle-cy.sc" xScale="0.98" xOffset="287"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

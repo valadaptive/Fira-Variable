@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Komilje-cy" format="2">
+  <advance width="749"/>
+  <unicode hex="0508"/>
+  <anchor x="344" y="0" name="bottom"/>
+  <anchor x="440" y="682" name="top"/>
+  <outline>
+    <contour>
+      <point x="496" y="-10" type="curve" smooth="yes"/>
+      <point x="628" y="-10"/>
+      <point x="694" y="148"/>
+      <point x="709" y="379" type="curve"/>
+      <point x="679" y="379" type="line"/>
+      <point x="666" y="172"/>
+      <point x="610" y="18"/>
+      <point x="498" y="18" type="curve" smooth="yes"/>
+      <point x="428" y="18"/>
+      <point x="405" y="77"/>
+      <point x="416" y="161" type="curve" smooth="yes"/>
+      <point x="488" y="682" type="line"/>
+      <point x="208" y="682" type="line"/>
+      <point x="221" y="653" type="line"/>
+      <point x="453" y="653" type="line"/>
+      <point x="385" y="163" type="line" smooth="yes"/>
+      <point x="371" y="57"/>
+      <point x="414" y="-10"/>
+    </contour>
+    <contour>
+      <point x="6" y="-6" type="line"/>
+      <point x="81" y="24"/>
+      <point x="92" y="74"/>
+      <point x="143" y="287" type="curve" smooth="yes"/>
+      <point x="232" y="657" type="line"/>
+      <point x="208" y="682" type="line"/>
+      <point x="113" y="291" type="line" smooth="yes"/>
+      <point x="63" y="85"/>
+      <point x="55" y="43"/>
+      <point x="-1" y="20" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

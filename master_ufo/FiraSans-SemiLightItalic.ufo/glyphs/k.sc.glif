@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.sc" format="2">
+  <advance width="465"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="311" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="492" y="560" type="line"/>
+      <point x="453" y="560" type="line"/>
+      <point x="158" y="301" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="197" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="560" type="line"/>
+      <point x="162" y="560" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.hints</key>
+      <array>
+        <dict>
+          <key>horizontal</key>
+          <true/>
+          <key>name</key>
+          <string></string>
+          <key>options</key>
+          <integer>0</integer>
+          <key>place</key>
+          <array>
+            <real>414.09375</real>
+            <integer>0</integer>
+          </array>
+          <key>stem</key>
+          <integer>-2</integer>
+          <key>type</key>
+          <string></string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

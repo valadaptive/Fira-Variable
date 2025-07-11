@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonoxia" format="2">
+  <advance width="552"/>
+  <unicode hex="1F7B"/>
+  <anchor x="239.67" y="0.0" name="bottom"/>
+  <anchor x="337" y="746" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="acutecomb" xOffset="158"/>
+  </outline>
+</glyph>

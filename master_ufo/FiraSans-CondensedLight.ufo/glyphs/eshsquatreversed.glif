@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eshsquatreversed" format="2">
+  <advance width="384"/>
+  <unicode hex="0285"/>
+  <anchor x="225" y="0" name="bottom"/>
+  <anchor x="89" y="517" name="top"/>
+  <outline>
+    <contour>
+      <point x="156" y="317" type="line"/>
+      <point x="156" y="183" type="line"/>
+      <point x="158" y="183" type="line"/>
+      <point x="158" y="317" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2" xScale="-1" xOffset="193" yOffset="-206"/>
+    <component base="hookHELPER" xScale="-1" xOffset="397" yOffset="183"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

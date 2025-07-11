@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lhookretroflex" format="2">
+  <advance width="252"/>
+  <unicode hex="026D"/>
+  <anchor x="171" y="-188" name="bottom"/>
+  <anchor x="103" y="727" name="top"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="730" type="line"/>
+      <point x="102" y="730" type="line"/>
+    </contour>
+    <component base="hookHELPER" xScale="-1" xOffset="271"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

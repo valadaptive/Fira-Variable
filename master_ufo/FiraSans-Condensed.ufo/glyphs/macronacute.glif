@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacute" format="2">
+  <unicode hex="1DC4"/>
+  <outline>
+    <component base="gravemacron" xScale="-1" xOffset="356"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>411</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonetwo" format="2">
+  <advance width="399"/>
+  <unicode hex="01A8"/>
+  <anchor x="169" y="0" name="bottom"/>
+  <anchor x="244" y="533" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+  </outline>
+</glyph>

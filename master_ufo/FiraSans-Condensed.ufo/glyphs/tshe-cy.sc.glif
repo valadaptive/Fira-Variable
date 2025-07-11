@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tshe-cy.sc" format="2">
+  <advance width="620"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="496" y="0" name="bottomright"/>
+  <anchor x="287" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="352" y="564" type="line"/>
+      <point x="11" y="564" type="line"/>
+      <point x="11" y="495" type="line"/>
+      <point x="344" y="495" type="line"/>
+    </contour>
+    <component base="shha-cy.sc" xOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

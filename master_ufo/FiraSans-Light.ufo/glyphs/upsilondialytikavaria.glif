@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilondialytikavaria" format="2">
+  <advance width="553"/>
+  <unicode hex="1FE2"/>
+  <anchor x="276.5" y="0.0" name="bottom"/>
+  <anchor x="273" y="517" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="dieresisgravecomb" xOffset="162"/>
+  </outline>
+</glyph>

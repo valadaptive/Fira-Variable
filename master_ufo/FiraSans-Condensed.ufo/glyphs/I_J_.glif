@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="495"/>
+  <unicode hex="0132"/>
+  <anchor x="368" y="-201" name="bottom"/>
+  <anchor x="158" y="0" name="ogonek"/>
+  <anchor x="377" y="689" name="top"/>
+  <anchor x="68" y="689" name="topleft"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="243"/>
+  </outline>
+</glyph>

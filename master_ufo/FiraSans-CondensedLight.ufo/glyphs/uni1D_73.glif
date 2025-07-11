@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1D73" format="2">
+  <advance width="348"/>
+  <unicode hex="1D73"/>
+  <anchor x="128" y="0" name="bottom"/>
+  <anchor x="196" y="517" name="top"/>
+  <outline>
+    <component base="rfishhook" xOffset="29"/>
+    <component base="asciitilde" xOffset="-60" yOffset="-52"/>
+  </outline>
+</glyph>

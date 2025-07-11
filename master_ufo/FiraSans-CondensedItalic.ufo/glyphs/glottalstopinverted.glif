@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopinverted" format="2">
+  <advance width="413"/>
+  <unicode hex="0296"/>
+  <anchor x="154" y="0" name="bottom"/>
+  <anchor x="241" y="739" name="top"/>
+  <outline>
+    <contour>
+      <point x="198" y="738" type="line"/>
+      <point x="149" y="392" type="line"/>
+      <point x="202" y="376" type="line" smooth="yes"/>
+      <point x="255" y="360"/>
+      <point x="284" y="327"/>
+      <point x="284" y="251" type="curve" smooth="yes"/>
+      <point x="284" y="143"/>
+      <point x="237" y="60"/>
+      <point x="154" y="60" type="curve" smooth="yes"/>
+      <point x="110" y="60"/>
+      <point x="80" y="81"/>
+      <point x="48" y="122" type="curve"/>
+      <point x="-3" y="76" type="line"/>
+      <point x="37" y="21"/>
+      <point x="85" y="-11"/>
+      <point x="154" y="-11" type="curve" smooth="yes"/>
+      <point x="281" y="-11"/>
+      <point x="374" y="101"/>
+      <point x="374" y="252" type="curve" smooth="yes"/>
+      <point x="374" y="365"/>
+      <point x="319" y="415"/>
+      <point x="263" y="430" type="curve" smooth="yes"/>
+      <point x="241" y="436" type="line"/>
+      <point x="285" y="747" type="line"/>
+    </contour>
+  </outline>
+</glyph>

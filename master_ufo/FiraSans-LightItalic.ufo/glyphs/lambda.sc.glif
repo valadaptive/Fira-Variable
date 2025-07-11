@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambda.sc" format="2">
+  <advance width="491"/>
+  <anchor x="209.17" y="0" name="bottom"/>
+  <anchor x="287.451" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="287" y="557" type="line"/>
+      <point x="285" y="557" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="1" y="0" type="line"/>
+      <point x="286" y="555" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="420" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

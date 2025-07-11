@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kturned" format="2">
+  <advance width="418"/>
+  <unicode hex="029E"/>
+  <anchor x="109" y="-201" name="bottom"/>
+  <anchor x="225" y="527" name="top"/>
+  <outline>
+    <contour>
+      <point x="-16" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="265" y="239" type="line"/>
+      <point x="140" y="527" type="line"/>
+      <point x="44" y="527" type="line"/>
+      <point x="174" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="206" y="-215" type="line"/>
+      <point x="293" y="-204" type="line"/>
+      <point x="396" y="527" type="line"/>
+      <point x="310" y="527" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adotmacron.sc" format="2">
+  <advance width="444"/>
+  <anchor x="184" y="0" name="bottom"/>
+  <anchor x="337" y="0" name="ogonek"/>
+  <anchor x="313" y="994" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="dotmacroncomb" xOffset="55" yOffset="38"/>
+  </outline>
+</glyph>

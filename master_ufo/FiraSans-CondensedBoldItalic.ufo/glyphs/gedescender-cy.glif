@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <advance width="481"/>
+  <unicode hex="04F7"/>
+  <anchor x="169" y="0" name="bottom"/>
+  <anchor x="242" y="533" name="top"/>
+  <outline>
+    <contour>
+      <point x="110" y="65" type="line"/>
+      <point x="94" y="-173" type="line"/>
+      <point x="212" y="-173" type="line"/>
+      <point x="240" y="44" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

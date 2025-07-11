@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hadescender-cy.sc" format="2">
+  <advance width="447"/>
+  <anchor x="185" y="0" name="bottom"/>
+  <anchor x="374" y="0" name="bottomright"/>
+  <anchor x="265" y="571" name="top"/>
+  <outline>
+    <component base="ha-cy.sc"/>
+    <component base="descStraight-cy" xOffset="311"/>
+  </outline>
+</glyph>

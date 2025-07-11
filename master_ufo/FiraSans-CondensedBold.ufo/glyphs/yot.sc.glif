@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yot.sc" format="2">
+  <advance width="251"/>
+  <anchor x="123" y="-215" name="bottom"/>
+  <anchor x="135" y="571" name="top"/>
+  <outline>
+    <component base="j.sc"/>
+  </outline>
+</glyph>

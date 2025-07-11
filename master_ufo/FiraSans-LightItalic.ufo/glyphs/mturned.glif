@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mturned" format="2">
+  <advance width="842"/>
+  <unicode hex="026F"/>
+  <anchor x="455" y="517" name="top"/>
+  <anchor x="387" y="0" name="bottom"/>
+  <outline>
+    <component base="m" xScale="-1" yScale="-1" xOffset="842" yOffset="517"/>
+  </outline>
+</glyph>

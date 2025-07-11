@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acaron.sc" format="2">
+  <advance width="417"/>
+  <anchor x="208" y="0" name="bottom"/>
+  <anchor x="399" y="0" name="ogonek"/>
+  <anchor x="210" y="794" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="caroncomb" xOffset="66" yOffset="40"/>
+  </outline>
+</glyph>

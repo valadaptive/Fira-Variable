@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gammaafrican" format="2">
+  <advance width="457"/>
+  <unicode hex="0194"/>
+  <anchor x="228" y="-201" name="bottom"/>
+  <anchor x="228" y="689" name="top"/>
+  <outline>
+    <contour>
+      <point x="229" y="-212" type="curve" smooth="yes"/>
+      <point x="299" y="-212"/>
+      <point x="333" y="-174"/>
+      <point x="333" y="-112" type="curve" smooth="yes"/>
+      <point x="333" y="-55"/>
+      <point x="315" y="-10"/>
+      <point x="281" y="68" type="curve"/>
+      <point x="230" y="131" type="line"/>
+      <point x="98" y="689" type="line"/>
+      <point x="1" y="689" type="line"/>
+      <point x="178" y="68" type="line"/>
+      <point x="229" y="8" type="line"/>
+      <point x="245" y="-38"/>
+      <point x="256" y="-75"/>
+      <point x="256" y="-105" type="curve" smooth="yes"/>
+      <point x="256" y="-129"/>
+      <point x="247" y="-142"/>
+      <point x="229" y="-142" type="curve" smooth="yes"/>
+      <point x="212" y="-142"/>
+      <point x="203" y="-129"/>
+      <point x="203" y="-105" type="curve" smooth="yes"/>
+      <point x="203" y="-75"/>
+      <point x="214" y="-38"/>
+      <point x="229" y="8" type="curve"/>
+      <point x="281" y="68" type="line"/>
+      <point x="456" y="689" type="line"/>
+      <point x="363" y="689" type="line"/>
+      <point x="230" y="131" type="line"/>
+      <point x="178" y="68" type="line"/>
+      <point x="143" y="-16"/>
+      <point x="126" y="-65"/>
+      <point x="126" y="-113" type="curve" smooth="yes"/>
+      <point x="126" y="-174"/>
+      <point x="160" y="-212"/>
+    </contour>
+  </outline>
+</glyph>

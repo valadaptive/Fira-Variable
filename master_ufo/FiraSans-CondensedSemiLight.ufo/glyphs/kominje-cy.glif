@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kominje-cy" format="2">
+  <advance width="709"/>
+  <unicode hex="050B"/>
+  <anchor x="355" y="0" name="bottom"/>
+  <anchor x="355" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="258" type="line"/>
+      <point x="358" y="258" type="line"/>
+      <point x="358" y="200" type="line"/>
+      <point x="388" y="200" type="line"/>
+      <point x="388" y="520" type="line"/>
+      <point x="358" y="520" type="line"/>
+      <point x="358" y="286" type="line"/>
+      <point x="123" y="286" type="line"/>
+      <point x="123" y="520" type="line"/>
+      <point x="93" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="-10" type="curve" smooth="yes"/>
+      <point x="576" y="-10"/>
+      <point x="651" y="73"/>
+      <point x="651" y="265" type="curve" smooth="yes"/>
+      <point x="651" y="304"/>
+      <point x="650" y="342"/>
+      <point x="646" y="379" type="curve"/>
+      <point x="616" y="379" type="line"/>
+      <point x="619" y="342"/>
+      <point x="620" y="304"/>
+      <point x="620" y="265" type="curve" smooth="yes"/>
+      <point x="620" y="76"/>
+      <point x="554" y="18"/>
+      <point x="491" y="18" type="curve" smooth="yes"/>
+      <point x="433" y="18"/>
+      <point x="388" y="58"/>
+      <point x="388" y="157" type="curve" smooth="yes"/>
+      <point x="388" y="420" type="line"/>
+      <point x="358" y="420" type="line"/>
+      <point x="358" y="156" type="line" smooth="yes"/>
+      <point x="358" y="45"/>
+      <point x="416" y="-10"/>
+    </contour>
+  </outline>
+</glyph>

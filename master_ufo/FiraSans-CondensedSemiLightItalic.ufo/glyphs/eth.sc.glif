@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth.sc" format="2">
+  <advance width="484"/>
+  <anchor x="186" y="0" name="bottom"/>
+  <anchor x="256" y="280" name="center"/>
+  <anchor x="291" y="560" name="top"/>
+  <outline>
+    <contour>
+      <point x="59" y="279" type="line"/>
+      <point x="248" y="279" type="line"/>
+      <point x="253" y="305" type="line"/>
+      <point x="108" y="305" type="line"/>
+      <point x="63" y="305" type="line"/>
+    </contour>
+    <component base="d.sc" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

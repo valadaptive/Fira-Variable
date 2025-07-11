@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron-cy.sc" format="2">
+  <advance width="505"/>
+  <anchor x="252" y="0" name="bottom"/>
+  <anchor x="439" y="0" name="bottomright"/>
+  <anchor x="253" y="564" name="top"/>
+  <outline>
+    <component base="ii-cy.sc"/>
+    <component base="macroncomb.sc" xOffset="114"/>
+  </outline>
+</glyph>

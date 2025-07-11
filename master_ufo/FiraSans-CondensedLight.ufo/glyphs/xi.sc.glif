@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xi.sc" format="2">
+  <advance width="358"/>
+  <anchor x="179" y="0" name="bottom"/>
+  <anchor x="179" y="557" name="top"/>
+  <outline>
+    <contour>
+      <point x="301" y="2" type="line"/>
+      <point x="49" y="2" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="264" y="297" type="line"/>
+      <point x="88" y="297" type="line"/>
+      <point x="88" y="295" type="line"/>
+      <point x="264" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="295" y="557" type="line"/>
+      <point x="49" y="557" type="line"/>
+      <point x="49" y="555" type="line"/>
+      <point x="295" y="555" type="line"/>
+    </contour>
+  </outline>
+</glyph>

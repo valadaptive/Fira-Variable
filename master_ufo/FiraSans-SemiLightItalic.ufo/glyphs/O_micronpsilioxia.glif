@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsilioxia" format="2">
+  <advance width="844"/>
+  <unicode hex="1F4C"/>
+  <anchor x="100" y="439" name="_top"/>
+  <anchor x="558" y="682" name="top"/>
+  <anchor x="463" y="0" name="bottom"/>
+  <anchor x="317" y="682" name="topleft"/>
+  <anchor x="750" y="682" name="topright"/>
+  <outline>
+    <component base="psilioxia.case"/>
+    <component base="Omicron" xOffset="154"/>
+  </outline>
+</glyph>

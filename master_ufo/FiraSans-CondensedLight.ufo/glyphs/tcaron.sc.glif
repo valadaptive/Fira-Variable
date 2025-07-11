@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcaron.sc" format="2">
+  <advance width="339"/>
+  <anchor x="169" y="0" name="bottom"/>
+  <anchor x="179" y="0" name="bottomright"/>
+  <anchor x="169" y="340" name="center"/>
+  <anchor x="169" y="557" name="top"/>
+  <outline>
+    <component base="t.sc"/>
+    <component base="caroncomb.sc" xOffset="50"/>
+  </outline>
+</glyph>

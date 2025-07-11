@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etaperispomeni" format="2">
+  <advance width="465"/>
+  <unicode hex="1FC6"/>
+  <anchor x="86" y="0" name="bottom"/>
+  <anchor x="235" y="533" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="perispomeni" xOffset="37"/>
+  </outline>
+</glyph>

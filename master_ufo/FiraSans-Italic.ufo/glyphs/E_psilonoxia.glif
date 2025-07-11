@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonoxia" format="2">
+  <advance width="631"/>
+  <unicode hex="1FC9"/>
+  <anchor x="242" y="689" name="_topleft"/>
+  <anchor x="353" y="0" name="bottom"/>
+  <anchor x="511" y="0" name="ogonek"/>
+  <anchor x="449" y="689" name="top"/>
+  <anchor x="241" y="689" name="topleft"/>
+  <outline>
+    <component base="oxia.case"/>
+    <component base="E" xOffset="102"/>
+  </outline>
+</glyph>

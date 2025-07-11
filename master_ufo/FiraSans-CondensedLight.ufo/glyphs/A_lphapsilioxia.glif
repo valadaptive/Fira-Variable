@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsilioxia" format="2">
+  <advance width="484"/>
+  <unicode hex="1F0C"/>
+  <anchor x="128" y="680" name="_topleft"/>
+  <anchor x="249" y="680" name="top"/>
+  <anchor x="249" y="0" name="bottom"/>
+  <anchor x="457" y="0" name="ogonek"/>
+  <anchor x="161" y="680" name="topleft"/>
+  <outline>
+    <component base="psilioxia.case"/>
+    <component base="Alpha" xOffset="15"/>
+  </outline>
+</glyph>

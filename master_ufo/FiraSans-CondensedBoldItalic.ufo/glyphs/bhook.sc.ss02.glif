@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bhook.sc.ss02" format="2">
+  <advance width="447"/>
+  <anchor x="192" y="0" name="bottom"/>
+  <anchor x="272" y="570" name="top"/>
+  <outline>
+    <component base="be-cy.sc"/>
+  </outline>
+</glyph>

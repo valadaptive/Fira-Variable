@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphadasiaypogegrammeni" format="2">
+  <advance width="600"/>
+  <unicode hex="1F81"/>
+  <anchor x="373" y="-190" name="bottom"/>
+  <anchor x="242" y="802" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="dasia" xOffset="-60"/>
+    <component base="ypogegrammenicomb" xOffset="63"/>
+  </outline>
+</glyph>

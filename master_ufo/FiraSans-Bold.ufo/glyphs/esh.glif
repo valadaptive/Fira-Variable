@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esh" format="2">
+  <advance width="338"/>
+  <unicode hex="0283"/>
+  <anchor x="72" y="-215" name="bottom"/>
+  <anchor x="282" y="744" name="top"/>
+  <outline>
+    <contour>
+      <point x="268" y="534" type="line"/>
+      <point x="70" y="534" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER2" xOffset="40"/>
+    <component base="hookHELPER" xOffset="-134"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls" format="2">
+  <advance width="467"/>
+  <unicode hex="00DF"/>
+  <outline>
+    <contour>
+      <point x="237" y="733" type="curve"/>
+      <point x="158" y="733"/>
+      <point x="102" y="670"/>
+      <point x="102" y="571" type="curve"/>
+      <point x="102" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="571" type="line"/>
+      <point x="104" y="669"/>
+      <point x="159" y="731"/>
+      <point x="237" y="731" type="curve"/>
+      <point x="309" y="731"/>
+      <point x="350" y="685"/>
+      <point x="350" y="612" type="curve"/>
+      <point x="350" y="507"/>
+      <point x="251" y="490"/>
+      <point x="251" y="416" type="curve"/>
+      <point x="251" y="324"/>
+      <point x="412" y="327"/>
+      <point x="412" y="142" type="curve"/>
+      <point x="412" y="49"/>
+      <point x="372" y="-8"/>
+      <point x="303" y="-8" type="curve"/>
+      <point x="268" y="-8"/>
+      <point x="248" y="2"/>
+      <point x="229" y="15" type="curve"/>
+      <point x="228" y="13" type="line"/>
+      <point x="246" y="1"/>
+      <point x="267" y="-10"/>
+      <point x="303" y="-10" type="curve"/>
+      <point x="373" y="-10"/>
+      <point x="414" y="48"/>
+      <point x="414" y="142" type="curve"/>
+      <point x="414" y="328"/>
+      <point x="253" y="325"/>
+      <point x="253" y="416" type="curve"/>
+      <point x="253" y="489"/>
+      <point x="352" y="506"/>
+      <point x="352" y="612" type="curve"/>
+      <point x="352" y="686"/>
+      <point x="310" y="733"/>
+    </contour>
+  </outline>
+</glyph>

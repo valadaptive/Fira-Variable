@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwahook" format="2">
+  <advance width="857"/>
+  <unicode hex="025A"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="269" y="534" name="top"/>
+  <outline>
+    <component base="schwa"/>
+    <component base="hookrightHELPER" xOffset="425"/>
+  </outline>
+</glyph>

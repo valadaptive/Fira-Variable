@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilontonos" format="2">
+  <advance width="917"/>
+  <unicode hex="038E"/>
+  <anchor x="297" y="696" name="_topleft"/>
+  <anchor x="607" y="0" name="bottom"/>
+  <anchor x="607" y="696" name="top"/>
+  <anchor x="287" y="696" name="topleft"/>
+  <outline>
+    <component base="tonos.case"/>
+    <component base="Y" xOffset="297"/>
+  </outline>
+</glyph>

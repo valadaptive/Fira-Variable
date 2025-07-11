@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kastroke-cy" format="2">
+  <advance width="402"/>
+  <unicode hex="049F"/>
+  <outline>
+    <contour>
+      <point x="97" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="127" y="264" type="line"/>
+      <point x="197" y="264" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="222" y="279" type="line"/>
+      <point x="360" y="520" type="line"/>
+      <point x="326" y="520" type="line"/>
+      <point x="197" y="290" type="line"/>
+      <point x="127" y="290" type="line"/>
+      <point x="127" y="739" type="line"/>
+      <point x="97" y="734" type="line"/>
+    </contour>
+    <contour>
+      <point x="35" y="585" type="line"/>
+      <point x="97" y="585" type="line"/>
+      <point x="271" y="585" type="line"/>
+      <point x="271" y="612" type="line"/>
+      <point x="35" y="612" type="line"/>
+    </contour>
+  </outline>
+</glyph>

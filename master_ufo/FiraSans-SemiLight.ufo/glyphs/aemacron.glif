@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aemacron" format="2">
+  <advance width="845"/>
+  <unicode hex="01E3"/>
+  <anchor x="417" y="0" name="bottom"/>
+  <anchor x="425" y="712" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="macroncomb" xOffset="286"/>
+  </outline>
+</glyph>

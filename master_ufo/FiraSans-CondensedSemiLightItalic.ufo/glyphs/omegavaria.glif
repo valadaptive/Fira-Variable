@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegavaria" format="2">
+  <advance width="633"/>
+  <unicode hex="1F7C"/>
+  <anchor x="289" y="0" name="bottom"/>
+  <anchor x="398" y="767" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="gravecomb" xOffset="222"/>
+  </outline>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zedescender-cy" format="2">
+  <advance width="515"/>
+  <unicode hex="0498"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="320" y="689" name="top"/>
+  <outline>
+    <component base="Ze-cy"/>
+    <component base="descRound-cy" xOffset="87"/>
+  </outline>
+</glyph>

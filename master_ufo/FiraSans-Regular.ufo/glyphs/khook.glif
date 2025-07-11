@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="khook" format="2">
+  <advance width="512"/>
+  <unicode hex="0199"/>
+  <outline>
+    <contour>
+      <point x="490" y="527" type="line"/>
+      <point x="387" y="527" type="line"/>
+      <point x="193" y="288" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="296" y="294" type="line"/>
+    </contour>
+    <contour>
+      <point x="187" y="538" type="line"/>
+      <point x="95" y="527" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+    </contour>
+    <component base="hookaboveHELPER" xOffset="65"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
+</glyph>

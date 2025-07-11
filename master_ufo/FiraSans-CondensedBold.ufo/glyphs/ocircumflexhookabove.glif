@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexhookabove" format="2">
+  <advance width="500"/>
+  <unicode hex="1ED5"/>
+  <anchor x="250" y="0" name="bottom"/>
+  <anchor x="360" y="0" name="ogonek"/>
+  <anchor x="393" y="1026" name="top"/>
+  <anchor x="340" y="682" name="topright"/>
+  <anchor x="175" y="682" name="topleft"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexhookabove" xOffset="50" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>top</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexhookabove</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

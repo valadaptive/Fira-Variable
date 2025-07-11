@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildeacute" format="2">
+  <advance width="687"/>
+  <unicode hex="1E4C"/>
+  <anchor x="306" y="0" name="bottom"/>
+  <anchor x="432" y="927" name="top"/>
+  <anchor x="162" y="679" name="topleft"/>
+  <anchor x="577" y="680" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildeacute.case" xOffset="194"/>
+  </outline>
+</glyph>

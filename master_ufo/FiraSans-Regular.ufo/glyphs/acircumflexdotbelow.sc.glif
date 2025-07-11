@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow.sc" format="2">
+  <advance width="505"/>
+  <anchor x="253" y="-202" name="bottom"/>
+  <anchor x="479" y="0" name="ogonek"/>
+  <anchor x="253" y="564" name="top"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="circumflexcomb.sc" xOffset="57"/>
+    <component base="dotbelowcomb" xOffset="156"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottom</string>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

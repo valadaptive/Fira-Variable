@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadasia" format="2">
+  <advance width="258"/>
+  <unicode hex="1F31"/>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="98" y="767" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasia" xOffset="30"/>
+  </outline>
+</glyph>

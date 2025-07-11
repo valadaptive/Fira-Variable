@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hahook-cy.sc" format="2">
+  <advance width="499"/>
+  <anchor x="208" y="-201" name="bottom"/>
+  <anchor x="357" y="0" name="bottomright"/>
+  <anchor x="198" y="564" name="top"/>
+  <outline>
+    <contour>
+      <point x="301" y="71" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="414" y="0" type="line"/>
+      <point x="414" y="71" type="line"/>
+    </contour>
+    <component base="hookHELPER" xOffset="159"/>
+    <component base="x.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

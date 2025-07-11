@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bhook" format="2">
+  <advance width="787"/>
+  <unicode hex="0181"/>
+  <anchor x="515" y="696" name="top"/>
+  <outline>
+    <component base="B" xOffset="177"/>
+    <component base="hookaboveHELPER2.case"/>
+  </outline>
+</glyph>

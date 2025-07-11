@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fhook" format="2">
+  <advance width="405"/>
+  <unicode hex="0191"/>
+  <anchor x="127" y="0" name="bottom"/>
+  <anchor x="227" y="696" name="top"/>
+  <outline>
+    <component base="F"/>
+    <component base="hookHELPER.case" xOffset="-169"/>
+  </outline>
+</glyph>

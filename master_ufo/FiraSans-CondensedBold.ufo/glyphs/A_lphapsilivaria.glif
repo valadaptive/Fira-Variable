@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsilivaria" format="2">
+  <advance width="857"/>
+  <unicode hex="1F0A"/>
+  <anchor x="442" y="695" name="_topleft"/>
+  <anchor x="617" y="696" name="top"/>
+  <anchor x="617" y="0" name="bottom"/>
+  <anchor x="795" y="0" name="ogonek"/>
+  <anchor x="484" y="696" name="topleft"/>
+  <outline>
+    <component base="psilivaria.case"/>
+    <component base="Alpha" xOffset="358"/>
+  </outline>
+</glyph>

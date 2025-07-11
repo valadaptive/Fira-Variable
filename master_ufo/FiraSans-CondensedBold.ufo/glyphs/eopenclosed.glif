@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenclosed" format="2">
+  <advance width="475"/>
+  <unicode hex="029A"/>
+  <anchor x="229" y="0" name="bottom"/>
+  <anchor x="229" y="533" name="top"/>
+  <outline>
+    <component base="eopenreversedclosed" xScale="-1" xOffset="475"/>
+  </outline>
+</glyph>

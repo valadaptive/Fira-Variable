@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrossedtail" format="2">
+  <advance width="307"/>
+  <unicode hex="029D"/>
+  <anchor x="14" y="-201" name="bottom"/>
+  <anchor x="222" y="776" name="top"/>
+  <outline>
+    <component base="jcrossedtaildotless"/>
+    <component base="dotaccentcomb" xOffset="62"/>
+  </outline>
+</glyph>

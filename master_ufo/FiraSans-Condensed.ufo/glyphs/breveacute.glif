@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveacute" format="2">
+  <advance width="363"/>
+  <anchor x="159" y="731" name="top"/>
+  <anchor x="152" y="527" name="_top"/>
+  <outline>
+    <component base="brevecomb.case" yOffset="-161"/>
+    <component base="acutedbl" xOffset="114" yOffset="107"/>
+  </outline>
+</glyph>

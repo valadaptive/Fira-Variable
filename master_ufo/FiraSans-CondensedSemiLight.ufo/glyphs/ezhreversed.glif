@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ezhreversed" format="2">
+  <advance width="368"/>
+  <unicode hex="01B9"/>
+  <anchor x="184" y="-193" name="bottom"/>
+  <anchor x="184" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="194" y="-199" type="curve" smooth="yes"/>
+      <point x="264" y="-199"/>
+      <point x="313" y="-169"/>
+      <point x="353" y="-116" type="curve"/>
+      <point x="334" y="-99" type="line"/>
+      <point x="295" y="-151"/>
+      <point x="252" y="-171"/>
+      <point x="194" y="-171" type="curve" smooth="yes"/>
+      <point x="106" y="-171"/>
+      <point x="59" y="-101"/>
+      <point x="59" y="-6" type="curve" smooth="yes"/>
+      <point x="59" y="105"/>
+      <point x="109" y="167"/>
+      <point x="220" y="167" type="curve" smooth="yes"/>
+      <point x="264" y="167" type="line"/>
+      <point x="235" y="195" type="line"/>
+      <point x="220" y="195" type="line" smooth="yes"/>
+      <point x="86" y="195"/>
+      <point x="28" y="111"/>
+      <point x="28" y="-5" type="curve" smooth="yes"/>
+      <point x="28" y="-116"/>
+      <point x="91" y="-199"/>
+    </contour>
+    <contour>
+      <point x="264" y="195" type="line"/>
+      <point x="86" y="492" type="line"/>
+      <point x="338" y="492" type="line"/>
+      <point x="338" y="520" type="line"/>
+      <point x="48" y="520" type="line"/>
+      <point x="48" y="495" type="line"/>
+      <point x="233" y="195" type="line"/>
+      <point x="264" y="167" type="line"/>
+    </contour>
+  </outline>
+</glyph>

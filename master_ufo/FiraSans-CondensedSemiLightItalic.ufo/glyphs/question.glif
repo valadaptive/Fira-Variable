@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance width="372"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="253" y="692" type="curve" smooth="yes"/>
+      <point x="193" y="692"/>
+      <point x="145" y="665"/>
+      <point x="94" y="606" type="curve"/>
+      <point x="113" y="589" type="line"/>
+      <point x="159" y="639"/>
+      <point x="198" y="665"/>
+      <point x="252" y="665" type="curve" smooth="yes"/>
+      <point x="309" y="665"/>
+      <point x="339" y="631"/>
+      <point x="339" y="576" type="curve" smooth="yes"/>
+      <point x="339" y="420"/>
+      <point x="145" y="420"/>
+      <point x="145" y="267" type="curve" smooth="yes"/>
+      <point x="145" y="251"/>
+      <point x="148" y="232"/>
+      <point x="152" y="214" type="curve"/>
+      <point x="179" y="221" type="line"/>
+      <point x="177" y="233"/>
+      <point x="175" y="248"/>
+      <point x="175" y="269" type="curve" smooth="yes"/>
+      <point x="175" y="406"/>
+      <point x="370" y="408"/>
+      <point x="370" y="576" type="curve" smooth="yes"/>
+      <point x="370" y="644"/>
+      <point x="328" y="692"/>
+    </contour>
+    <component base="period" xOffset="103" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>
