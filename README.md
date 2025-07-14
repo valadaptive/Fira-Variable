@@ -1,8 +1,6 @@
 # Fira (but variable)
 
-This is a variable version of [Fira](https://github.com/mozilla/Fira) assembled from the original sources. Unlike [Firava](https://github.com/hellogreg/firava), it has both weight and width axes.
-
-It supports only the characters that both Fira and Fira Condensed cover, which means Latin only.
+This is a variable version of [Fira](https://github.com/mozilla/Fira) assembled from the original sources. Unlike [Firava](https://github.com/hellogreg/firava), it has both weight and width axes, and has full Cyrillic and Greek coverage.
 
 To build the font, install [fontmake](https://github.com/googlefonts/fontmake) and then run `build.sh`. The output will be in `variable_ttf` and `variable_otf`.
 
